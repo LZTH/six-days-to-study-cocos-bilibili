@@ -1,0 +1,323 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+
+
+<script>
+
+    // // 使用let 只能在代码块内使用
+    // for (var a = 0; a < 10; a++) {
+    // }
+    // console.log(a)
+    //
+    // for (let b = 0; b < 10; i++) {
+    // }
+    // console.log(b)
+
+    // // 使用let变量就不能重复声明
+    // var a = 1;
+    // var a = 2;
+    //
+    // let b = 3;
+    // let b = 4;
+
+    // 使用let 可以避免变量提升
+    // console.log(a)
+    // var  a = "apple";
+    //
+    //
+    // console.log(b)
+    // let b = "banana";
+
+    // 用const 声明的变量不可改变，声明时必须赋值
+    // const PI = "3.1415926";
+    // PI = "3.1"
+    // const PI;
+
+    // 暂时性死区
+    // var PI = "3.1415926";
+    // if (true) {
+    //     console.log(PI)
+    //     let  PI;
+    // }
+
+    // let s1 = Symbol();
+    // let s2 = Symbol('another symbol')
+    // let s3 = Symbol('another symbol')
+    //
+    // console.log(s1 === s2)
+    // console.log(s2 === s3)
+
+    // const PROP_NAME = Symbol();
+    // const PROP_AGE = Symbol();
+    //
+    // let obj = {
+    //     [PROP_NAME] : "一斤代码"
+    // }
+    // obj[PROP_AGE] = 18;
+    //
+    // console.log(obj[PROP_NAME])
+    // console.log(obj[PROP_AGE])
+
+    // let obj = {
+    //     [Symbol('name')]: '一斤代码',
+    //     age: 18,
+    //     title: 'Engineer'
+    // }
+    //
+    // console.log(Object.keys(obj))
+    //
+    // console.log(Object.getOwnPropertySymbols(obj))
+    //
+    // console.log(Reflect.ownKeys(obj) )
+
+    // const TYPE_AUDIO = 'AUDIO'
+    // const TYPE_VIDEO = 'VIDEO'
+    // const TYPE_IMAGE = 'IMAGE'
+
+    // const TYPE_AUDIO = Symbol()
+    // const TYPE_VIDEO = Symbol()
+    // const TYPE_IMAGE = Symbol()
+    //
+    // console.log(TYPE_AUDIO === TYPE_AUDIO)
+
+    //let[a,b,c] = [1,2,3]
+
+    //let[a ,[b],c] = [1,[2],3]
+
+    //let [a, , b] = [1, 2, 3];
+
+    //let [a, ...b] = [1, 2, 3];
+
+    // let[a=3,b=a] = []
+
+    // let [a=3,b] = [4,6]
+
+    // let [a = 2] = [undefined]
+    //
+    // let [foo] = [];
+
+    // 字符串的结构赋值
+    //  let[a,b,c,d,e] = "hello"
+
+    // 对象模型的解构
+
+    //let{foo,bar} = {foo:"aaa",bar:"bbb"}
+
+    // let obj = {p: ['hello', {y: 'world'}] };
+    //
+    // let{p:[x,{y}]} = obj;
+    // console.log(x);
+    // console.log(y);
+
+    // let obj = {p: ['hello', {y: 'world'}] };
+    // let {p: [x, {  }] } = obj;
+    // console.log(x)
+
+    // 不完全解构
+    // let obj = {p: [{y: 'world'}] };
+    // let{p:[{y},x]} = obj;
+    // console.log(y)
+    // console.log(x)
+
+    // 剩余运算符
+    //let {a, b, ...rest} = {a: 10, b: 20, c: 30, d: 40};
+
+    // 解构默认值
+    // let{a=10,b=5} = {a:3}
+
+    // 命名函数
+    // function f1() {
+    //     console.log("这个函数就是命名函数");
+    // }
+    // f1()
+    //
+    // // 匿名函数
+    // let f2 = function () {
+    //     console.log("这个函数就是匿名函数")
+    // }
+    // f2();
+    //
+    // // 自执行函数
+    // (function (n1,n2) {
+    //     console.log("这是匿名函数的自执行的第一种写法，结果为:"+(n1+n2))
+    // })(10,100);
+    //
+    // // 自执行函数第二种写法
+    // (function (n1,n2) {
+    //     console.log("这是匿名函数的自执行的第二种写法，结果为:"+(n1+n2))
+    // }(10,100));
+
+    // let f =  x => x+x
+    // console.log( f(100) )
+
+    // let f = (a,b) =>  {
+    //     let result = a + b;
+    //     return result;
+    // }
+    // let result = f(1,2);
+    // console.log(result)
+
+    // 箭头函数返回对象
+    // let f = (id ,name) => ({id:id,name:name});
+    // let result =  f(18,"播仔")
+    // console.log(result)
+
+    // var str = "window"
+    //
+    // const obj = {
+    //     str:"obj",
+    //     nativeFn: function() {
+    //         console.log(this.str,"当前词法作用域中的this")
+    //         return function () {
+    //             console.log("原生函数",this.str)
+    //         }
+    //     },
+    //     arrowFn: function() {
+    //         console.log(this.str,"当前词法作用域中的this")
+    //         return () => {
+    //             console.log("箭头函数",this.str)
+    //         }
+    //     },
+    // }
+    //
+    // const  obj2 = {
+    //     str : "obj2"
+    // }
+    //
+    // var nativeFn = obj.nativeFn();
+    // var arrowFn = obj.arrowFn();
+    // console.log("函数调用一 ***************")
+    // nativeFn();
+    // arrowFn();
+    //
+    // console.log("函数调用二 ***************")
+    // nativeFn.call(obj2)
+    // arrowFn.call(obj2)
+
+
+
+    // let random = Math.random();
+    // console.log(random)
+
+    // // 向上取整
+    // console.log(Math.ceil(12.03))
+    // console.log(Math.ceil(-12.92));//-12
+    //
+    // // 向下取整
+    // console.log(Math.floor(12.3));//12
+    // console.log(Math.floor(-12.9));//-13
+    //
+    // //四舍五入
+    // console.log(Math.round(16.3)) // 16
+    // console.log(Math.round(16.5)) // 17
+
+
+    // console.log(Math.round(-16.5))   // -16
+    // console.log(Math.round(-16.51)) // -17
+
+    // 获取 一个 0 -9 之间随机整数
+    // for (let i = 0; i < 20; i++) {
+    //     console.log(Math.floor( Math.random() * 10))
+    // }
+
+
+    // console.log(Math.abs(-12))
+
+    // 圆周率和三角函数
+    // let a = [100,100];
+    // let b = [200,200];
+    //
+    // let x = Math.abs(a[0] - b[0])
+    // let y = Math.abs(a[1] - b[1])
+    // let z = Math.sqrt(x*x + y*y);
+    //
+    // let angel =  Math.asin(y/z)/Math.PI * 180;
+    // console.log(Math.round(angel))
+    //
+    // // 计算幂
+    // console.log( Math.pow(10,2))
+    // // 开根
+    // console.log(Math.sqrt(100))
+
+    // 使用string作为key值
+    // let strMap = new Map();
+    // strMap.set("str","string类型作为key值");
+    // let strValue = strMap.get("str");
+    // console.log(strValue)
+    //
+    // 使用对象作为key值
+    // let objMap = new Map();
+    // let obj = {};
+    // objMap.set(obj,"object类型作为key值");
+    // let objValue = objMap.get(obj);
+    // console.log(objValue)
+    //
+    // console.log(objMap.size);
+    //
+    // //array 转 set
+    // let mySet = new Set(["value1","value2","value3"])
+    // console.log(mySet)
+    //
+    // // set 转 array
+    // let myArray = [...mySet];
+    // console.log(myArray);
+
+    // let mySet = new Set([1, 2, 3, 4, 4]);
+    // console.log([... mySet])
+
+    // let a = new Set([1, 2, 3]);
+    // let b = new Set([4, 3, 2]);
+    // let union = new Set([...a,...b]);
+    // console.log(union)
+
+    // let a = new Set([1, 2, 3]);
+    // let b = new Set([4, 3, 2]);
+    //
+    // let interesct = new Set([...a].filter(x => b.has(x)))
+    // console.log(interesct)
+
+    // 差集
+    // let a = new Set([1, 2, 3]);
+    // let b = new Set([4, 3, 2]);
+    //
+    // let difference = new Set([...a].filter(x => !b.has(x)))
+    // console.log(difference)
+
+    // ES 6 class 关键字
+    // class Point {
+    //     constructor(x,y) {
+    //         this.x = x;
+    //         this.y = y;
+    //     }
+    //     toString () {
+    //         return "("+ this.x +","+ this.y +")"
+    //     }
+    // }
+    //
+    // let point = new Point(100,200);
+    // console.log(point.toString())
+
+    // 函数嵌套实现面向对象
+    function createPersion(name) {
+        let obj = new Object();
+        obj.name = name;
+        obj.showName = function () {
+            alert(this.name)
+        }
+        return obj;
+    }
+    let p1 = createPersion("播仔");
+    p1.showName();
+
+
+
+
+</script>
+
+</body>
+</html>
