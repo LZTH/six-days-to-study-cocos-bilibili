@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ropeCow2",
+    "texture": "28247fce-76f3-4d70-8e55-b4e2f9039201",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      204,
+      653
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      204,
+      653
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

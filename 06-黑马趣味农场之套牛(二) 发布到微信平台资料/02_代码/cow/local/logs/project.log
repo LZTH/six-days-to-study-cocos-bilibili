@@ -1,0 +1,5195 @@
+2020-04-21T01:09:54.078Z - normal: Load ~/.CocosCreator/settings.json
+2020-04-21T01:09:54.243Z - normal: Initializing Asset Database
+2020-04-21T01:09:54.248Z - normal: checking language setting...
+2020-04-21T01:09:54.248Z - normal: Language: zh
+2020-04-21T01:09:55.345Z - success: preview server running at http://localhost:7456
+2020-04-21T01:09:55.350Z - success: protocol editor-framework registered
+2020-04-21T01:09:55.350Z - success: protocol app registered
+2020-04-21T01:09:55.350Z - success: protocol theme registered
+2020-04-21T01:09:55.350Z - success: protocol packages registered
+2020-04-21T01:09:55.350Z - success: protocol uuid registerred
+2020-04-21T01:09:55.351Z - success: protocol db registerred
+2020-04-21T01:09:55.351Z - success: protocol thumbnail registerred
+2020-04-21T01:09:55.355Z - success: protocol unpack registerred
+2020-04-21T01:09:55.355Z - success: protocol disable-commonjs registerred
+2020-04-21T01:09:55.438Z - normal: connected!
+2020-04-21T01:09:55.440Z - normal: Check project C:\Users\le\Desktop\cocos_creator\demo\cow
+2020-04-21T01:09:55.445Z - normal: Initializing project C:\Users\le\Desktop\cocos_creator\demo\cow
+2020-04-21T01:09:55.705Z - success: adapters loaded
+2020-04-21T01:09:55.711Z - success: asset-db-debugger loaded
+2020-04-21T01:09:55.952Z - success: fb-audience-network loaded
+2020-04-21T01:09:56.055Z - success: fb-live-stream loaded
+2020-04-21T01:09:56.060Z - success: google-play-instant loaded
+2020-04-21T01:09:56.074Z - success: huawei-runtime loaded
+2020-04-21T01:09:56.079Z - success: jkw-adapter loaded
+2020-04-21T01:09:56.081Z - success: jsb-adapter loaded
+2020-04-21T01:09:56.091Z - success: oppo-runtime loaded
+2020-04-21T01:09:56.098Z - success: package-manager loaded
+2020-04-21T01:09:56.104Z - success: runtime-dev-tools loaded
+2020-04-21T01:09:56.114Z - success: sdkbox loaded
+2020-04-21T01:09:56.119Z - success: ui-kit-preview-extra loaded
+2020-04-21T01:09:56.126Z - success: ui-kit-preview loaded
+2020-04-21T01:09:56.139Z - success: vivo-runtime loaded
+2020-04-21T01:09:56.144Z - success: alipay-minigame loaded
+2020-04-21T01:09:56.240Z - success: assets loaded
+2020-04-21T01:09:56.245Z - success: baidugame-opendata loaded
+2020-04-21T01:09:56.251Z - success: baidugame loaded
+2020-04-21T01:09:56.257Z - success: builder loaded
+2020-04-21T01:09:56.901Z - success: cocos-services loaded
+2020-04-21T01:09:56.907Z - success: console loaded
+2020-04-21T01:09:56.928Z - success: fb-instant-games loaded
+2020-04-21T01:09:56.931Z - success: game-window loaded
+2020-04-21T01:09:56.933Z - success: google-instant-games loaded
+2020-04-21T01:09:56.938Z - success: hierarchy loaded
+2020-04-21T01:09:56.942Z - success: inspector loaded
+2020-04-21T01:09:59.805Z - success: cpk-publish loaded
+2020-04-21T01:09:59.807Z - success: keystore loaded
+2020-04-21T01:09:59.890Z - success: node-library loaded
+2020-04-21T01:10:00.019Z - success: open-recent-items loaded
+2020-04-21T01:10:00.154Z - success: package-asset loaded
+2020-04-21T01:10:00.182Z - success: preferences loaded
+2020-04-21T01:10:00.184Z - success: project-exporter loaded
+2020-04-21T01:10:00.187Z - success: project-importer loaded
+2020-04-21T01:10:00.190Z - success: project-settings loaded
+2020-04-21T01:10:00.265Z - success: scene loaded
+2020-04-21T01:10:00.291Z - success: simulator-debugger loaded
+2020-04-21T01:10:00.292Z - success: sprite-editor loaded
+2020-04-21T01:10:00.296Z - success: store loaded
+2020-04-21T01:10:00.302Z - success: timeline loaded
+2020-04-21T01:10:00.573Z - success: wechatgame-opendata loaded
+2020-04-21T01:10:00.585Z - success: wechatgame loaded
+2020-04-21T01:10:00.977Z - success: xiaomi-runtime loaded
+2020-04-21T01:10:04.407Z - info: Cocos Service load base data!
+2020-04-21T01:10:07.386Z - normal: Initializing Cocos2d
+2020-04-21T01:10:08.457Z - normal: Initializing engine extends
+2020-04-21T01:10:10.242Z - normal: Loading packages
+2020-04-21T01:10:10.256Z - normal: Watching packages
+2020-04-21T01:10:11.746Z - normal: Run Application
+2020-04-21T01:11:47.192Z - normal: Start building with options : {
+  "actualPlatform": "wechatgame",
+  "android": {
+    "packageName": ""
+  },
+  "android-instant": {
+    "REMOTE_SERVER_ROOT": "",
+    "host": "",
+    "packageName": "",
+    "pathPattern": "",
+    "recordPath": "",
+    "scheme": "https",
+    "skipRecord": false
+  },
+  "apiLevel": "",
+  "appABIs": [],
+  "appBundle": false,
+  "buildPath": "C:\\Users\\le\\Desktop\\cocos_creator\\demo\\cow\\build",
+  "debug": false,
+  "dest": "C:\\Users\\le\\Desktop\\cocos_creator\\demo\\cow\\build\\wechatgame",
+  "embedWebDebugger": false,
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [],
+  "fb-instant-games": {},
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "ios": {
+    "packageName": ""
+  },
+  "mac": {
+    "packageName": ""
+  },
+  "md5Cache": false,
+  "mergeStartScene": false,
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "",
+  "platform": "mini-game",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "scenes": [
+    "833b82b4-271e-4b1c-9565-f0a66971ed83"
+  ],
+  "sourceMaps": false,
+  "startScene": "833b82b4-271e-4b1c-9565-f0a66971ed83",
+  "template": "link",
+  "title": "cow",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "auto",
+  "win32": {},
+  "xxteaKey": "4f22970e-5e0f-4b",
+  "zipCompressJs": true,
+  "project": "C:\\Users\\le\\Desktop\\cocos_creator\\demo\\cow",
+  "projectName": "cow",
+  "debugBuildWorker": false
+}
+2020-04-21T01:11:47.193Z - normal: Building C:\Users\le\Desktop\cocos_creator\demo\cow
+2020-04-21T01:11:47.193Z - normal: Destination C:\Users\le\Desktop\cocos_creator\demo\cow\build\wechatgame
+2020-04-21T01:11:47.284Z - normal: Delete C:\Users\le\Desktop\cocos_creator\demo\cow\build\wechatgame\**\*,C:\Users\le\Desktop\cocos_creator\demo\cow\build\wechatgame\subpackages/**/*,!C:\Users\le\Desktop\cocos_creator\demo\cow\build\wechatgame\game.json,!C:\Users\le\Desktop\cocos_creator\demo\cow\build\wechatgame\project.config.json
+2020-04-21T01:11:49.590Z - normal: Start building assets
+2020-04-21T01:11:49.590Z - normal: Start spawn build-worker
+2020-04-21T01:11:50.391Z - normal: Finish spawn build-worker
+2020-04-21T01:11:50.392Z - normal: Start init build-worker
+2020-04-21T01:11:53.389Z - normal: Finish init build-worker
+2020-04-21T01:11:53.389Z - normal: Start build-assets in worker
+2020-04-21T01:11:54.306Z - normal: Finish build-assets in worker
+2020-04-21T01:11:54.319Z - normal: Finish building assets
+2020-04-21T01:11:54.362Z - normal: Start building plugin scripts
+2020-04-21T01:11:56.785Z - normal: Built wechatgame successfully
+2020-04-21T01:12:03.056Z - normal: Initializing...
+
+2020-04-21T01:12:03.101Z - normal: idePortFile: C:\Users\le\AppData\Local\微信开发者工具\User Data\Default\.ide
+
+2020-04-21T01:12:04.129Z - normal: starting ide...
+
+2020-04-21T01:12:10.804Z - normal: IDE server has started, listening on http://127.0.0.1:22022
+
+2020-04-21T01:12:10.807Z - normal: initialization finished
+
+2020-04-21T01:12:12.795Z - normal: open IDE success
+
+2020-04-21T01:13:20.321Z - normal: Initializing...
+
+2020-04-21T01:13:20.371Z - normal: idePortFile: C:\Users\le\AppData\Local\微信开发者工具\User Data\Default\.ide
+
+2020-04-21T01:13:21.400Z - normal: starting ide...
+
+2020-04-21T01:13:28.995Z - normal: IDE server has started, listening on http://127.0.0.1:51431
+
+2020-04-21T01:13:28.998Z - normal: initialization finished
+
+2020-04-21T01:13:30.711Z - normal: open IDE success
+
+2020-04-21T01:27:39.117Z - normal: Start building with options : {
+  "actualPlatform": "wechatgame",
+  "android": {
+    "packageName": ""
+  },
+  "android-instant": {
+    "REMOTE_SERVER_ROOT": "",
+    "host": "",
+    "packageName": "",
+    "pathPattern": "",
+    "recordPath": "",
+    "scheme": "https",
+    "skipRecord": false
+  },
+  "apiLevel": "",
+  "appABIs": [],
+  "appBundle": false,
+  "buildPath": "C:\\Users\\le\\Desktop\\cocos_creator\\demo\\cow\\build",
+  "debug": false,
+  "dest": "C:\\Users\\le\\Desktop\\cocos_creator\\demo\\cow\\build\\wechatgame",
+  "embedWebDebugger": false,
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [],
+  "fb-instant-games": {},
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "ios": {
+    "packageName": ""
+  },
+  "mac": {
+    "packageName": ""
+  },
+  "md5Cache": false,
+  "mergeStartScene": false,
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "",
+  "platform": "mini-game",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "scenes": [
+    "833b82b4-271e-4b1c-9565-f0a66971ed83"
+  ],
+  "sourceMaps": false,
+  "startScene": "833b82b4-271e-4b1c-9565-f0a66971ed83",
+  "template": "link",
+  "title": "cow",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "auto",
+  "win32": {},
+  "xxteaKey": "4f22970e-5e0f-4b",
+  "zipCompressJs": true,
+  "project": "C:\\Users\\le\\Desktop\\cocos_creator\\demo\\cow",
+  "projectName": "cow",
+  "debugBuildWorker": false
+}
+2020-04-21T01:27:39.117Z - normal: Building C:\Users\le\Desktop\cocos_creator\demo\cow
+2020-04-21T01:27:39.118Z - normal: Destination C:\Users\le\Desktop\cocos_creator\demo\cow\build\wechatgame
+2020-04-21T01:27:39.119Z - normal: Delete C:\Users\le\Desktop\cocos_creator\demo\cow\build\wechatgame\**\*,C:\Users\le\Desktop\cocos_creator\demo\cow\build\wechatgame\subpackages/**/*,!C:\Users\le\Desktop\cocos_creator\demo\cow\build\wechatgame\game.json,!C:\Users\le\Desktop\cocos_creator\demo\cow\build\wechatgame\project.config.json
+2020-04-21T01:27:42.541Z - normal: Start building assets
+2020-04-21T01:27:42.541Z - normal: Start spawn build-worker
+2020-04-21T01:27:43.468Z - normal: Finish spawn build-worker
+2020-04-21T01:27:43.468Z - normal: Start init build-worker
+2020-04-21T01:27:46.241Z - normal: Finish init build-worker
+2020-04-21T01:27:46.241Z - normal: Start build-assets in worker
+2020-04-21T01:27:46.955Z - normal: Finish build-assets in worker
+2020-04-21T01:27:46.964Z - normal: Finish building assets
+2020-04-21T01:27:47.014Z - normal: Start building plugin scripts
+2020-04-21T01:27:50.134Z - normal: Built wechatgame successfully
+2020-04-21T01:42:10.184Z - normal: Start building with options : {
+  "actualPlatform": "wechatgame",
+  "android": {
+    "packageName": ""
+  },
+  "android-instant": {
+    "REMOTE_SERVER_ROOT": "",
+    "host": "",
+    "packageName": "",
+    "pathPattern": "",
+    "recordPath": "",
+    "scheme": "https",
+    "skipRecord": false
+  },
+  "apiLevel": "",
+  "appABIs": [],
+  "appBundle": false,
+  "buildPath": "C:\\Users\\le\\Desktop\\cocos_creator\\demo\\cow\\build",
+  "debug": false,
+  "dest": "C:\\Users\\le\\Desktop\\cocos_creator\\demo\\cow\\build\\wechatgame",
+  "embedWebDebugger": false,
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [],
+  "fb-instant-games": {},
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "ios": {
+    "packageName": ""
+  },
+  "mac": {
+    "packageName": ""
+  },
+  "md5Cache": false,
+  "mergeStartScene": false,
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "",
+  "platform": "mini-game",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "scenes": [
+    "833b82b4-271e-4b1c-9565-f0a66971ed83"
+  ],
+  "sourceMaps": false,
+  "startScene": "833b82b4-271e-4b1c-9565-f0a66971ed83",
+  "template": "link",
+  "title": "cow",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "auto",
+  "win32": {},
+  "xxteaKey": "4f22970e-5e0f-4b",
+  "zipCompressJs": true,
+  "project": "C:\\Users\\le\\Desktop\\cocos_creator\\demo\\cow",
+  "projectName": "cow",
+  "debugBuildWorker": false
+}
+2020-04-21T01:42:10.184Z - normal: Building C:\Users\le\Desktop\cocos_creator\demo\cow
+2020-04-21T01:42:10.185Z - normal: Destination C:\Users\le\Desktop\cocos_creator\demo\cow\build\wechatgame
+2020-04-21T01:42:10.186Z - normal: Delete C:\Users\le\Desktop\cocos_creator\demo\cow\build\wechatgame\**\*,C:\Users\le\Desktop\cocos_creator\demo\cow\build\wechatgame\subpackages/**/*,!C:\Users\le\Desktop\cocos_creator\demo\cow\build\wechatgame\game.json,!C:\Users\le\Desktop\cocos_creator\demo\cow\build\wechatgame\project.config.json
+2020-04-21T01:42:13.216Z - normal: Start building assets
+2020-04-21T01:42:13.216Z - normal: Start spawn build-worker
+2020-04-21T01:42:14.398Z - normal: Finish spawn build-worker
+2020-04-21T01:42:14.399Z - normal: Start init build-worker
+2020-04-21T01:42:17.904Z - normal: Finish init build-worker
+2020-04-21T01:42:17.904Z - normal: Start build-assets in worker
+2020-04-21T01:42:18.664Z - normal: Finish build-assets in worker
+2020-04-21T01:42:18.673Z - normal: Finish building assets
+2020-04-21T01:42:18.719Z - normal: Start building plugin scripts
+2020-04-21T01:42:20.849Z - normal: Built wechatgame successfully
+2020-04-21T01:52:09.094Z - normal: Start building with options : {
+  "actualPlatform": "wechatgame",
+  "android": {
+    "packageName": ""
+  },
+  "android-instant": {
+    "REMOTE_SERVER_ROOT": "",
+    "host": "",
+    "packageName": "",
+    "pathPattern": "",
+    "recordPath": "",
+    "scheme": "https",
+    "skipRecord": false
+  },
+  "apiLevel": "",
+  "appABIs": [],
+  "appBundle": false,
+  "buildPath": "C:\\Users\\le\\Desktop\\cocos_creator\\demo\\cow\\build",
+  "debug": false,
+  "dest": "C:\\Users\\le\\Desktop\\cocos_creator\\demo\\cow\\build\\wechatgame",
+  "embedWebDebugger": false,
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [],
+  "fb-instant-games": {},
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "ios": {
+    "packageName": ""
+  },
+  "mac": {
+    "packageName": ""
+  },
+  "md5Cache": false,
+  "mergeStartScene": false,
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "",
+  "platform": "mini-game",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "scenes": [
+    "833b82b4-271e-4b1c-9565-f0a66971ed83"
+  ],
+  "sourceMaps": false,
+  "startScene": "833b82b4-271e-4b1c-9565-f0a66971ed83",
+  "template": "link",
+  "title": "cow",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "auto",
+  "win32": {},
+  "xxteaKey": "4f22970e-5e0f-4b",
+  "zipCompressJs": true,
+  "project": "C:\\Users\\le\\Desktop\\cocos_creator\\demo\\cow",
+  "projectName": "cow",
+  "debugBuildWorker": false
+}
+2020-04-21T01:52:09.095Z - normal: Building C:\Users\le\Desktop\cocos_creator\demo\cow
+2020-04-21T01:52:09.095Z - normal: Destination C:\Users\le\Desktop\cocos_creator\demo\cow\build\wechatgame
+2020-04-21T01:52:09.097Z - normal: Delete C:\Users\le\Desktop\cocos_creator\demo\cow\build\wechatgame\**\*,C:\Users\le\Desktop\cocos_creator\demo\cow\build\wechatgame\subpackages/**/*,!C:\Users\le\Desktop\cocos_creator\demo\cow\build\wechatgame\game.json,!C:\Users\le\Desktop\cocos_creator\demo\cow\build\wechatgame\project.config.json
+2020-04-21T01:52:13.946Z - normal: Start building assets
+2020-04-21T01:52:13.946Z - normal: Start spawn build-worker
+2020-04-21T01:52:15.132Z - normal: Finish spawn build-worker
+2020-04-21T01:52:15.132Z - normal: Start init build-worker
+2020-04-21T01:52:18.211Z - normal: Finish init build-worker
+2020-04-21T01:52:18.211Z - normal: Start build-assets in worker
+2020-04-21T01:52:19.542Z - normal: Finish build-assets in worker
+2020-04-21T01:52:19.551Z - normal: Finish building assets
+2020-04-21T01:52:19.599Z - normal: Start building plugin scripts
+2020-04-21T01:52:23.503Z - normal: Built wechatgame successfully
+2020-04-21T01:54:34.480Z - normal: Start building with options : {
+  "actualPlatform": "wechatgame",
+  "android": {
+    "packageName": ""
+  },
+  "android-instant": {
+    "REMOTE_SERVER_ROOT": "",
+    "host": "",
+    "packageName": "",
+    "pathPattern": "",
+    "recordPath": "",
+    "scheme": "https",
+    "skipRecord": false
+  },
+  "apiLevel": "",
+  "appABIs": [],
+  "appBundle": false,
+  "buildPath": "C:\\Users\\le\\Desktop\\cocos_creator\\demo\\cow\\build",
+  "debug": false,
+  "dest": "C:\\Users\\le\\Desktop\\cocos_creator\\demo\\cow\\build\\wechatgame",
+  "embedWebDebugger": false,
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [],
+  "fb-instant-games": {},
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "ios": {
+    "packageName": ""
+  },
+  "mac": {
+    "packageName": ""
+  },
+  "md5Cache": false,
+  "mergeStartScene": false,
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "",
+  "platform": "mini-game",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "scenes": [
+    "833b82b4-271e-4b1c-9565-f0a66971ed83"
+  ],
+  "sourceMaps": false,
+  "startScene": "833b82b4-271e-4b1c-9565-f0a66971ed83",
+  "template": "link",
+  "title": "cow",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "auto",
+  "win32": {},
+  "xxteaKey": "4f22970e-5e0f-4b",
+  "zipCompressJs": true,
+  "project": "C:\\Users\\le\\Desktop\\cocos_creator\\demo\\cow",
+  "projectName": "cow",
+  "debugBuildWorker": false
+}
+2020-04-21T01:54:34.481Z - normal: Building C:\Users\le\Desktop\cocos_creator\demo\cow
+2020-04-21T01:54:34.481Z - normal: Destination C:\Users\le\Desktop\cocos_creator\demo\cow\build\wechatgame
+2020-04-21T01:54:34.482Z - normal: Delete C:\Users\le\Desktop\cocos_creator\demo\cow\build\wechatgame\**\*,C:\Users\le\Desktop\cocos_creator\demo\cow\build\wechatgame\subpackages/**/*,!C:\Users\le\Desktop\cocos_creator\demo\cow\build\wechatgame\game.json,!C:\Users\le\Desktop\cocos_creator\demo\cow\build\wechatgame\project.config.json
+2020-04-21T01:54:39.118Z - normal: Start building assets
+2020-04-21T01:54:39.118Z - normal: Start spawn build-worker
+2020-04-21T01:54:40.186Z - normal: Finish spawn build-worker
+2020-04-21T01:54:40.186Z - normal: Start init build-worker
+2020-04-21T01:54:42.843Z - normal: Finish init build-worker
+2020-04-21T01:54:42.843Z - normal: Start build-assets in worker
+2020-04-21T01:54:43.973Z - normal: Finish build-assets in worker
+2020-04-21T01:54:43.982Z - normal: Finish building assets
+2020-04-21T01:54:44.024Z - normal: Start building plugin scripts
+2020-04-21T01:54:48.255Z - normal: Built wechatgame successfully
+2020-04-21T01:55:38.191Z - normal: Start building with options : {
+  "actualPlatform": "wechatgame",
+  "android": {
+    "packageName": ""
+  },
+  "android-instant": {
+    "REMOTE_SERVER_ROOT": "",
+    "host": "",
+    "packageName": "",
+    "pathPattern": "",
+    "recordPath": "",
+    "scheme": "https",
+    "skipRecord": false
+  },
+  "apiLevel": "",
+  "appABIs": [],
+  "appBundle": false,
+  "buildPath": "C:\\Users\\le\\Desktop\\cocos_creator\\demo\\cow\\build",
+  "debug": false,
+  "dest": "C:\\Users\\le\\Desktop\\cocos_creator\\demo\\cow\\build\\wechatgame",
+  "embedWebDebugger": false,
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [],
+  "fb-instant-games": {},
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "ios": {
+    "packageName": ""
+  },
+  "mac": {
+    "packageName": ""
+  },
+  "md5Cache": false,
+  "mergeStartScene": false,
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "",
+  "platform": "mini-game",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "scenes": [
+    "833b82b4-271e-4b1c-9565-f0a66971ed83"
+  ],
+  "sourceMaps": false,
+  "startScene": "833b82b4-271e-4b1c-9565-f0a66971ed83",
+  "template": "link",
+  "title": "cow",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "auto",
+  "win32": {},
+  "xxteaKey": "4f22970e-5e0f-4b",
+  "zipCompressJs": true,
+  "project": "C:\\Users\\le\\Desktop\\cocos_creator\\demo\\cow",
+  "projectName": "cow",
+  "debugBuildWorker": false
+}
+2020-04-21T01:55:38.192Z - normal: Building C:\Users\le\Desktop\cocos_creator\demo\cow
+2020-04-21T01:55:38.192Z - normal: Destination C:\Users\le\Desktop\cocos_creator\demo\cow\build\wechatgame
+2020-04-21T01:55:38.194Z - normal: Delete C:\Users\le\Desktop\cocos_creator\demo\cow\build\wechatgame\**\*,C:\Users\le\Desktop\cocos_creator\demo\cow\build\wechatgame\subpackages/**/*,!C:\Users\le\Desktop\cocos_creator\demo\cow\build\wechatgame\game.json,!C:\Users\le\Desktop\cocos_creator\demo\cow\build\wechatgame\project.config.json
+2020-04-21T01:55:43.864Z - normal: Start building assets
+2020-04-21T01:55:43.864Z - normal: Start spawn build-worker
+2020-04-21T01:55:45.134Z - normal: Finish spawn build-worker
+2020-04-21T01:55:45.135Z - normal: Start init build-worker
+2020-04-21T01:55:47.788Z - normal: Finish init build-worker
+2020-04-21T01:55:47.788Z - normal: Start build-assets in worker
+2020-04-21T01:55:48.969Z - normal: Finish build-assets in worker
+2020-04-21T01:55:49.034Z - normal: Finish building assets
+2020-04-21T01:55:49.121Z - normal: Start building plugin scripts
+2020-04-21T01:55:53.842Z - normal: Built wechatgame successfully
+2020-04-21T01:57:08.972Z - normal: Start building with options : {
+  "actualPlatform": "wechatgame",
+  "android": {
+    "packageName": ""
+  },
+  "android-instant": {
+    "REMOTE_SERVER_ROOT": "",
+    "host": "",
+    "packageName": "",
+    "pathPattern": "",
+    "recordPath": "",
+    "scheme": "https",
+    "skipRecord": false
+  },
+  "apiLevel": "",
+  "appABIs": [],
+  "appBundle": false,
+  "buildPath": "C:\\Users\\le\\Desktop\\cocos_creator\\demo\\cow\\build",
+  "debug": false,
+  "dest": "C:\\Users\\le\\Desktop\\cocos_creator\\demo\\cow\\build\\wechatgame",
+  "embedWebDebugger": false,
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [],
+  "fb-instant-games": {},
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "ios": {
+    "packageName": ""
+  },
+  "mac": {
+    "packageName": ""
+  },
+  "md5Cache": false,
+  "mergeStartScene": false,
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "",
+  "platform": "mini-game",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "scenes": [
+    "833b82b4-271e-4b1c-9565-f0a66971ed83"
+  ],
+  "sourceMaps": false,
+  "startScene": "833b82b4-271e-4b1c-9565-f0a66971ed83",
+  "template": "link",
+  "title": "cow",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "auto",
+  "win32": {},
+  "xxteaKey": "4f22970e-5e0f-4b",
+  "zipCompressJs": true,
+  "project": "C:\\Users\\le\\Desktop\\cocos_creator\\demo\\cow",
+  "projectName": "cow",
+  "debugBuildWorker": false
+}
+2020-04-21T01:57:08.972Z - normal: Building C:\Users\le\Desktop\cocos_creator\demo\cow
+2020-04-21T01:57:08.972Z - normal: Destination C:\Users\le\Desktop\cocos_creator\demo\cow\build\wechatgame
+2020-04-21T01:57:08.973Z - normal: Delete C:\Users\le\Desktop\cocos_creator\demo\cow\build\wechatgame\**\*,C:\Users\le\Desktop\cocos_creator\demo\cow\build\wechatgame\subpackages/**/*,!C:\Users\le\Desktop\cocos_creator\demo\cow\build\wechatgame\game.json,!C:\Users\le\Desktop\cocos_creator\demo\cow\build\wechatgame\project.config.json
+2020-04-21T01:57:11.839Z - normal: Start building assets
+2020-04-21T01:57:11.840Z - normal: Start spawn build-worker
+2020-04-21T01:57:12.941Z - normal: Finish spawn build-worker
+2020-04-21T01:57:12.942Z - normal: Start init build-worker
+2020-04-21T01:57:16.567Z - normal: Finish init build-worker
+2020-04-21T01:57:16.567Z - normal: Start build-assets in worker
+2020-04-21T01:57:17.272Z - normal: Finish build-assets in worker
+2020-04-21T01:57:17.281Z - normal: Finish building assets
+2020-04-21T01:57:17.321Z - normal: Start building plugin scripts
+2020-04-21T01:57:19.547Z - normal: Built wechatgame successfully
+2020-04-21T01:58:37.289Z - normal: Start building with options : {
+  "actualPlatform": "wechatgame",
+  "android": {
+    "packageName": ""
+  },
+  "android-instant": {
+    "REMOTE_SERVER_ROOT": "",
+    "host": "",
+    "packageName": "",
+    "pathPattern": "",
+    "recordPath": "",
+    "scheme": "https",
+    "skipRecord": false
+  },
+  "apiLevel": "",
+  "appABIs": [],
+  "appBundle": false,
+  "buildPath": "C:\\Users\\le\\Desktop\\cocos_creator\\demo\\cow\\build",
+  "debug": false,
+  "dest": "C:\\Users\\le\\Desktop\\cocos_creator\\demo\\cow\\build\\wechatgame",
+  "embedWebDebugger": false,
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [],
+  "fb-instant-games": {},
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "ios": {
+    "packageName": ""
+  },
+  "mac": {
+    "packageName": ""
+  },
+  "md5Cache": false,
+  "mergeStartScene": false,
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "",
+  "platform": "mini-game",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "scenes": [
+    "833b82b4-271e-4b1c-9565-f0a66971ed83"
+  ],
+  "sourceMaps": false,
+  "startScene": "833b82b4-271e-4b1c-9565-f0a66971ed83",
+  "template": "link",
+  "title": "cow",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "auto",
+  "win32": {},
+  "xxteaKey": "4f22970e-5e0f-4b",
+  "zipCompressJs": true,
+  "project": "C:\\Users\\le\\Desktop\\cocos_creator\\demo\\cow",
+  "projectName": "cow",
+  "debugBuildWorker": false
+}
+2020-04-21T01:58:37.290Z - normal: Building C:\Users\le\Desktop\cocos_creator\demo\cow
+2020-04-21T01:58:37.290Z - normal: Destination C:\Users\le\Desktop\cocos_creator\demo\cow\build\wechatgame
+2020-04-21T01:58:37.291Z - normal: Delete C:\Users\le\Desktop\cocos_creator\demo\cow\build\wechatgame\**\*,C:\Users\le\Desktop\cocos_creator\demo\cow\build\wechatgame\subpackages/**/*,!C:\Users\le\Desktop\cocos_creator\demo\cow\build\wechatgame\game.json,!C:\Users\le\Desktop\cocos_creator\demo\cow\build\wechatgame\project.config.json
+2020-04-21T01:58:44.223Z - normal: Start building assets
+2020-04-21T01:58:44.223Z - normal: Start spawn build-worker
+2020-04-21T01:58:45.773Z - normal: Finish spawn build-worker
+2020-04-21T01:58:45.773Z - normal: Start init build-worker
+2020-04-21T01:58:48.385Z - normal: Finish init build-worker
+2020-04-21T01:58:48.385Z - normal: Start build-assets in worker
+2020-04-21T01:58:49.352Z - normal: Finish build-assets in worker
+2020-04-21T01:58:49.361Z - normal: Finish building assets
+2020-04-21T01:58:49.402Z - normal: Start building plugin scripts
+2020-04-21T01:58:52.045Z - normal: Built wechatgame successfully
+2020-04-21T01:59:34.483Z - normal: Start building with options : {
+  "actualPlatform": "wechatgame",
+  "android": {
+    "packageName": ""
+  },
+  "android-instant": {
+    "REMOTE_SERVER_ROOT": "",
+    "host": "",
+    "packageName": "",
+    "pathPattern": "",
+    "recordPath": "",
+    "scheme": "https",
+    "skipRecord": false
+  },
+  "apiLevel": "",
+  "appABIs": [],
+  "appBundle": false,
+  "buildPath": "C:\\Users\\le\\Desktop\\cocos_creator\\demo\\cow\\build",
+  "debug": false,
+  "dest": "C:\\Users\\le\\Desktop\\cocos_creator\\demo\\cow\\build\\wechatgame",
+  "embedWebDebugger": false,
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [],
+  "fb-instant-games": {},
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "ios": {
+    "packageName": ""
+  },
+  "mac": {
+    "packageName": ""
+  },
+  "md5Cache": false,
+  "mergeStartScene": false,
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "",
+  "platform": "mini-game",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "scenes": [
+    "833b82b4-271e-4b1c-9565-f0a66971ed83"
+  ],
+  "sourceMaps": false,
+  "startScene": "833b82b4-271e-4b1c-9565-f0a66971ed83",
+  "template": "link",
+  "title": "cow",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "auto",
+  "win32": {},
+  "xxteaKey": "4f22970e-5e0f-4b",
+  "zipCompressJs": true,
+  "project": "C:\\Users\\le\\Desktop\\cocos_creator\\demo\\cow",
+  "projectName": "cow",
+  "debugBuildWorker": false
+}
+2020-04-21T01:59:34.484Z - normal: Building C:\Users\le\Desktop\cocos_creator\demo\cow
+2020-04-21T01:59:34.484Z - normal: Destination C:\Users\le\Desktop\cocos_creator\demo\cow\build\wechatgame
+2020-04-21T01:59:34.485Z - normal: Delete C:\Users\le\Desktop\cocos_creator\demo\cow\build\wechatgame\**\*,C:\Users\le\Desktop\cocos_creator\demo\cow\build\wechatgame\subpackages/**/*,!C:\Users\le\Desktop\cocos_creator\demo\cow\build\wechatgame\game.json,!C:\Users\le\Desktop\cocos_creator\demo\cow\build\wechatgame\project.config.json
+2020-04-21T01:59:42.057Z - normal: Start building assets
+2020-04-21T01:59:42.057Z - normal: Start spawn build-worker
+2020-04-21T01:59:43.747Z - normal: Finish spawn build-worker
+2020-04-21T01:59:43.748Z - normal: Start init build-worker
+2020-04-21T01:59:46.368Z - normal: Finish init build-worker
+2020-04-21T01:59:46.368Z - normal: Start build-assets in worker
+2020-04-21T01:59:47.498Z - normal: Finish build-assets in worker
+2020-04-21T01:59:47.509Z - normal: Finish building assets
+2020-04-21T01:59:47.560Z - normal: Start building plugin scripts
+2020-04-21T01:59:49.748Z - normal: Built wechatgame successfully
+2020-04-21T02:00:33.808Z - normal: Start building with options : {
+  "actualPlatform": "wechatgame",
+  "android": {
+    "packageName": ""
+  },
+  "android-instant": {
+    "REMOTE_SERVER_ROOT": "",
+    "host": "",
+    "packageName": "",
+    "pathPattern": "",
+    "recordPath": "",
+    "scheme": "https",
+    "skipRecord": false
+  },
+  "apiLevel": "",
+  "appABIs": [],
+  "appBundle": false,
+  "buildPath": "C:\\Users\\le\\Desktop\\cocos_creator\\demo\\cow\\build",
+  "debug": false,
+  "dest": "C:\\Users\\le\\Desktop\\cocos_creator\\demo\\cow\\build\\wechatgame",
+  "embedWebDebugger": false,
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [],
+  "fb-instant-games": {},
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "ios": {
+    "packageName": ""
+  },
+  "mac": {
+    "packageName": ""
+  },
+  "md5Cache": false,
+  "mergeStartScene": false,
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "",
+  "platform": "mini-game",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "scenes": [
+    "833b82b4-271e-4b1c-9565-f0a66971ed83"
+  ],
+  "sourceMaps": false,
+  "startScene": "833b82b4-271e-4b1c-9565-f0a66971ed83",
+  "template": "link",
+  "title": "cow",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "auto",
+  "win32": {},
+  "xxteaKey": "4f22970e-5e0f-4b",
+  "zipCompressJs": true,
+  "project": "C:\\Users\\le\\Desktop\\cocos_creator\\demo\\cow",
+  "projectName": "cow",
+  "debugBuildWorker": false
+}
+2020-04-21T02:00:33.809Z - normal: Building C:\Users\le\Desktop\cocos_creator\demo\cow
+2020-04-21T02:00:33.809Z - normal: Destination C:\Users\le\Desktop\cocos_creator\demo\cow\build\wechatgame
+2020-04-21T02:00:33.810Z - normal: Delete C:\Users\le\Desktop\cocos_creator\demo\cow\build\wechatgame\**\*,C:\Users\le\Desktop\cocos_creator\demo\cow\build\wechatgame\subpackages/**/*,!C:\Users\le\Desktop\cocos_creator\demo\cow\build\wechatgame\game.json,!C:\Users\le\Desktop\cocos_creator\demo\cow\build\wechatgame\project.config.json
+2020-04-21T02:00:36.634Z - normal: Start building assets
+2020-04-21T02:00:36.634Z - normal: Start spawn build-worker
+2020-04-21T02:00:37.783Z - normal: Finish spawn build-worker
+2020-04-21T02:00:37.783Z - normal: Start init build-worker
+2020-04-21T02:00:41.463Z - normal: Finish init build-worker
+2020-04-21T02:00:41.463Z - normal: Start build-assets in worker
+2020-04-21T02:00:42.185Z - normal: Finish build-assets in worker
+2020-04-21T02:00:42.194Z - normal: Finish building assets
+2020-04-21T02:00:42.233Z - normal: Start building plugin scripts
+2020-04-21T02:00:44.453Z - normal: Built wechatgame successfully
+2020-04-21T02:01:37.284Z - normal: Start building with options : {
+  "actualPlatform": "wechatgame",
+  "android": {
+    "packageName": ""
+  },
+  "android-instant": {
+    "REMOTE_SERVER_ROOT": "",
+    "host": "",
+    "packageName": "",
+    "pathPattern": "",
+    "recordPath": "",
+    "scheme": "https",
+    "skipRecord": false
+  },
+  "apiLevel": "",
+  "appABIs": [],
+  "appBundle": false,
+  "buildPath": "C:\\Users\\le\\Desktop\\cocos_creator\\demo\\cow\\build",
+  "debug": false,
+  "dest": "C:\\Users\\le\\Desktop\\cocos_creator\\demo\\cow\\build\\wechatgame",
+  "embedWebDebugger": false,
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [],
+  "fb-instant-games": {},
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "ios": {
+    "packageName": ""
+  },
+  "mac": {
+    "packageName": ""
+  },
+  "md5Cache": false,
+  "mergeStartScene": false,
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "",
+  "platform": "mini-game",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "scenes": [
+    "833b82b4-271e-4b1c-9565-f0a66971ed83"
+  ],
+  "sourceMaps": false,
+  "startScene": "833b82b4-271e-4b1c-9565-f0a66971ed83",
+  "template": "link",
+  "title": "cow",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "auto",
+  "win32": {},
+  "xxteaKey": "4f22970e-5e0f-4b",
+  "zipCompressJs": true,
+  "project": "C:\\Users\\le\\Desktop\\cocos_creator\\demo\\cow",
+  "projectName": "cow",
+  "debugBuildWorker": false
+}
+2020-04-21T02:01:37.285Z - normal: Building C:\Users\le\Desktop\cocos_creator\demo\cow
+2020-04-21T02:01:37.285Z - normal: Destination C:\Users\le\Desktop\cocos_creator\demo\cow\build\wechatgame
+2020-04-21T02:01:37.286Z - normal: Delete C:\Users\le\Desktop\cocos_creator\demo\cow\build\wechatgame\**\*,C:\Users\le\Desktop\cocos_creator\demo\cow\build\wechatgame\subpackages/**/*,!C:\Users\le\Desktop\cocos_creator\demo\cow\build\wechatgame\game.json,!C:\Users\le\Desktop\cocos_creator\demo\cow\build\wechatgame\project.config.json
+2020-04-21T02:01:45.471Z - normal: Start building assets
+2020-04-21T02:01:45.472Z - normal: Start spawn build-worker
+2020-04-21T02:01:47.537Z - normal: Finish spawn build-worker
+2020-04-21T02:01:47.537Z - normal: Start init build-worker
+2020-04-21T02:01:50.000Z - normal: Finish init build-worker
+2020-04-21T02:01:50.000Z - normal: Start build-assets in worker
+2020-04-21T02:01:51.410Z - normal: Finish build-assets in worker
+2020-04-21T02:01:51.513Z - normal: Finish building assets
+2020-04-21T02:01:51.669Z - normal: Start building plugin scripts
+2020-04-21T02:01:57.087Z - normal: Built wechatgame successfully
+2020-04-21T02:08:15.281Z - normal: Start building with options : {
+  "actualPlatform": "wechatgame",
+  "android": {
+    "packageName": ""
+  },
+  "android-instant": {
+    "REMOTE_SERVER_ROOT": "",
+    "host": "",
+    "packageName": "",
+    "pathPattern": "",
+    "recordPath": "",
+    "scheme": "https",
+    "skipRecord": false
+  },
+  "apiLevel": "",
+  "appABIs": [],
+  "appBundle": false,
+  "buildPath": "C:\\Users\\le\\Desktop\\cocos_creator\\demo\\cow\\build",
+  "debug": false,
+  "dest": "C:\\Users\\le\\Desktop\\cocos_creator\\demo\\cow\\build\\wechatgame",
+  "embedWebDebugger": false,
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [],
+  "fb-instant-games": {},
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "ios": {
+    "packageName": ""
+  },
+  "mac": {
+    "packageName": ""
+  },
+  "md5Cache": false,
+  "mergeStartScene": false,
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "",
+  "platform": "mini-game",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "scenes": [
+    "833b82b4-271e-4b1c-9565-f0a66971ed83"
+  ],
+  "sourceMaps": false,
+  "startScene": "833b82b4-271e-4b1c-9565-f0a66971ed83",
+  "template": "link",
+  "title": "cow",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "auto",
+  "win32": {},
+  "xxteaKey": "4f22970e-5e0f-4b",
+  "zipCompressJs": true,
+  "project": "C:\\Users\\le\\Desktop\\cocos_creator\\demo\\cow",
+  "projectName": "cow",
+  "debugBuildWorker": false
+}
+2020-04-21T02:08:15.282Z - normal: Building C:\Users\le\Desktop\cocos_creator\demo\cow
+2020-04-21T02:08:15.282Z - normal: Destination C:\Users\le\Desktop\cocos_creator\demo\cow\build\wechatgame
+2020-04-21T02:08:15.284Z - normal: Delete C:\Users\le\Desktop\cocos_creator\demo\cow\build\wechatgame\**\*,C:\Users\le\Desktop\cocos_creator\demo\cow\build\wechatgame\subpackages/**/*,!C:\Users\le\Desktop\cocos_creator\demo\cow\build\wechatgame\game.json,!C:\Users\le\Desktop\cocos_creator\demo\cow\build\wechatgame\project.config.json
+2020-04-21T02:08:24.356Z - normal: Start building assets
+2020-04-21T02:08:24.356Z - normal: Start spawn build-worker
+2020-04-21T02:08:26.865Z - normal: Finish spawn build-worker
+2020-04-21T02:08:26.865Z - normal: Start init build-worker
+2020-04-21T02:08:29.410Z - normal: Finish init build-worker
+2020-04-21T02:08:29.410Z - normal: Start build-assets in worker
+2020-04-21T02:08:31.058Z - normal: Finish build-assets in worker
+2020-04-21T02:08:31.085Z - normal: Finish building assets
+2020-04-21T02:08:31.179Z - normal: Start building plugin scripts
+2020-04-21T02:08:37.287Z - normal: Built wechatgame successfully
+2020-04-21T02:10:23.161Z - normal: Start building with options : {
+  "actualPlatform": "wechatgame",
+  "android": {
+    "packageName": ""
+  },
+  "android-instant": {
+    "REMOTE_SERVER_ROOT": "",
+    "host": "",
+    "packageName": "",
+    "pathPattern": "",
+    "recordPath": "",
+    "scheme": "https",
+    "skipRecord": false
+  },
+  "apiLevel": "",
+  "appABIs": [],
+  "appBundle": false,
+  "buildPath": "C:\\Users\\le\\Desktop\\cocos_creator\\demo\\cow\\build",
+  "debug": false,
+  "dest": "C:\\Users\\le\\Desktop\\cocos_creator\\demo\\cow\\build\\wechatgame",
+  "embedWebDebugger": false,
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [],
+  "fb-instant-games": {},
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "ios": {
+    "packageName": ""
+  },
+  "mac": {
+    "packageName": ""
+  },
+  "md5Cache": false,
+  "mergeStartScene": false,
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "",
+  "platform": "mini-game",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "scenes": [
+    "833b82b4-271e-4b1c-9565-f0a66971ed83"
+  ],
+  "sourceMaps": false,
+  "startScene": "833b82b4-271e-4b1c-9565-f0a66971ed83",
+  "template": "link",
+  "title": "cow",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "auto",
+  "win32": {},
+  "xxteaKey": "4f22970e-5e0f-4b",
+  "zipCompressJs": true,
+  "project": "C:\\Users\\le\\Desktop\\cocos_creator\\demo\\cow",
+  "projectName": "cow",
+  "debugBuildWorker": false
+}
+2020-04-21T02:10:23.161Z - normal: Building C:\Users\le\Desktop\cocos_creator\demo\cow
+2020-04-21T02:10:23.162Z - normal: Destination C:\Users\le\Desktop\cocos_creator\demo\cow\build\wechatgame
+2020-04-21T02:10:23.163Z - normal: Delete C:\Users\le\Desktop\cocos_creator\demo\cow\build\wechatgame\**\*,C:\Users\le\Desktop\cocos_creator\demo\cow\build\wechatgame\subpackages/**/*,!C:\Users\le\Desktop\cocos_creator\demo\cow\build\wechatgame\game.json,!C:\Users\le\Desktop\cocos_creator\demo\cow\build\wechatgame\project.config.json
+2020-04-21T02:10:34.281Z - normal: Start building assets
+2020-04-21T02:10:34.282Z - normal: Start spawn build-worker
+2020-04-21T02:10:37.558Z - normal: Finish spawn build-worker
+2020-04-21T02:10:37.558Z - normal: Start init build-worker
+2020-04-21T02:10:41.132Z - normal: Finish init build-worker
+2020-04-21T02:10:41.132Z - normal: Start build-assets in worker
+2020-04-21T02:10:43.089Z - normal: Finish build-assets in worker
+2020-04-21T02:10:43.115Z - normal: Finish building assets
+2020-04-21T02:10:43.230Z - normal: Start building plugin scripts
+2020-04-21T02:10:49.813Z - normal: Built wechatgame successfully
+2020-04-21T02:14:11.643Z - normal: Start building with options : {
+  "actualPlatform": "wechatgame",
+  "android": {
+    "packageName": ""
+  },
+  "android-instant": {
+    "REMOTE_SERVER_ROOT": "",
+    "host": "",
+    "packageName": "",
+    "pathPattern": "",
+    "recordPath": "",
+    "scheme": "https",
+    "skipRecord": false
+  },
+  "apiLevel": "",
+  "appABIs": [],
+  "appBundle": false,
+  "buildPath": "C:\\Users\\le\\Desktop\\cocos_creator\\demo\\cow\\build",
+  "debug": false,
+  "dest": "C:\\Users\\le\\Desktop\\cocos_creator\\demo\\cow\\build\\wechatgame",
+  "embedWebDebugger": false,
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [],
+  "fb-instant-games": {},
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "ios": {
+    "packageName": ""
+  },
+  "mac": {
+    "packageName": ""
+  },
+  "md5Cache": false,
+  "mergeStartScene": false,
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "",
+  "platform": "mini-game",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "scenes": [
+    "833b82b4-271e-4b1c-9565-f0a66971ed83"
+  ],
+  "sourceMaps": false,
+  "startScene": "833b82b4-271e-4b1c-9565-f0a66971ed83",
+  "template": "link",
+  "title": "cow",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "auto",
+  "win32": {},
+  "xxteaKey": "4f22970e-5e0f-4b",
+  "zipCompressJs": true,
+  "project": "C:\\Users\\le\\Desktop\\cocos_creator\\demo\\cow",
+  "projectName": "cow",
+  "debugBuildWorker": false
+}
+2020-04-21T02:14:11.644Z - normal: Building C:\Users\le\Desktop\cocos_creator\demo\cow
+2020-04-21T02:14:11.644Z - normal: Destination C:\Users\le\Desktop\cocos_creator\demo\cow\build\wechatgame
+2020-04-21T02:14:11.645Z - normal: Delete C:\Users\le\Desktop\cocos_creator\demo\cow\build\wechatgame\**\*,C:\Users\le\Desktop\cocos_creator\demo\cow\build\wechatgame\subpackages/**/*,!C:\Users\le\Desktop\cocos_creator\demo\cow\build\wechatgame\game.json,!C:\Users\le\Desktop\cocos_creator\demo\cow\build\wechatgame\project.config.json
+2020-04-21T02:14:22.220Z - normal: Start building assets
+2020-04-21T02:14:22.220Z - normal: Start spawn build-worker
+2020-04-21T02:14:25.420Z - normal: Finish spawn build-worker
+2020-04-21T02:14:25.420Z - normal: Start init build-worker
+2020-04-21T02:14:28.628Z - normal: Finish init build-worker
+2020-04-21T02:14:28.628Z - normal: Start build-assets in worker
+2020-04-21T02:14:30.380Z - normal: Finish build-assets in worker
+2020-04-21T02:14:30.504Z - normal: Finish building assets
+2020-04-21T02:14:30.614Z - normal: Start building plugin scripts
+2020-04-21T02:14:34.950Z - normal: Built wechatgame successfully
+2020-04-21T02:17:12.073Z - error: scene 没有保存，请先保存相关信息再进行构建。
+    at eval (D:\Game_Work\CocosCreator\resources\app.asar\editor\builtin\builder\panel\builder.js:1:8454)
+    at EventEmitter.<anonymous> (D:\Game_Work\CocosCreator\resources\app.asar\editor-framework\lib\renderer\ipc.js:1:3788)
+    at EventEmitter.emit (events.js:194:13)
+2020-04-21T02:26:56.398Z - error: scene 没有保存，请先保存相关信息再进行构建。
+    at eval (D:\Game_Work\CocosCreator\resources\app.asar\editor\builtin\builder\panel\builder.js:1:8454)
+    at EventEmitter.<anonymous> (D:\Game_Work\CocosCreator\resources\app.asar\editor-framework\lib\renderer\ipc.js:1:3788)
+    at EventEmitter.emit (events.js:194:13)
+2020-04-21T02:26:58.655Z - error: scene 没有保存，请先保存相关信息再进行构建。
+    at eval (D:\Game_Work\CocosCreator\resources\app.asar\editor\builtin\builder\panel\builder.js:1:8454)
+    at EventEmitter.<anonymous> (D:\Game_Work\CocosCreator\resources\app.asar\editor-framework\lib\renderer\ipc.js:1:3788)
+    at EventEmitter.emit (events.js:194:13)
+2020-04-21T02:27:06.718Z - error: scene 没有保存，请先保存相关信息再进行构建。
+    at eval (D:\Game_Work\CocosCreator\resources\app.asar\editor\builtin\builder\panel\builder.js:1:8454)
+    at EventEmitter.<anonymous> (D:\Game_Work\CocosCreator\resources\app.asar\editor-framework\lib\renderer\ipc.js:1:3788)
+    at EventEmitter.emit (events.js:194:13)
+2020-04-21T02:27:14.585Z - error: scene 没有保存，请先保存相关信息再进行构建。
+    at eval (D:\Game_Work\CocosCreator\resources\app.asar\editor\builtin\builder\panel\builder.js:1:8454)
+    at EventEmitter.<anonymous> (D:\Game_Work\CocosCreator\resources\app.asar\editor-framework\lib\renderer\ipc.js:1:3788)
+    at EventEmitter.emit (events.js:194:13)
+2020-04-21T02:27:22.903Z - error: scene 没有保存，请先保存相关信息再进行构建。
+    at eval (D:\Game_Work\CocosCreator\resources\app.asar\editor\builtin\builder\panel\builder.js:1:8454)
+    at EventEmitter.<anonymous> (D:\Game_Work\CocosCreator\resources\app.asar\editor-framework\lib\renderer\ipc.js:1:3788)
+    at EventEmitter.emit (events.js:194:13)
+2020-04-21T02:27:38.594Z - error: scene 没有保存，请先保存相关信息再进行构建。
+    at eval (D:\Game_Work\CocosCreator\resources\app.asar\editor\builtin\builder\panel\builder.js:1:8454)
+    at EventEmitter.<anonymous> (D:\Game_Work\CocosCreator\resources\app.asar\editor-framework\lib\renderer\ipc.js:1:3788)
+    at EventEmitter.emit (events.js:194:13)
+2020-04-21T02:27:39.375Z - error: scene 没有保存，请先保存相关信息再进行构建。
+    at eval (D:\Game_Work\CocosCreator\resources\app.asar\editor\builtin\builder\panel\builder.js:1:8454)
+    at EventEmitter.<anonymous> (D:\Game_Work\CocosCreator\resources\app.asar\editor-framework\lib\renderer\ipc.js:1:3788)
+    at EventEmitter.emit (events.js:194:13)
+2020-04-21T02:27:41.927Z - normal: Initializing...
+
+2020-04-21T02:27:41.974Z - normal: idePortFile: C:\Users\le\AppData\Local\微信开发者工具\User Data\Default\.ide
+
+2020-04-21T02:27:42.008Z - normal: IDE server has started, listening on http://127.0.0.1:51431
+initialization finished
+
+2020-04-21T02:27:42.494Z - normal: open IDE success
+
+2020-04-21T02:28:01.149Z - error: scene 没有保存，请先保存相关信息再进行构建。
+    at eval (D:\Game_Work\CocosCreator\resources\app.asar\editor\builtin\builder\panel\builder.js:1:8454)
+    at EventEmitter.<anonymous> (D:\Game_Work\CocosCreator\resources\app.asar\editor-framework\lib\renderer\ipc.js:1:3788)
+    at EventEmitter.emit (events.js:194:13)
+2020-04-21T02:28:03.233Z - normal: Initializing...
+
+2020-04-21T02:28:03.268Z - normal: idePortFile: C:\Users\le\AppData\Local\微信开发者工具\User Data\Default\.ide
+
+2020-04-21T02:28:03.293Z - normal: IDE server has started, listening on http://127.0.0.1:51431
+initialization finished
+
+2020-04-21T02:28:03.788Z - normal: open IDE success
+
+2020-04-21T02:28:14.258Z - normal: Start building with options : {
+  "actualPlatform": "wechatgame",
+  "android": {
+    "packageName": ""
+  },
+  "android-instant": {
+    "REMOTE_SERVER_ROOT": "",
+    "host": "",
+    "packageName": "",
+    "pathPattern": "",
+    "recordPath": "",
+    "scheme": "https",
+    "skipRecord": false
+  },
+  "apiLevel": "",
+  "appABIs": [],
+  "appBundle": false,
+  "buildPath": "C:\\Users\\le\\Desktop\\cocos_creator\\demo\\cow\\build",
+  "debug": false,
+  "dest": "C:\\Users\\le\\Desktop\\cocos_creator\\demo\\cow\\build\\wechatgame",
+  "embedWebDebugger": false,
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [],
+  "fb-instant-games": {},
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "ios": {
+    "packageName": ""
+  },
+  "mac": {
+    "packageName": ""
+  },
+  "md5Cache": false,
+  "mergeStartScene": false,
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "",
+  "platform": "mini-game",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "scenes": [
+    "833b82b4-271e-4b1c-9565-f0a66971ed83"
+  ],
+  "sourceMaps": false,
+  "startScene": "833b82b4-271e-4b1c-9565-f0a66971ed83",
+  "template": "link",
+  "title": "cow",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "auto",
+  "win32": {},
+  "xxteaKey": "4f22970e-5e0f-4b",
+  "zipCompressJs": true,
+  "project": "C:\\Users\\le\\Desktop\\cocos_creator\\demo\\cow",
+  "projectName": "cow",
+  "debugBuildWorker": false
+}
+2020-04-21T02:28:14.258Z - normal: Building C:\Users\le\Desktop\cocos_creator\demo\cow
+2020-04-21T02:28:14.258Z - normal: Destination C:\Users\le\Desktop\cocos_creator\demo\cow\build\wechatgame
+2020-04-21T02:28:14.259Z - normal: Delete C:\Users\le\Desktop\cocos_creator\demo\cow\build\wechatgame\**\*,C:\Users\le\Desktop\cocos_creator\demo\cow\build\wechatgame\subpackages/**/*,!C:\Users\le\Desktop\cocos_creator\demo\cow\build\wechatgame\game.json,!C:\Users\le\Desktop\cocos_creator\demo\cow\build\wechatgame\project.config.json
+2020-04-21T02:28:16.420Z - normal: Start building assets
+2020-04-21T02:28:16.420Z - normal: Start spawn build-worker
+2020-04-21T02:28:17.104Z - normal: Finish spawn build-worker
+2020-04-21T02:28:17.104Z - normal: Start init build-worker
+2020-04-21T02:28:19.555Z - normal: Finish init build-worker
+2020-04-21T02:28:19.555Z - normal: Start build-assets in worker
+2020-04-21T02:28:20.155Z - normal: Finish build-assets in worker
+2020-04-21T02:28:20.163Z - normal: Finish building assets
+2020-04-21T02:28:20.202Z - normal: Start building plugin scripts
+2020-04-21T02:28:22.150Z - normal: Built wechatgame successfully
+2020-04-21T02:28:24.654Z - normal: Initializing...
+
+2020-04-21T02:28:24.693Z - normal: idePortFile: C:\Users\le\AppData\Local\微信开发者工具\User Data\Default\.ide
+
+2020-04-21T02:28:25.753Z - normal: starting ide...
+
+2020-04-21T02:28:31.754Z - normal: IDE server has started, listening on http://127.0.0.1:39535
+
+2020-04-21T02:28:31.756Z - normal: initialization finished
+
+2020-04-21T02:28:33.376Z - normal: open IDE success
+
+2020-04-21T02:35:24.814Z - error: scene 没有保存，请先保存相关信息再进行构建。
+    at eval (D:\Game_Work\CocosCreator\resources\app.asar\editor\builtin\builder\panel\builder.js:1:8454)
+    at EventEmitter.<anonymous> (D:\Game_Work\CocosCreator\resources\app.asar\editor-framework\lib\renderer\ipc.js:1:3788)
+    at EventEmitter.emit (events.js:194:13)
+2020-04-21T02:35:38.315Z - normal: Start building with options : {
+  "actualPlatform": "wechatgame",
+  "android": {
+    "packageName": ""
+  },
+  "android-instant": {
+    "REMOTE_SERVER_ROOT": "",
+    "host": "",
+    "packageName": "",
+    "pathPattern": "",
+    "recordPath": "",
+    "scheme": "https",
+    "skipRecord": false
+  },
+  "apiLevel": "",
+  "appABIs": [],
+  "appBundle": false,
+  "buildPath": "C:\\Users\\le\\Desktop\\cocos_creator\\demo\\cow\\build",
+  "debug": false,
+  "dest": "C:\\Users\\le\\Desktop\\cocos_creator\\demo\\cow\\build\\wechatgame",
+  "embedWebDebugger": false,
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [],
+  "fb-instant-games": {},
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "ios": {
+    "packageName": ""
+  },
+  "mac": {
+    "packageName": ""
+  },
+  "md5Cache": false,
+  "mergeStartScene": false,
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "",
+  "platform": "mini-game",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "scenes": [
+    "833b82b4-271e-4b1c-9565-f0a66971ed83"
+  ],
+  "sourceMaps": false,
+  "startScene": "833b82b4-271e-4b1c-9565-f0a66971ed83",
+  "template": "link",
+  "title": "cow",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "auto",
+  "win32": {},
+  "xxteaKey": "4f22970e-5e0f-4b",
+  "zipCompressJs": true,
+  "project": "C:\\Users\\le\\Desktop\\cocos_creator\\demo\\cow",
+  "projectName": "cow",
+  "debugBuildWorker": false
+}
+2020-04-21T02:35:38.315Z - normal: Building C:\Users\le\Desktop\cocos_creator\demo\cow
+2020-04-21T02:35:38.315Z - normal: Destination C:\Users\le\Desktop\cocos_creator\demo\cow\build\wechatgame
+2020-04-21T02:35:38.316Z - normal: Delete C:\Users\le\Desktop\cocos_creator\demo\cow\build\wechatgame\**\*,C:\Users\le\Desktop\cocos_creator\demo\cow\build\wechatgame\subpackages/**/*,!C:\Users\le\Desktop\cocos_creator\demo\cow\build\wechatgame\game.json,!C:\Users\le\Desktop\cocos_creator\demo\cow\build\wechatgame\project.config.json
+2020-04-21T02:35:41.195Z - normal: Start building assets
+2020-04-21T02:35:41.195Z - normal: Start spawn build-worker
+2020-04-21T02:35:42.038Z - normal: Finish spawn build-worker
+2020-04-21T02:35:42.038Z - normal: Start init build-worker
+2020-04-21T02:35:44.620Z - normal: Finish init build-worker
+2020-04-21T02:35:44.621Z - normal: Start build-assets in worker
+2020-04-21T02:35:45.300Z - normal: Finish build-assets in worker
+2020-04-21T02:35:45.309Z - normal: Finish building assets
+2020-04-21T02:35:45.347Z - normal: Start building plugin scripts
+2020-04-21T02:35:48.254Z - normal: Built wechatgame successfully
+2020-04-21T02:39:40.978Z - normal: Start building with options : {
+  "actualPlatform": "wechatgame",
+  "android": {
+    "packageName": ""
+  },
+  "android-instant": {
+    "REMOTE_SERVER_ROOT": "",
+    "host": "",
+    "packageName": "",
+    "pathPattern": "",
+    "recordPath": "",
+    "scheme": "https",
+    "skipRecord": false
+  },
+  "apiLevel": "",
+  "appABIs": [],
+  "appBundle": false,
+  "buildPath": "C:\\Users\\le\\Desktop\\cocos_creator\\demo\\cow\\build",
+  "debug": false,
+  "dest": "C:\\Users\\le\\Desktop\\cocos_creator\\demo\\cow\\build\\wechatgame",
+  "embedWebDebugger": false,
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [],
+  "fb-instant-games": {},
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "ios": {
+    "packageName": ""
+  },
+  "mac": {
+    "packageName": ""
+  },
+  "md5Cache": false,
+  "mergeStartScene": false,
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "",
+  "platform": "mini-game",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "scenes": [
+    "833b82b4-271e-4b1c-9565-f0a66971ed83"
+  ],
+  "sourceMaps": false,
+  "startScene": "833b82b4-271e-4b1c-9565-f0a66971ed83",
+  "template": "link",
+  "title": "cow",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "auto",
+  "win32": {},
+  "xxteaKey": "4f22970e-5e0f-4b",
+  "zipCompressJs": true,
+  "project": "C:\\Users\\le\\Desktop\\cocos_creator\\demo\\cow",
+  "projectName": "cow",
+  "debugBuildWorker": false
+}
+2020-04-21T02:39:40.979Z - normal: Building C:\Users\le\Desktop\cocos_creator\demo\cow
+2020-04-21T02:39:40.979Z - normal: Destination C:\Users\le\Desktop\cocos_creator\demo\cow\build\wechatgame
+2020-04-21T02:39:40.981Z - normal: Delete C:\Users\le\Desktop\cocos_creator\demo\cow\build\wechatgame\**\*,C:\Users\le\Desktop\cocos_creator\demo\cow\build\wechatgame\subpackages/**/*,!C:\Users\le\Desktop\cocos_creator\demo\cow\build\wechatgame\game.json,!C:\Users\le\Desktop\cocos_creator\demo\cow\build\wechatgame\project.config.json
+2020-04-21T02:39:44.550Z - normal: Start building assets
+2020-04-21T02:39:44.550Z - normal: Start spawn build-worker
+2020-04-21T02:39:45.525Z - normal: Finish spawn build-worker
+2020-04-21T02:39:45.525Z - normal: Start init build-worker
+2020-04-21T02:39:48.160Z - normal: Finish init build-worker
+2020-04-21T02:39:48.160Z - normal: Start build-assets in worker
+2020-04-21T02:39:49.077Z - normal: Finish build-assets in worker
+2020-04-21T02:39:49.085Z - normal: Finish building assets
+2020-04-21T02:39:49.115Z - normal: Start building plugin scripts
+2020-04-21T02:39:51.245Z - normal: Built wechatgame successfully
+2020-04-21T02:42:24.092Z - normal: Start building with options : {
+  "actualPlatform": "wechatgame",
+  "android": {
+    "packageName": ""
+  },
+  "android-instant": {
+    "REMOTE_SERVER_ROOT": "",
+    "host": "",
+    "packageName": "",
+    "pathPattern": "",
+    "recordPath": "",
+    "scheme": "https",
+    "skipRecord": false
+  },
+  "apiLevel": "",
+  "appABIs": [],
+  "appBundle": false,
+  "buildPath": "C:\\Users\\le\\Desktop\\cocos_creator\\demo\\cow\\build",
+  "debug": false,
+  "dest": "C:\\Users\\le\\Desktop\\cocos_creator\\demo\\cow\\build\\wechatgame",
+  "embedWebDebugger": false,
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [],
+  "fb-instant-games": {},
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "ios": {
+    "packageName": ""
+  },
+  "mac": {
+    "packageName": ""
+  },
+  "md5Cache": false,
+  "mergeStartScene": false,
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "",
+  "platform": "mini-game",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "scenes": [
+    "833b82b4-271e-4b1c-9565-f0a66971ed83"
+  ],
+  "sourceMaps": false,
+  "startScene": "833b82b4-271e-4b1c-9565-f0a66971ed83",
+  "template": "link",
+  "title": "cow",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "auto",
+  "win32": {},
+  "xxteaKey": "4f22970e-5e0f-4b",
+  "zipCompressJs": true,
+  "project": "C:\\Users\\le\\Desktop\\cocos_creator\\demo\\cow",
+  "projectName": "cow",
+  "debugBuildWorker": false
+}
+2020-04-21T02:42:24.092Z - normal: Building C:\Users\le\Desktop\cocos_creator\demo\cow
+2020-04-21T02:42:24.092Z - normal: Destination C:\Users\le\Desktop\cocos_creator\demo\cow\build\wechatgame
+2020-04-21T02:42:24.094Z - normal: Delete C:\Users\le\Desktop\cocos_creator\demo\cow\build\wechatgame\**\*,C:\Users\le\Desktop\cocos_creator\demo\cow\build\wechatgame\subpackages/**/*,!C:\Users\le\Desktop\cocos_creator\demo\cow\build\wechatgame\game.json,!C:\Users\le\Desktop\cocos_creator\demo\cow\build\wechatgame\project.config.json
+2020-04-21T02:42:28.766Z - normal: Start building assets
+2020-04-21T02:42:28.766Z - normal: Start spawn build-worker
+2020-04-21T02:42:29.880Z - normal: Finish spawn build-worker
+2020-04-21T02:42:29.881Z - normal: Start init build-worker
+2020-04-21T02:42:32.761Z - normal: Finish init build-worker
+2020-04-21T02:42:32.761Z - normal: Start build-assets in worker
+2020-04-21T02:42:33.793Z - normal: Finish build-assets in worker
+2020-04-21T02:42:33.808Z - normal: Finish building assets
+2020-04-21T02:42:33.851Z - normal: Start building plugin scripts
+2020-04-21T02:42:38.022Z - normal: Built wechatgame successfully
+2020-04-21T02:44:13.329Z - normal: Start building with options : {
+  "actualPlatform": "wechatgame",
+  "android": {
+    "packageName": ""
+  },
+  "android-instant": {
+    "REMOTE_SERVER_ROOT": "",
+    "host": "",
+    "packageName": "",
+    "pathPattern": "",
+    "recordPath": "",
+    "scheme": "https",
+    "skipRecord": false
+  },
+  "apiLevel": "",
+  "appABIs": [],
+  "appBundle": false,
+  "buildPath": "C:\\Users\\le\\Desktop\\cocos_creator\\demo\\cow\\build",
+  "debug": false,
+  "dest": "C:\\Users\\le\\Desktop\\cocos_creator\\demo\\cow\\build\\wechatgame",
+  "embedWebDebugger": false,
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [],
+  "fb-instant-games": {},
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "ios": {
+    "packageName": ""
+  },
+  "mac": {
+    "packageName": ""
+  },
+  "md5Cache": false,
+  "mergeStartScene": false,
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "",
+  "platform": "mini-game",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "scenes": [
+    "833b82b4-271e-4b1c-9565-f0a66971ed83"
+  ],
+  "sourceMaps": false,
+  "startScene": "833b82b4-271e-4b1c-9565-f0a66971ed83",
+  "template": "link",
+  "title": "cow",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "auto",
+  "win32": {},
+  "xxteaKey": "4f22970e-5e0f-4b",
+  "zipCompressJs": true,
+  "project": "C:\\Users\\le\\Desktop\\cocos_creator\\demo\\cow",
+  "projectName": "cow",
+  "debugBuildWorker": false
+}
+2020-04-21T02:44:13.330Z - normal: Building C:\Users\le\Desktop\cocos_creator\demo\cow
+2020-04-21T02:44:13.330Z - normal: Destination C:\Users\le\Desktop\cocos_creator\demo\cow\build\wechatgame
+2020-04-21T02:44:13.331Z - normal: Delete C:\Users\le\Desktop\cocos_creator\demo\cow\build\wechatgame\**\*,C:\Users\le\Desktop\cocos_creator\demo\cow\build\wechatgame\subpackages/**/*,!C:\Users\le\Desktop\cocos_creator\demo\cow\build\wechatgame\game.json,!C:\Users\le\Desktop\cocos_creator\demo\cow\build\wechatgame\project.config.json
+2020-04-21T02:44:18.382Z - normal: Start building assets
+2020-04-21T02:44:18.382Z - normal: Start spawn build-worker
+2020-04-21T02:44:19.575Z - normal: Finish spawn build-worker
+2020-04-21T02:44:19.576Z - normal: Start init build-worker
+2020-04-21T02:44:22.591Z - normal: Finish init build-worker
+2020-04-21T02:44:22.591Z - normal: Start build-assets in worker
+2020-04-21T02:44:24.084Z - normal: Finish build-assets in worker
+2020-04-21T02:44:24.105Z - normal: Finish building assets
+2020-04-21T02:44:24.161Z - normal: Start building plugin scripts
+2020-04-21T02:44:26.397Z - normal: Built wechatgame successfully
+2020-04-21T02:46:53.184Z - normal: Start building with options : {
+  "actualPlatform": "wechatgame",
+  "android": {
+    "packageName": ""
+  },
+  "android-instant": {
+    "REMOTE_SERVER_ROOT": "",
+    "host": "",
+    "packageName": "",
+    "pathPattern": "",
+    "recordPath": "",
+    "scheme": "https",
+    "skipRecord": false
+  },
+  "apiLevel": "",
+  "appABIs": [],
+  "appBundle": false,
+  "buildPath": "C:\\Users\\le\\Desktop\\cocos_creator\\demo\\cow\\build",
+  "debug": false,
+  "dest": "C:\\Users\\le\\Desktop\\cocos_creator\\demo\\cow\\build\\wechatgame",
+  "embedWebDebugger": false,
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [],
+  "fb-instant-games": {},
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "ios": {
+    "packageName": ""
+  },
+  "mac": {
+    "packageName": ""
+  },
+  "md5Cache": false,
+  "mergeStartScene": false,
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "",
+  "platform": "mini-game",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "scenes": [
+    "833b82b4-271e-4b1c-9565-f0a66971ed83"
+  ],
+  "sourceMaps": false,
+  "startScene": "833b82b4-271e-4b1c-9565-f0a66971ed83",
+  "template": "link",
+  "title": "cow",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "auto",
+  "win32": {},
+  "xxteaKey": "4f22970e-5e0f-4b",
+  "zipCompressJs": true,
+  "project": "C:\\Users\\le\\Desktop\\cocos_creator\\demo\\cow",
+  "projectName": "cow",
+  "debugBuildWorker": false
+}
+2020-04-21T02:46:53.185Z - normal: Building C:\Users\le\Desktop\cocos_creator\demo\cow
+2020-04-21T02:46:53.185Z - normal: Destination C:\Users\le\Desktop\cocos_creator\demo\cow\build\wechatgame
+2020-04-21T02:46:53.186Z - normal: Delete C:\Users\le\Desktop\cocos_creator\demo\cow\build\wechatgame\**\*,C:\Users\le\Desktop\cocos_creator\demo\cow\build\wechatgame\subpackages/**/*,!C:\Users\le\Desktop\cocos_creator\demo\cow\build\wechatgame\game.json,!C:\Users\le\Desktop\cocos_creator\demo\cow\build\wechatgame\project.config.json
+2020-04-21T02:46:59.806Z - normal: Start building assets
+2020-04-21T02:46:59.807Z - normal: Start spawn build-worker
+2020-04-21T02:47:01.485Z - normal: Finish spawn build-worker
+2020-04-21T02:47:01.485Z - normal: Start init build-worker
+2020-04-21T02:47:05.073Z - normal: Finish init build-worker
+2020-04-21T02:47:05.073Z - normal: Start build-assets in worker
+2020-04-21T02:47:06.836Z - normal: Finish build-assets in worker
+2020-04-21T02:47:06.846Z - normal: Finish building assets
+2020-04-21T02:47:06.922Z - normal: Start building plugin scripts
+2020-04-21T02:47:12.087Z - normal: Built wechatgame successfully
+2020-04-21T02:53:29.117Z - normal: Start building with options : {
+  "actualPlatform": "wechatgame",
+  "android": {
+    "packageName": ""
+  },
+  "android-instant": {
+    "REMOTE_SERVER_ROOT": "",
+    "host": "",
+    "packageName": "",
+    "pathPattern": "",
+    "recordPath": "",
+    "scheme": "https",
+    "skipRecord": false
+  },
+  "apiLevel": "",
+  "appABIs": [],
+  "appBundle": false,
+  "buildPath": "C:\\Users\\le\\Desktop\\cocos_creator\\demo\\cow\\build",
+  "debug": false,
+  "dest": "C:\\Users\\le\\Desktop\\cocos_creator\\demo\\cow\\build\\wechatgame",
+  "embedWebDebugger": false,
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [],
+  "fb-instant-games": {},
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "ios": {
+    "packageName": ""
+  },
+  "mac": {
+    "packageName": ""
+  },
+  "md5Cache": false,
+  "mergeStartScene": false,
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "",
+  "platform": "mini-game",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "scenes": [
+    "833b82b4-271e-4b1c-9565-f0a66971ed83"
+  ],
+  "sourceMaps": false,
+  "startScene": "833b82b4-271e-4b1c-9565-f0a66971ed83",
+  "template": "link",
+  "title": "cow",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "auto",
+  "win32": {},
+  "xxteaKey": "4f22970e-5e0f-4b",
+  "zipCompressJs": true,
+  "project": "C:\\Users\\le\\Desktop\\cocos_creator\\demo\\cow",
+  "projectName": "cow",
+  "debugBuildWorker": false
+}
+2020-04-21T02:53:29.117Z - normal: Building C:\Users\le\Desktop\cocos_creator\demo\cow
+2020-04-21T02:53:29.117Z - normal: Destination C:\Users\le\Desktop\cocos_creator\demo\cow\build\wechatgame
+2020-04-21T02:53:29.118Z - normal: Delete C:\Users\le\Desktop\cocos_creator\demo\cow\build\wechatgame\**\*,C:\Users\le\Desktop\cocos_creator\demo\cow\build\wechatgame\subpackages/**/*,!C:\Users\le\Desktop\cocos_creator\demo\cow\build\wechatgame\game.json,!C:\Users\le\Desktop\cocos_creator\demo\cow\build\wechatgame\project.config.json
+2020-04-21T02:53:32.071Z - normal: Start building assets
+2020-04-21T02:53:32.071Z - normal: Start spawn build-worker
+2020-04-21T02:53:33.408Z - normal: Finish spawn build-worker
+2020-04-21T02:53:33.408Z - normal: Start init build-worker
+2020-04-21T02:53:37.764Z - normal: Finish init build-worker
+2020-04-21T02:53:37.764Z - normal: Start build-assets in worker
+2020-04-21T02:53:38.961Z - normal: Finish build-assets in worker
+2020-04-21T02:53:38.972Z - normal: Finish building assets
+2020-04-21T02:53:39.014Z - normal: Start building plugin scripts
+2020-04-21T02:53:42.263Z - normal: Built wechatgame successfully
+2020-04-21T02:55:51.074Z - normal: Start building with options : {
+  "actualPlatform": "wechatgame",
+  "android": {
+    "packageName": ""
+  },
+  "android-instant": {
+    "REMOTE_SERVER_ROOT": "",
+    "host": "",
+    "packageName": "",
+    "pathPattern": "",
+    "recordPath": "",
+    "scheme": "https",
+    "skipRecord": false
+  },
+  "apiLevel": "",
+  "appABIs": [],
+  "appBundle": false,
+  "buildPath": "C:\\Users\\le\\Desktop\\cocos_creator\\demo\\cow\\build",
+  "debug": false,
+  "dest": "C:\\Users\\le\\Desktop\\cocos_creator\\demo\\cow\\build\\wechatgame",
+  "embedWebDebugger": false,
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [],
+  "fb-instant-games": {},
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "ios": {
+    "packageName": ""
+  },
+  "mac": {
+    "packageName": ""
+  },
+  "md5Cache": false,
+  "mergeStartScene": false,
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "",
+  "platform": "mini-game",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "scenes": [
+    "833b82b4-271e-4b1c-9565-f0a66971ed83"
+  ],
+  "sourceMaps": false,
+  "startScene": "833b82b4-271e-4b1c-9565-f0a66971ed83",
+  "template": "link",
+  "title": "cow",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "auto",
+  "win32": {},
+  "xxteaKey": "4f22970e-5e0f-4b",
+  "zipCompressJs": true,
+  "project": "C:\\Users\\le\\Desktop\\cocos_creator\\demo\\cow",
+  "projectName": "cow",
+  "debugBuildWorker": false
+}
+2020-04-21T02:55:51.074Z - normal: Building C:\Users\le\Desktop\cocos_creator\demo\cow
+2020-04-21T02:55:51.074Z - normal: Destination C:\Users\le\Desktop\cocos_creator\demo\cow\build\wechatgame
+2020-04-21T02:55:51.076Z - normal: Delete C:\Users\le\Desktop\cocos_creator\demo\cow\build\wechatgame\**\*,C:\Users\le\Desktop\cocos_creator\demo\cow\build\wechatgame\subpackages/**/*,!C:\Users\le\Desktop\cocos_creator\demo\cow\build\wechatgame\game.json,!C:\Users\le\Desktop\cocos_creator\demo\cow\build\wechatgame\project.config.json
+2020-04-21T02:55:57.704Z - normal: Start building assets
+2020-04-21T02:55:57.704Z - normal: Start spawn build-worker
+2020-04-21T02:55:59.417Z - normal: Finish spawn build-worker
+2020-04-21T02:55:59.417Z - normal: Start init build-worker
+2020-04-21T02:56:02.078Z - normal: Finish init build-worker
+2020-04-21T02:56:02.078Z - normal: Start build-assets in worker
+2020-04-21T02:56:03.440Z - normal: Finish build-assets in worker
+2020-04-21T02:56:03.531Z - normal: Finish building assets
+2020-04-21T02:56:03.574Z - normal: Start building plugin scripts
+2020-04-21T02:56:05.876Z - normal: Built wechatgame successfully
+2020-04-21T02:57:55.151Z - normal: Start building with options : {
+  "actualPlatform": "wechatgame",
+  "android": {
+    "packageName": ""
+  },
+  "android-instant": {
+    "REMOTE_SERVER_ROOT": "",
+    "host": "",
+    "packageName": "",
+    "pathPattern": "",
+    "recordPath": "",
+    "scheme": "https",
+    "skipRecord": false
+  },
+  "apiLevel": "",
+  "appABIs": [],
+  "appBundle": false,
+  "buildPath": "C:\\Users\\le\\Desktop\\cocos_creator\\demo\\cow\\build",
+  "debug": false,
+  "dest": "C:\\Users\\le\\Desktop\\cocos_creator\\demo\\cow\\build\\wechatgame",
+  "embedWebDebugger": false,
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [],
+  "fb-instant-games": {},
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "ios": {
+    "packageName": ""
+  },
+  "mac": {
+    "packageName": ""
+  },
+  "md5Cache": false,
+  "mergeStartScene": false,
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "",
+  "platform": "mini-game",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "scenes": [
+    "833b82b4-271e-4b1c-9565-f0a66971ed83"
+  ],
+  "sourceMaps": false,
+  "startScene": "833b82b4-271e-4b1c-9565-f0a66971ed83",
+  "template": "link",
+  "title": "cow",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "auto",
+  "win32": {},
+  "xxteaKey": "4f22970e-5e0f-4b",
+  "zipCompressJs": true,
+  "project": "C:\\Users\\le\\Desktop\\cocos_creator\\demo\\cow",
+  "projectName": "cow",
+  "debugBuildWorker": false
+}
+2020-04-21T02:57:55.152Z - normal: Building C:\Users\le\Desktop\cocos_creator\demo\cow
+2020-04-21T02:57:55.152Z - normal: Destination C:\Users\le\Desktop\cocos_creator\demo\cow\build\wechatgame
+2020-04-21T02:57:55.153Z - normal: Delete C:\Users\le\Desktop\cocos_creator\demo\cow\build\wechatgame\**\*,C:\Users\le\Desktop\cocos_creator\demo\cow\build\wechatgame\subpackages/**/*,!C:\Users\le\Desktop\cocos_creator\demo\cow\build\wechatgame\game.json,!C:\Users\le\Desktop\cocos_creator\demo\cow\build\wechatgame\project.config.json
+2020-04-21T02:58:03.799Z - normal: Start building assets
+2020-04-21T02:58:03.799Z - normal: Start spawn build-worker
+2020-04-21T02:58:05.586Z - normal: Finish spawn build-worker
+2020-04-21T02:58:05.586Z - normal: Start init build-worker
+2020-04-21T02:58:08.195Z - normal: Finish init build-worker
+2020-04-21T02:58:08.195Z - normal: Start build-assets in worker
+2020-04-21T02:58:10.253Z - normal: Finish build-assets in worker
+2020-04-21T02:58:10.324Z - normal: Finish building assets
+2020-04-21T02:58:10.461Z - normal: Start building plugin scripts
+2020-04-21T02:58:16.691Z - normal: Built wechatgame successfully
+2020-04-21T03:05:10.968Z - error: scene 没有保存，请先保存相关信息再进行构建。
+    at eval (D:\Game_Work\CocosCreator\resources\app.asar\editor\builtin\builder\panel\builder.js:1:8454)
+    at EventEmitter.<anonymous> (D:\Game_Work\CocosCreator\resources\app.asar\editor-framework\lib\renderer\ipc.js:1:3788)
+    at EventEmitter.emit (events.js:194:13)
+2020-04-21T03:05:16.716Z - error: scene 没有保存，请先保存相关信息再进行构建。
+    at eval (D:\Game_Work\CocosCreator\resources\app.asar\editor\builtin\builder\panel\builder.js:1:8454)
+    at EventEmitter.<anonymous> (D:\Game_Work\CocosCreator\resources\app.asar\editor-framework\lib\renderer\ipc.js:1:3788)
+    at EventEmitter.emit (events.js:194:13)
+2020-04-21T03:05:40.892Z - normal: Start building with options : {
+  "actualPlatform": "wechatgame",
+  "android": {
+    "packageName": ""
+  },
+  "android-instant": {
+    "REMOTE_SERVER_ROOT": "",
+    "host": "",
+    "packageName": "",
+    "pathPattern": "",
+    "recordPath": "",
+    "scheme": "https",
+    "skipRecord": false
+  },
+  "apiLevel": "",
+  "appABIs": [],
+  "appBundle": false,
+  "buildPath": "C:\\Users\\le\\Desktop\\cocos_creator\\demo\\cow\\build",
+  "debug": false,
+  "dest": "C:\\Users\\le\\Desktop\\cocos_creator\\demo\\cow\\build\\wechatgame",
+  "embedWebDebugger": false,
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [],
+  "fb-instant-games": {},
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "ios": {
+    "packageName": ""
+  },
+  "mac": {
+    "packageName": ""
+  },
+  "md5Cache": false,
+  "mergeStartScene": false,
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "",
+  "platform": "mini-game",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "scenes": [
+    "833b82b4-271e-4b1c-9565-f0a66971ed83"
+  ],
+  "sourceMaps": false,
+  "startScene": "833b82b4-271e-4b1c-9565-f0a66971ed83",
+  "template": "link",
+  "title": "cow",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "auto",
+  "win32": {},
+  "xxteaKey": "4f22970e-5e0f-4b",
+  "zipCompressJs": true,
+  "project": "C:\\Users\\le\\Desktop\\cocos_creator\\demo\\cow",
+  "projectName": "cow",
+  "debugBuildWorker": false
+}
+2020-04-21T03:05:40.892Z - normal: Building C:\Users\le\Desktop\cocos_creator\demo\cow
+2020-04-21T03:05:40.892Z - normal: Destination C:\Users\le\Desktop\cocos_creator\demo\cow\build\wechatgame
+2020-04-21T03:05:40.893Z - normal: Delete C:\Users\le\Desktop\cocos_creator\demo\cow\build\wechatgame\**\*,C:\Users\le\Desktop\cocos_creator\demo\cow\build\wechatgame\subpackages/**/*,!C:\Users\le\Desktop\cocos_creator\demo\cow\build\wechatgame\game.json,!C:\Users\le\Desktop\cocos_creator\demo\cow\build\wechatgame\project.config.json
+2020-04-21T03:05:50.497Z - normal: Start building assets
+2020-04-21T03:05:50.498Z - normal: Start spawn build-worker
+2020-04-21T03:05:53.353Z - normal: Finish spawn build-worker
+2020-04-21T03:05:53.353Z - normal: Start init build-worker
+2020-04-21T03:05:56.931Z - normal: Finish init build-worker
+2020-04-21T03:05:56.931Z - normal: Start build-assets in worker
+2020-04-21T03:05:58.901Z - normal: Finish build-assets in worker
+2020-04-21T03:05:59.081Z - normal: Finish building assets
+2020-04-21T03:05:59.317Z - normal: Start building plugin scripts
+2020-04-21T03:06:07.389Z - normal: Built wechatgame successfully
+2020-04-21T03:10:37.630Z - normal: Start building with options : {
+  "actualPlatform": "wechatgame",
+  "android": {
+    "packageName": ""
+  },
+  "android-instant": {
+    "REMOTE_SERVER_ROOT": "",
+    "host": "",
+    "packageName": "",
+    "pathPattern": "",
+    "recordPath": "",
+    "scheme": "https",
+    "skipRecord": false
+  },
+  "apiLevel": "",
+  "appABIs": [],
+  "appBundle": false,
+  "buildPath": "C:\\Users\\le\\Desktop\\cocos_creator\\demo\\cow\\build",
+  "debug": false,
+  "dest": "C:\\Users\\le\\Desktop\\cocos_creator\\demo\\cow\\build\\wechatgame",
+  "embedWebDebugger": false,
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [],
+  "fb-instant-games": {},
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "ios": {
+    "packageName": ""
+  },
+  "mac": {
+    "packageName": ""
+  },
+  "md5Cache": false,
+  "mergeStartScene": false,
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "",
+  "platform": "mini-game",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "scenes": [
+    "833b82b4-271e-4b1c-9565-f0a66971ed83"
+  ],
+  "sourceMaps": false,
+  "startScene": "833b82b4-271e-4b1c-9565-f0a66971ed83",
+  "template": "link",
+  "title": "cow",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "auto",
+  "win32": {},
+  "xxteaKey": "4f22970e-5e0f-4b",
+  "zipCompressJs": true,
+  "project": "C:\\Users\\le\\Desktop\\cocos_creator\\demo\\cow",
+  "projectName": "cow",
+  "debugBuildWorker": false
+}
+2020-04-21T03:10:37.630Z - normal: Building C:\Users\le\Desktop\cocos_creator\demo\cow
+2020-04-21T03:10:37.631Z - normal: Destination C:\Users\le\Desktop\cocos_creator\demo\cow\build\wechatgame
+2020-04-21T03:10:37.631Z - normal: Delete C:\Users\le\Desktop\cocos_creator\demo\cow\build\wechatgame\**\*,C:\Users\le\Desktop\cocos_creator\demo\cow\build\wechatgame\subpackages/**/*,!C:\Users\le\Desktop\cocos_creator\demo\cow\build\wechatgame\game.json,!C:\Users\le\Desktop\cocos_creator\demo\cow\build\wechatgame\project.config.json
+2020-04-21T03:10:40.893Z - normal: Start building assets
+2020-04-21T03:10:40.893Z - normal: Start spawn build-worker
+2020-04-21T03:10:42.160Z - normal: Finish spawn build-worker
+2020-04-21T03:10:42.160Z - normal: Start init build-worker
+2020-04-21T03:10:46.156Z - normal: Finish init build-worker
+2020-04-21T03:10:46.156Z - normal: Start build-assets in worker
+2020-04-21T03:10:46.937Z - normal: Finish build-assets in worker
+2020-04-21T03:10:46.946Z - normal: Finish building assets
+2020-04-21T03:10:46.988Z - normal: Start building plugin scripts
+2020-04-21T03:10:49.063Z - normal: Built wechatgame successfully
+2020-04-21T03:19:53.703Z - normal: Start building with options : {
+  "actualPlatform": "wechatgame",
+  "android": {
+    "packageName": ""
+  },
+  "android-instant": {
+    "REMOTE_SERVER_ROOT": "",
+    "host": "",
+    "packageName": "",
+    "pathPattern": "",
+    "recordPath": "",
+    "scheme": "https",
+    "skipRecord": false
+  },
+  "apiLevel": "",
+  "appABIs": [],
+  "appBundle": false,
+  "buildPath": "C:\\Users\\le\\Desktop\\cocos_creator\\demo\\cow\\build",
+  "debug": false,
+  "dest": "C:\\Users\\le\\Desktop\\cocos_creator\\demo\\cow\\build\\wechatgame",
+  "embedWebDebugger": false,
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [],
+  "fb-instant-games": {},
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "ios": {
+    "packageName": ""
+  },
+  "mac": {
+    "packageName": ""
+  },
+  "md5Cache": false,
+  "mergeStartScene": false,
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "",
+  "platform": "mini-game",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "scenes": [
+    "833b82b4-271e-4b1c-9565-f0a66971ed83"
+  ],
+  "sourceMaps": false,
+  "startScene": "833b82b4-271e-4b1c-9565-f0a66971ed83",
+  "template": "link",
+  "title": "cow",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "auto",
+  "win32": {},
+  "xxteaKey": "4f22970e-5e0f-4b",
+  "zipCompressJs": true,
+  "project": "C:\\Users\\le\\Desktop\\cocos_creator\\demo\\cow",
+  "projectName": "cow",
+  "debugBuildWorker": false
+}
+2020-04-21T03:19:53.704Z - normal: Building C:\Users\le\Desktop\cocos_creator\demo\cow
+2020-04-21T03:19:53.704Z - normal: Destination C:\Users\le\Desktop\cocos_creator\demo\cow\build\wechatgame
+2020-04-21T03:19:53.706Z - normal: Delete C:\Users\le\Desktop\cocos_creator\demo\cow\build\wechatgame\**\*,C:\Users\le\Desktop\cocos_creator\demo\cow\build\wechatgame\subpackages/**/*,!C:\Users\le\Desktop\cocos_creator\demo\cow\build\wechatgame\game.json,!C:\Users\le\Desktop\cocos_creator\demo\cow\build\wechatgame\project.config.json
+2020-04-21T03:20:03.661Z - normal: Start building assets
+2020-04-21T03:20:03.662Z - normal: Start spawn build-worker
+2020-04-21T03:20:05.732Z - normal: Finish spawn build-worker
+2020-04-21T03:20:05.732Z - normal: Start init build-worker
+2020-04-21T03:20:09.425Z - normal: Finish init build-worker
+2020-04-21T03:20:09.425Z - normal: Start build-assets in worker
+2020-04-21T03:20:11.469Z - normal: Finish build-assets in worker
+2020-04-21T03:20:11.532Z - normal: Finish building assets
+2020-04-21T03:20:11.587Z - normal: Start building plugin scripts
+2020-04-21T03:20:17.926Z - normal: Built wechatgame successfully
+2020-04-21T03:21:37.228Z - normal: Start building with options : {
+  "actualPlatform": "wechatgame",
+  "android": {
+    "packageName": ""
+  },
+  "android-instant": {
+    "REMOTE_SERVER_ROOT": "",
+    "host": "",
+    "packageName": "",
+    "pathPattern": "",
+    "recordPath": "",
+    "scheme": "https",
+    "skipRecord": false
+  },
+  "apiLevel": "",
+  "appABIs": [],
+  "appBundle": false,
+  "buildPath": "C:\\Users\\le\\Desktop\\cocos_creator\\demo\\cow\\build",
+  "debug": false,
+  "dest": "C:\\Users\\le\\Desktop\\cocos_creator\\demo\\cow\\build\\wechatgame",
+  "embedWebDebugger": false,
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [],
+  "fb-instant-games": {},
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "ios": {
+    "packageName": ""
+  },
+  "mac": {
+    "packageName": ""
+  },
+  "md5Cache": false,
+  "mergeStartScene": false,
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "",
+  "platform": "mini-game",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "scenes": [
+    "833b82b4-271e-4b1c-9565-f0a66971ed83"
+  ],
+  "sourceMaps": false,
+  "startScene": "833b82b4-271e-4b1c-9565-f0a66971ed83",
+  "template": "link",
+  "title": "cow",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "auto",
+  "win32": {},
+  "xxteaKey": "4f22970e-5e0f-4b",
+  "zipCompressJs": true,
+  "project": "C:\\Users\\le\\Desktop\\cocos_creator\\demo\\cow",
+  "projectName": "cow",
+  "debugBuildWorker": false
+}
+2020-04-21T03:21:37.228Z - normal: Building C:\Users\le\Desktop\cocos_creator\demo\cow
+2020-04-21T03:21:37.228Z - normal: Destination C:\Users\le\Desktop\cocos_creator\demo\cow\build\wechatgame
+2020-04-21T03:21:37.230Z - normal: Delete C:\Users\le\Desktop\cocos_creator\demo\cow\build\wechatgame\**\*,C:\Users\le\Desktop\cocos_creator\demo\cow\build\wechatgame\subpackages/**/*,!C:\Users\le\Desktop\cocos_creator\demo\cow\build\wechatgame\game.json,!C:\Users\le\Desktop\cocos_creator\demo\cow\build\wechatgame\project.config.json
+2020-04-21T03:21:39.288Z - normal: Start building assets
+2020-04-21T03:21:39.289Z - normal: Start spawn build-worker
+2020-04-21T03:21:40.011Z - normal: Finish spawn build-worker
+2020-04-21T03:21:40.011Z - normal: Start init build-worker
+2020-04-21T03:21:42.571Z - normal: Finish init build-worker
+2020-04-21T03:21:42.571Z - normal: Start build-assets in worker
+2020-04-21T03:21:43.196Z - normal: Finish build-assets in worker
+2020-04-21T03:21:43.204Z - normal: Finish building assets
+2020-04-21T03:21:43.237Z - normal: Start building plugin scripts
+2020-04-21T03:21:45.108Z - normal: Built wechatgame successfully
+2020-04-21T03:22:07.847Z - normal: Initializing...
+
+2020-04-21T03:22:07.888Z - normal: idePortFile: C:\Users\le\AppData\Local\微信开发者工具\User Data\Default\.ide
+
+2020-04-21T03:22:08.939Z - normal: starting ide...
+
+2020-04-21T03:22:15.495Z - normal: IDE server has started, listening on http://127.0.0.1:36945
+
+2020-04-21T03:22:15.498Z - normal: initialization finished
+
+2020-04-21T03:22:17.216Z - normal: open IDE success
+
+2020-04-21T03:32:41.424Z - normal: Start building with options : {
+  "actualPlatform": "wechatgame",
+  "android": {
+    "packageName": ""
+  },
+  "android-instant": {
+    "REMOTE_SERVER_ROOT": "",
+    "host": "",
+    "packageName": "",
+    "pathPattern": "",
+    "recordPath": "",
+    "scheme": "https",
+    "skipRecord": false
+  },
+  "apiLevel": "",
+  "appABIs": [],
+  "appBundle": false,
+  "buildPath": "C:\\Users\\le\\Desktop\\cocos_creator\\demo\\cow\\build",
+  "debug": false,
+  "dest": "C:\\Users\\le\\Desktop\\cocos_creator\\demo\\cow\\build\\wechatgame",
+  "embedWebDebugger": false,
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [],
+  "fb-instant-games": {},
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "ios": {
+    "packageName": ""
+  },
+  "mac": {
+    "packageName": ""
+  },
+  "md5Cache": false,
+  "mergeStartScene": false,
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "",
+  "platform": "mini-game",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "scenes": [
+    "833b82b4-271e-4b1c-9565-f0a66971ed83"
+  ],
+  "sourceMaps": false,
+  "startScene": "833b82b4-271e-4b1c-9565-f0a66971ed83",
+  "template": "link",
+  "title": "cow",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "auto",
+  "win32": {},
+  "xxteaKey": "4f22970e-5e0f-4b",
+  "zipCompressJs": true,
+  "project": "C:\\Users\\le\\Desktop\\cocos_creator\\demo\\cow",
+  "projectName": "cow",
+  "debugBuildWorker": false
+}
+2020-04-21T03:32:41.425Z - normal: Building C:\Users\le\Desktop\cocos_creator\demo\cow
+2020-04-21T03:32:41.425Z - normal: Destination C:\Users\le\Desktop\cocos_creator\demo\cow\build\wechatgame
+2020-04-21T03:32:41.426Z - normal: Delete C:\Users\le\Desktop\cocos_creator\demo\cow\build\wechatgame\**\*,C:\Users\le\Desktop\cocos_creator\demo\cow\build\wechatgame\subpackages/**/*,!C:\Users\le\Desktop\cocos_creator\demo\cow\build\wechatgame\game.json,!C:\Users\le\Desktop\cocos_creator\demo\cow\build\wechatgame\project.config.json
+2020-04-21T03:32:41.944Z - error: Build Failed: Error: EPERM: operation not permitted, lstat 'C:\Users\le\Desktop\cocos_creator\demo\cow\build\wechatgame\res\raw-assets\bf'
+    at D:\Game_Work\CocosCreator\resources\app.asar\editor\lib\builder\index.js:1:3815
+    at D:\Game_Work\CocosCreator\resources\app.asar\node_modules\async\lib\async.js:52:16
+    at D:\Game_Work\CocosCreator\resources\app.asar\node_modules\async\lib\async.js:696:30
+    at D:\Game_Work\CocosCreator\resources\app.asar\node_modules\async\lib\async.js:167:37
+    at D:\Game_Work\CocosCreator\resources\app.asar\node_modules\async\lib\async.js:1209:30
+2020-04-21T03:33:39.344Z - normal: Start building with options : {
+  "actualPlatform": "wechatgame",
+  "android": {
+    "packageName": ""
+  },
+  "android-instant": {
+    "REMOTE_SERVER_ROOT": "",
+    "host": "",
+    "packageName": "",
+    "pathPattern": "",
+    "recordPath": "",
+    "scheme": "https",
+    "skipRecord": false
+  },
+  "apiLevel": "",
+  "appABIs": [],
+  "appBundle": false,
+  "buildPath": "C:\\Users\\le\\Desktop\\cocos_creator\\demo\\cow\\build",
+  "debug": false,
+  "dest": "C:\\Users\\le\\Desktop\\cocos_creator\\demo\\cow\\build\\wechatgame",
+  "embedWebDebugger": false,
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [],
+  "fb-instant-games": {},
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "ios": {
+    "packageName": ""
+  },
+  "mac": {
+    "packageName": ""
+  },
+  "md5Cache": false,
+  "mergeStartScene": false,
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "",
+  "platform": "mini-game",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "scenes": [
+    "833b82b4-271e-4b1c-9565-f0a66971ed83"
+  ],
+  "sourceMaps": false,
+  "startScene": "833b82b4-271e-4b1c-9565-f0a66971ed83",
+  "template": "link",
+  "title": "cow",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "auto",
+  "win32": {},
+  "xxteaKey": "4f22970e-5e0f-4b",
+  "zipCompressJs": true,
+  "project": "C:\\Users\\le\\Desktop\\cocos_creator\\demo\\cow",
+  "projectName": "cow",
+  "debugBuildWorker": false
+}
+2020-04-21T03:33:39.345Z - normal: Building C:\Users\le\Desktop\cocos_creator\demo\cow
+2020-04-21T03:33:39.345Z - normal: Destination C:\Users\le\Desktop\cocos_creator\demo\cow\build\wechatgame
+2020-04-21T03:33:39.347Z - normal: Delete C:\Users\le\Desktop\cocos_creator\demo\cow\build\wechatgame\**\*,C:\Users\le\Desktop\cocos_creator\demo\cow\build\wechatgame\subpackages/**/*,!C:\Users\le\Desktop\cocos_creator\demo\cow\build\wechatgame\game.json,!C:\Users\le\Desktop\cocos_creator\demo\cow\build\wechatgame\project.config.json
+2020-04-21T03:33:42.450Z - normal: Start building assets
+2020-04-21T03:33:42.450Z - normal: Start spawn build-worker
+2020-04-21T03:33:43.589Z - normal: Finish spawn build-worker
+2020-04-21T03:33:43.589Z - normal: Start init build-worker
+2020-04-21T03:33:47.796Z - normal: Finish init build-worker
+2020-04-21T03:33:47.797Z - normal: Start build-assets in worker
+2020-04-21T03:33:49.119Z - normal: Finish build-assets in worker
+2020-04-21T03:33:49.135Z - normal: Finish building assets
+2020-04-21T03:33:49.191Z - normal: Start building plugin scripts
+2020-04-21T03:33:52.185Z - normal: Built wechatgame successfully
+2020-04-21T03:35:30.721Z - normal: Start building with options : {
+  "actualPlatform": "wechatgame",
+  "android": {
+    "packageName": ""
+  },
+  "android-instant": {
+    "REMOTE_SERVER_ROOT": "",
+    "host": "",
+    "packageName": "",
+    "pathPattern": "",
+    "recordPath": "",
+    "scheme": "https",
+    "skipRecord": false
+  },
+  "apiLevel": "",
+  "appABIs": [],
+  "appBundle": false,
+  "buildPath": "C:\\Users\\le\\Desktop\\cocos_creator\\demo\\cow\\build",
+  "debug": false,
+  "dest": "C:\\Users\\le\\Desktop\\cocos_creator\\demo\\cow\\build\\wechatgame",
+  "embedWebDebugger": false,
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [],
+  "fb-instant-games": {},
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "ios": {
+    "packageName": ""
+  },
+  "mac": {
+    "packageName": ""
+  },
+  "md5Cache": false,
+  "mergeStartScene": false,
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "",
+  "platform": "mini-game",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "scenes": [
+    "833b82b4-271e-4b1c-9565-f0a66971ed83"
+  ],
+  "sourceMaps": false,
+  "startScene": "833b82b4-271e-4b1c-9565-f0a66971ed83",
+  "template": "link",
+  "title": "cow",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "auto",
+  "win32": {},
+  "xxteaKey": "4f22970e-5e0f-4b",
+  "zipCompressJs": true,
+  "project": "C:\\Users\\le\\Desktop\\cocos_creator\\demo\\cow",
+  "projectName": "cow",
+  "debugBuildWorker": false
+}
+2020-04-21T03:35:30.722Z - normal: Building C:\Users\le\Desktop\cocos_creator\demo\cow
+2020-04-21T03:35:30.723Z - normal: Destination C:\Users\le\Desktop\cocos_creator\demo\cow\build\wechatgame
+2020-04-21T03:35:30.725Z - normal: Delete C:\Users\le\Desktop\cocos_creator\demo\cow\build\wechatgame\**\*,C:\Users\le\Desktop\cocos_creator\demo\cow\build\wechatgame\subpackages/**/*,!C:\Users\le\Desktop\cocos_creator\demo\cow\build\wechatgame\game.json,!C:\Users\le\Desktop\cocos_creator\demo\cow\build\wechatgame\project.config.json
+2020-04-21T03:35:37.699Z - normal: Start building assets
+2020-04-21T03:35:37.699Z - normal: Start spawn build-worker
+2020-04-21T03:35:39.789Z - normal: Finish spawn build-worker
+2020-04-21T03:35:39.789Z - normal: Start init build-worker
+2020-04-21T03:35:45.500Z - normal: Finish init build-worker
+2020-04-21T03:35:45.500Z - normal: Start build-assets in worker
+2020-04-21T03:35:47.114Z - normal: Finish build-assets in worker
+2020-04-21T03:35:47.127Z - normal: Finish building assets
+2020-04-21T03:35:47.180Z - normal: Start building plugin scripts
+2020-04-21T03:35:52.716Z - normal: Built wechatgame successfully
+2020-04-21T03:39:30.025Z - normal: Start building with options : {
+  "actualPlatform": "wechatgame",
+  "android": {
+    "packageName": ""
+  },
+  "android-instant": {
+    "REMOTE_SERVER_ROOT": "",
+    "host": "",
+    "packageName": "",
+    "pathPattern": "",
+    "recordPath": "",
+    "scheme": "https",
+    "skipRecord": false
+  },
+  "apiLevel": "",
+  "appABIs": [],
+  "appBundle": false,
+  "buildPath": "C:\\Users\\le\\Desktop\\cocos_creator\\demo\\cow\\build",
+  "debug": false,
+  "dest": "C:\\Users\\le\\Desktop\\cocos_creator\\demo\\cow\\build\\wechatgame",
+  "embedWebDebugger": false,
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [],
+  "fb-instant-games": {},
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "ios": {
+    "packageName": ""
+  },
+  "mac": {
+    "packageName": ""
+  },
+  "md5Cache": false,
+  "mergeStartScene": false,
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "",
+  "platform": "mini-game",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "scenes": [
+    "833b82b4-271e-4b1c-9565-f0a66971ed83"
+  ],
+  "sourceMaps": false,
+  "startScene": "833b82b4-271e-4b1c-9565-f0a66971ed83",
+  "template": "link",
+  "title": "cow",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "auto",
+  "win32": {},
+  "xxteaKey": "4f22970e-5e0f-4b",
+  "zipCompressJs": true,
+  "project": "C:\\Users\\le\\Desktop\\cocos_creator\\demo\\cow",
+  "projectName": "cow",
+  "debugBuildWorker": false
+}
+2020-04-21T03:39:30.026Z - normal: Building C:\Users\le\Desktop\cocos_creator\demo\cow
+2020-04-21T03:39:30.026Z - normal: Destination C:\Users\le\Desktop\cocos_creator\demo\cow\build\wechatgame
+2020-04-21T03:39:30.030Z - normal: Delete C:\Users\le\Desktop\cocos_creator\demo\cow\build\wechatgame\**\*,C:\Users\le\Desktop\cocos_creator\demo\cow\build\wechatgame\subpackages/**/*,!C:\Users\le\Desktop\cocos_creator\demo\cow\build\wechatgame\game.json,!C:\Users\le\Desktop\cocos_creator\demo\cow\build\wechatgame\project.config.json
+2020-04-21T03:39:38.612Z - normal: Start building assets
+2020-04-21T03:39:38.613Z - normal: Start spawn build-worker
+2020-04-21T03:39:41.522Z - normal: Finish spawn build-worker
+2020-04-21T03:39:41.523Z - normal: Start init build-worker
+2020-04-21T03:39:47.249Z - normal: Finish init build-worker
+2020-04-21T03:39:47.249Z - normal: Start build-assets in worker
+2020-04-21T03:39:49.243Z - normal: Finish build-assets in worker
+2020-04-21T03:39:49.301Z - normal: Finish building assets
+2020-04-21T03:39:49.359Z - normal: Start building plugin scripts
+2020-04-21T03:39:52.248Z - normal: Built wechatgame successfully
+2020-04-21T03:41:59.061Z - normal: Start building with options : {
+  "actualPlatform": "wechatgame",
+  "android": {
+    "packageName": ""
+  },
+  "android-instant": {
+    "REMOTE_SERVER_ROOT": "",
+    "host": "",
+    "packageName": "",
+    "pathPattern": "",
+    "recordPath": "",
+    "scheme": "https",
+    "skipRecord": false
+  },
+  "apiLevel": "",
+  "appABIs": [],
+  "appBundle": false,
+  "buildPath": "C:\\Users\\le\\Desktop\\cocos_creator\\demo\\cow\\build",
+  "debug": false,
+  "dest": "C:\\Users\\le\\Desktop\\cocos_creator\\demo\\cow\\build\\wechatgame",
+  "embedWebDebugger": false,
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [],
+  "fb-instant-games": {},
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "ios": {
+    "packageName": ""
+  },
+  "mac": {
+    "packageName": ""
+  },
+  "md5Cache": false,
+  "mergeStartScene": false,
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "",
+  "platform": "mini-game",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "scenes": [
+    "833b82b4-271e-4b1c-9565-f0a66971ed83"
+  ],
+  "sourceMaps": false,
+  "startScene": "833b82b4-271e-4b1c-9565-f0a66971ed83",
+  "template": "link",
+  "title": "cow",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "auto",
+  "win32": {},
+  "xxteaKey": "4f22970e-5e0f-4b",
+  "zipCompressJs": true,
+  "project": "C:\\Users\\le\\Desktop\\cocos_creator\\demo\\cow",
+  "projectName": "cow",
+  "debugBuildWorker": false
+}
+2020-04-21T03:41:59.062Z - normal: Building C:\Users\le\Desktop\cocos_creator\demo\cow
+2020-04-21T03:41:59.063Z - normal: Destination C:\Users\le\Desktop\cocos_creator\demo\cow\build\wechatgame
+2020-04-21T03:41:59.066Z - normal: Delete C:\Users\le\Desktop\cocos_creator\demo\cow\build\wechatgame\**\*,C:\Users\le\Desktop\cocos_creator\demo\cow\build\wechatgame\subpackages/**/*,!C:\Users\le\Desktop\cocos_creator\demo\cow\build\wechatgame\game.json,!C:\Users\le\Desktop\cocos_creator\demo\cow\build\wechatgame\project.config.json
+2020-04-21T03:42:06.245Z - normal: Start building assets
+2020-04-21T03:42:06.246Z - normal: Start spawn build-worker
+2020-04-21T03:42:07.806Z - normal: Finish spawn build-worker
+2020-04-21T03:42:07.806Z - normal: Start init build-worker
+2020-04-21T03:42:11.885Z - normal: Finish init build-worker
+2020-04-21T03:42:11.885Z - normal: Start build-assets in worker
+2020-04-21T03:42:13.563Z - normal: Finish build-assets in worker
+2020-04-21T03:42:13.649Z - normal: Finish building assets
+2020-04-21T03:42:13.710Z - normal: Start building plugin scripts
+2020-04-21T03:42:16.424Z - normal: Built wechatgame successfully
+2020-04-21T03:49:13.253Z - normal: Start building with options : {
+  "actualPlatform": "wechatgame",
+  "android": {
+    "packageName": ""
+  },
+  "android-instant": {
+    "REMOTE_SERVER_ROOT": "",
+    "host": "",
+    "packageName": "",
+    "pathPattern": "",
+    "recordPath": "",
+    "scheme": "https",
+    "skipRecord": false
+  },
+  "apiLevel": "",
+  "appABIs": [],
+  "appBundle": false,
+  "buildPath": "C:\\Users\\le\\Desktop\\cocos_creator\\demo\\cow\\build",
+  "debug": false,
+  "dest": "C:\\Users\\le\\Desktop\\cocos_creator\\demo\\cow\\build\\wechatgame",
+  "embedWebDebugger": false,
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [],
+  "fb-instant-games": {},
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "ios": {
+    "packageName": ""
+  },
+  "mac": {
+    "packageName": ""
+  },
+  "md5Cache": false,
+  "mergeStartScene": false,
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "",
+  "platform": "mini-game",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "scenes": [
+    "833b82b4-271e-4b1c-9565-f0a66971ed83"
+  ],
+  "sourceMaps": false,
+  "startScene": "833b82b4-271e-4b1c-9565-f0a66971ed83",
+  "template": "link",
+  "title": "cow",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "auto",
+  "win32": {},
+  "xxteaKey": "4f22970e-5e0f-4b",
+  "zipCompressJs": true,
+  "project": "C:\\Users\\le\\Desktop\\cocos_creator\\demo\\cow",
+  "projectName": "cow",
+  "debugBuildWorker": false
+}
+2020-04-21T03:49:13.254Z - normal: Building C:\Users\le\Desktop\cocos_creator\demo\cow
+2020-04-21T03:49:13.254Z - normal: Destination C:\Users\le\Desktop\cocos_creator\demo\cow\build\wechatgame
+2020-04-21T03:49:13.255Z - normal: Delete C:\Users\le\Desktop\cocos_creator\demo\cow\build\wechatgame\**\*,C:\Users\le\Desktop\cocos_creator\demo\cow\build\wechatgame\subpackages/**/*,!C:\Users\le\Desktop\cocos_creator\demo\cow\build\wechatgame\game.json,!C:\Users\le\Desktop\cocos_creator\demo\cow\build\wechatgame\project.config.json
+2020-04-21T03:49:19.670Z - normal: Start building assets
+2020-04-21T03:49:19.670Z - normal: Start spawn build-worker
+2020-04-21T03:49:21.165Z - normal: Finish spawn build-worker
+2020-04-21T03:49:21.165Z - normal: Start init build-worker
+2020-04-21T03:49:24.334Z - normal: Finish init build-worker
+2020-04-21T03:49:24.334Z - normal: Start build-assets in worker
+2020-04-21T03:49:25.870Z - normal: Finish build-assets in worker
+2020-04-21T03:49:25.936Z - normal: Finish building assets
+2020-04-21T03:49:26.079Z - normal: Start building plugin scripts
+2020-04-21T03:49:31.044Z - normal: Built wechatgame successfully
+2020-04-21T03:52:33.100Z - normal: Start building with options : {
+  "actualPlatform": "wechatgame",
+  "android": {
+    "packageName": ""
+  },
+  "android-instant": {
+    "REMOTE_SERVER_ROOT": "",
+    "host": "",
+    "packageName": "",
+    "pathPattern": "",
+    "recordPath": "",
+    "scheme": "https",
+    "skipRecord": false
+  },
+  "apiLevel": "",
+  "appABIs": [],
+  "appBundle": false,
+  "buildPath": "C:\\Users\\le\\Desktop\\cocos_creator\\demo\\cow\\build",
+  "debug": false,
+  "dest": "C:\\Users\\le\\Desktop\\cocos_creator\\demo\\cow\\build\\wechatgame",
+  "embedWebDebugger": false,
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [],
+  "fb-instant-games": {},
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "ios": {
+    "packageName": ""
+  },
+  "mac": {
+    "packageName": ""
+  },
+  "md5Cache": false,
+  "mergeStartScene": false,
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "",
+  "platform": "mini-game",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "scenes": [
+    "833b82b4-271e-4b1c-9565-f0a66971ed83"
+  ],
+  "sourceMaps": false,
+  "startScene": "833b82b4-271e-4b1c-9565-f0a66971ed83",
+  "template": "link",
+  "title": "cow",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "auto",
+  "win32": {},
+  "xxteaKey": "4f22970e-5e0f-4b",
+  "zipCompressJs": true,
+  "project": "C:\\Users\\le\\Desktop\\cocos_creator\\demo\\cow",
+  "projectName": "cow",
+  "debugBuildWorker": false
+}
+2020-04-21T03:52:33.101Z - normal: Building C:\Users\le\Desktop\cocos_creator\demo\cow
+2020-04-21T03:52:33.101Z - normal: Destination C:\Users\le\Desktop\cocos_creator\demo\cow\build\wechatgame
+2020-04-21T03:52:33.102Z - normal: Delete C:\Users\le\Desktop\cocos_creator\demo\cow\build\wechatgame\**\*,C:\Users\le\Desktop\cocos_creator\demo\cow\build\wechatgame\subpackages/**/*,!C:\Users\le\Desktop\cocos_creator\demo\cow\build\wechatgame\game.json,!C:\Users\le\Desktop\cocos_creator\demo\cow\build\wechatgame\project.config.json
+2020-04-21T03:52:39.524Z - normal: Start building assets
+2020-04-21T03:52:39.525Z - normal: Start spawn build-worker
+2020-04-21T03:52:41.242Z - normal: Finish spawn build-worker
+2020-04-21T03:52:41.242Z - normal: Start init build-worker
+2020-04-21T03:52:44.437Z - normal: Finish init build-worker
+2020-04-21T03:52:44.438Z - normal: Start build-assets in worker
+2020-04-21T03:52:46.681Z - normal: Finish build-assets in worker
+2020-04-21T03:52:46.718Z - normal: Finish building assets
+2020-04-21T03:52:46.757Z - normal: Start building plugin scripts
+2020-04-21T03:52:52.081Z - normal: Built wechatgame successfully
+2020-04-21T05:55:25.139Z - error: scene 没有保存，请先保存相关信息再进行构建。
+    at eval (D:\Game_Work\CocosCreator\resources\app.asar\editor\builtin\builder\panel\builder.js:1:8454)
+    at EventEmitter.<anonymous> (D:\Game_Work\CocosCreator\resources\app.asar\editor-framework\lib\renderer\ipc.js:1:3788)
+    at EventEmitter.emit (events.js:194:13)
+2020-04-21T05:55:42.070Z - normal: Start building with options : {
+  "actualPlatform": "wechatgame",
+  "android": {
+    "packageName": ""
+  },
+  "android-instant": {
+    "REMOTE_SERVER_ROOT": "",
+    "host": "",
+    "packageName": "",
+    "pathPattern": "",
+    "recordPath": "",
+    "scheme": "https",
+    "skipRecord": false
+  },
+  "apiLevel": "",
+  "appABIs": [],
+  "appBundle": false,
+  "buildPath": "C:\\Users\\le\\Desktop\\cocos_creator\\demo\\cow\\build",
+  "debug": false,
+  "dest": "C:\\Users\\le\\Desktop\\cocos_creator\\demo\\cow\\build\\wechatgame",
+  "embedWebDebugger": false,
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [],
+  "fb-instant-games": {},
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "ios": {
+    "packageName": ""
+  },
+  "mac": {
+    "packageName": ""
+  },
+  "md5Cache": false,
+  "mergeStartScene": false,
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "",
+  "platform": "mini-game",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "scenes": [
+    "833b82b4-271e-4b1c-9565-f0a66971ed83"
+  ],
+  "sourceMaps": false,
+  "startScene": "833b82b4-271e-4b1c-9565-f0a66971ed83",
+  "template": "link",
+  "title": "cow",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "auto",
+  "win32": {},
+  "xxteaKey": "4f22970e-5e0f-4b",
+  "zipCompressJs": true,
+  "project": "C:\\Users\\le\\Desktop\\cocos_creator\\demo\\cow",
+  "projectName": "cow",
+  "debugBuildWorker": false
+}
+2020-04-21T05:55:42.070Z - normal: Building C:\Users\le\Desktop\cocos_creator\demo\cow
+2020-04-21T05:55:42.070Z - normal: Destination C:\Users\le\Desktop\cocos_creator\demo\cow\build\wechatgame
+2020-04-21T05:55:42.072Z - normal: Delete C:\Users\le\Desktop\cocos_creator\demo\cow\build\wechatgame\**\*,C:\Users\le\Desktop\cocos_creator\demo\cow\build\wechatgame\subpackages/**/*,!C:\Users\le\Desktop\cocos_creator\demo\cow\build\wechatgame\game.json,!C:\Users\le\Desktop\cocos_creator\demo\cow\build\wechatgame\project.config.json
+2020-04-21T05:55:45.606Z - normal: Start building assets
+2020-04-21T05:55:45.606Z - normal: Start spawn build-worker
+2020-04-21T05:55:46.984Z - normal: Finish spawn build-worker
+2020-04-21T05:55:46.984Z - normal: Start init build-worker
+2020-04-21T05:55:51.315Z - normal: Finish init build-worker
+2020-04-21T05:55:51.316Z - normal: Start build-assets in worker
+2020-04-21T05:55:52.582Z - normal: Finish build-assets in worker
+2020-04-21T05:55:52.593Z - normal: Finish building assets
+2020-04-21T05:55:52.636Z - normal: Start building plugin scripts
+2020-04-21T05:56:01.739Z - normal: Built wechatgame successfully
+2020-04-21T05:58:50.809Z - normal: Start building with options : {
+  "actualPlatform": "wechatgame",
+  "android": {
+    "packageName": ""
+  },
+  "android-instant": {
+    "REMOTE_SERVER_ROOT": "",
+    "host": "",
+    "packageName": "",
+    "pathPattern": "",
+    "recordPath": "",
+    "scheme": "https",
+    "skipRecord": false
+  },
+  "apiLevel": "",
+  "appABIs": [],
+  "appBundle": false,
+  "buildPath": "C:\\Users\\le\\Desktop\\cocos_creator\\demo\\cow\\build",
+  "debug": false,
+  "dest": "C:\\Users\\le\\Desktop\\cocos_creator\\demo\\cow\\build\\wechatgame",
+  "embedWebDebugger": false,
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [],
+  "fb-instant-games": {},
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "ios": {
+    "packageName": ""
+  },
+  "mac": {
+    "packageName": ""
+  },
+  "md5Cache": false,
+  "mergeStartScene": false,
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "",
+  "platform": "mini-game",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "scenes": [
+    "833b82b4-271e-4b1c-9565-f0a66971ed83"
+  ],
+  "sourceMaps": false,
+  "startScene": "833b82b4-271e-4b1c-9565-f0a66971ed83",
+  "template": "link",
+  "title": "cow",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "auto",
+  "win32": {},
+  "xxteaKey": "4f22970e-5e0f-4b",
+  "zipCompressJs": true,
+  "project": "C:\\Users\\le\\Desktop\\cocos_creator\\demo\\cow",
+  "projectName": "cow",
+  "debugBuildWorker": false
+}
+2020-04-21T05:58:50.810Z - normal: Building C:\Users\le\Desktop\cocos_creator\demo\cow
+2020-04-21T05:58:50.810Z - normal: Destination C:\Users\le\Desktop\cocos_creator\demo\cow\build\wechatgame
+2020-04-21T05:58:50.811Z - normal: Delete C:\Users\le\Desktop\cocos_creator\demo\cow\build\wechatgame\**\*,C:\Users\le\Desktop\cocos_creator\demo\cow\build\wechatgame\subpackages/**/*,!C:\Users\le\Desktop\cocos_creator\demo\cow\build\wechatgame\game.json,!C:\Users\le\Desktop\cocos_creator\demo\cow\build\wechatgame\project.config.json
+2020-04-21T05:58:59.554Z - normal: Start building assets
+2020-04-21T05:58:59.555Z - normal: Start spawn build-worker
+2020-04-21T05:59:01.586Z - normal: Finish spawn build-worker
+2020-04-21T05:59:01.587Z - normal: Start init build-worker
+2020-04-21T05:59:04.690Z - normal: Finish init build-worker
+2020-04-21T05:59:04.690Z - normal: Start build-assets in worker
+2020-04-21T05:59:07.319Z - normal: Finish build-assets in worker
+2020-04-21T05:59:07.358Z - normal: Finish building assets
+2020-04-21T05:59:07.416Z - normal: Start building plugin scripts
+2020-04-21T05:59:13.173Z - normal: Built wechatgame successfully
+2020-04-21T06:00:08.690Z - normal: Start building with options : {
+  "actualPlatform": "wechatgame",
+  "android": {
+    "packageName": ""
+  },
+  "android-instant": {
+    "REMOTE_SERVER_ROOT": "",
+    "host": "",
+    "packageName": "",
+    "pathPattern": "",
+    "recordPath": "",
+    "scheme": "https",
+    "skipRecord": false
+  },
+  "apiLevel": "",
+  "appABIs": [],
+  "appBundle": false,
+  "buildPath": "C:\\Users\\le\\Desktop\\cocos_creator\\demo\\cow\\build",
+  "debug": false,
+  "dest": "C:\\Users\\le\\Desktop\\cocos_creator\\demo\\cow\\build\\wechatgame",
+  "embedWebDebugger": false,
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [],
+  "fb-instant-games": {},
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "ios": {
+    "packageName": ""
+  },
+  "mac": {
+    "packageName": ""
+  },
+  "md5Cache": false,
+  "mergeStartScene": false,
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "",
+  "platform": "mini-game",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "scenes": [
+    "833b82b4-271e-4b1c-9565-f0a66971ed83"
+  ],
+  "sourceMaps": false,
+  "startScene": "833b82b4-271e-4b1c-9565-f0a66971ed83",
+  "template": "link",
+  "title": "cow",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "auto",
+  "win32": {},
+  "xxteaKey": "4f22970e-5e0f-4b",
+  "zipCompressJs": true,
+  "project": "C:\\Users\\le\\Desktop\\cocos_creator\\demo\\cow",
+  "projectName": "cow",
+  "debugBuildWorker": false
+}
+2020-04-21T06:00:08.690Z - normal: Building C:\Users\le\Desktop\cocos_creator\demo\cow
+2020-04-21T06:00:08.690Z - normal: Destination C:\Users\le\Desktop\cocos_creator\demo\cow\build\wechatgame
+2020-04-21T06:00:08.692Z - normal: Delete C:\Users\le\Desktop\cocos_creator\demo\cow\build\wechatgame\**\*,C:\Users\le\Desktop\cocos_creator\demo\cow\build\wechatgame\subpackages/**/*,!C:\Users\le\Desktop\cocos_creator\demo\cow\build\wechatgame\game.json,!C:\Users\le\Desktop\cocos_creator\demo\cow\build\wechatgame\project.config.json
+2020-04-21T06:00:16.723Z - normal: Start building assets
+2020-04-21T06:00:16.723Z - normal: Start spawn build-worker
+2020-04-21T06:00:18.751Z - normal: Finish spawn build-worker
+2020-04-21T06:00:18.751Z - normal: Start init build-worker
+2020-04-21T06:00:21.594Z - normal: Finish init build-worker
+2020-04-21T06:00:21.594Z - normal: Start build-assets in worker
+2020-04-21T06:00:23.397Z - normal: Finish build-assets in worker
+2020-04-21T06:00:23.479Z - normal: Finish building assets
+2020-04-21T06:00:23.521Z - normal: Start building plugin scripts
+2020-04-21T06:00:25.952Z - normal: Built wechatgame successfully
+2020-04-21T06:05:46.450Z - normal: Start building with options : {
+  "actualPlatform": "wechatgame",
+  "android": {
+    "packageName": ""
+  },
+  "android-instant": {
+    "REMOTE_SERVER_ROOT": "",
+    "host": "",
+    "packageName": "",
+    "pathPattern": "",
+    "recordPath": "",
+    "scheme": "https",
+    "skipRecord": false
+  },
+  "apiLevel": "",
+  "appABIs": [],
+  "appBundle": false,
+  "buildPath": "C:\\Users\\le\\Desktop\\cocos_creator\\demo\\cow\\build",
+  "debug": false,
+  "dest": "C:\\Users\\le\\Desktop\\cocos_creator\\demo\\cow\\build\\wechatgame",
+  "embedWebDebugger": false,
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [],
+  "fb-instant-games": {},
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "ios": {
+    "packageName": ""
+  },
+  "mac": {
+    "packageName": ""
+  },
+  "md5Cache": false,
+  "mergeStartScene": false,
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "",
+  "platform": "mini-game",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "scenes": [
+    "833b82b4-271e-4b1c-9565-f0a66971ed83"
+  ],
+  "sourceMaps": false,
+  "startScene": "833b82b4-271e-4b1c-9565-f0a66971ed83",
+  "template": "link",
+  "title": "cow",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "auto",
+  "win32": {},
+  "xxteaKey": "4f22970e-5e0f-4b",
+  "zipCompressJs": true,
+  "project": "C:\\Users\\le\\Desktop\\cocos_creator\\demo\\cow",
+  "projectName": "cow",
+  "debugBuildWorker": false
+}
+2020-04-21T06:05:46.451Z - normal: Building C:\Users\le\Desktop\cocos_creator\demo\cow
+2020-04-21T06:05:46.451Z - normal: Destination C:\Users\le\Desktop\cocos_creator\demo\cow\build\wechatgame
+2020-04-21T06:05:46.451Z - normal: Delete C:\Users\le\Desktop\cocos_creator\demo\cow\build\wechatgame\**\*,C:\Users\le\Desktop\cocos_creator\demo\cow\build\wechatgame\subpackages/**/*,!C:\Users\le\Desktop\cocos_creator\demo\cow\build\wechatgame\game.json,!C:\Users\le\Desktop\cocos_creator\demo\cow\build\wechatgame\project.config.json
+2020-04-21T06:05:49.212Z - normal: Start building assets
+2020-04-21T06:05:49.213Z - normal: Start spawn build-worker
+2020-04-21T06:05:50.334Z - normal: Finish spawn build-worker
+2020-04-21T06:05:50.334Z - normal: Start init build-worker
+2020-04-21T06:05:54.008Z - normal: Finish init build-worker
+2020-04-21T06:05:54.008Z - normal: Start build-assets in worker
+2020-04-21T06:05:54.871Z - normal: Finish build-assets in worker
+2020-04-21T06:05:54.887Z - normal: Finish building assets
+2020-04-21T06:05:54.928Z - normal: Start building plugin scripts
+2020-04-21T06:05:57.124Z - normal: Built wechatgame successfully
+2020-04-21T06:07:29.590Z - normal: Start building with options : {
+  "actualPlatform": "wechatgame",
+  "android": {
+    "packageName": ""
+  },
+  "android-instant": {
+    "REMOTE_SERVER_ROOT": "",
+    "host": "",
+    "packageName": "",
+    "pathPattern": "",
+    "recordPath": "",
+    "scheme": "https",
+    "skipRecord": false
+  },
+  "apiLevel": "",
+  "appABIs": [],
+  "appBundle": false,
+  "buildPath": "C:\\Users\\le\\Desktop\\cocos_creator\\demo\\cow\\build",
+  "debug": false,
+  "dest": "C:\\Users\\le\\Desktop\\cocos_creator\\demo\\cow\\build\\wechatgame",
+  "embedWebDebugger": false,
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [],
+  "fb-instant-games": {},
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "ios": {
+    "packageName": ""
+  },
+  "mac": {
+    "packageName": ""
+  },
+  "md5Cache": false,
+  "mergeStartScene": false,
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "",
+  "platform": "mini-game",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "scenes": [
+    "833b82b4-271e-4b1c-9565-f0a66971ed83"
+  ],
+  "sourceMaps": false,
+  "startScene": "833b82b4-271e-4b1c-9565-f0a66971ed83",
+  "template": "link",
+  "title": "cow",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "auto",
+  "win32": {},
+  "xxteaKey": "4f22970e-5e0f-4b",
+  "zipCompressJs": true,
+  "project": "C:\\Users\\le\\Desktop\\cocos_creator\\demo\\cow",
+  "projectName": "cow",
+  "debugBuildWorker": false
+}
+2020-04-21T06:07:29.591Z - normal: Building C:\Users\le\Desktop\cocos_creator\demo\cow
+2020-04-21T06:07:29.591Z - normal: Destination C:\Users\le\Desktop\cocos_creator\demo\cow\build\wechatgame
+2020-04-21T06:07:29.594Z - normal: Delete C:\Users\le\Desktop\cocos_creator\demo\cow\build\wechatgame\**\*,C:\Users\le\Desktop\cocos_creator\demo\cow\build\wechatgame\subpackages/**/*,!C:\Users\le\Desktop\cocos_creator\demo\cow\build\wechatgame\game.json,!C:\Users\le\Desktop\cocos_creator\demo\cow\build\wechatgame\project.config.json
+2020-04-21T06:07:38.757Z - normal: Start building assets
+2020-04-21T06:07:38.757Z - normal: Start spawn build-worker
+2020-04-21T06:07:41.172Z - normal: Finish spawn build-worker
+2020-04-21T06:07:41.172Z - normal: Start init build-worker
+2020-04-21T06:07:45.310Z - normal: Finish init build-worker
+2020-04-21T06:07:45.310Z - normal: Start build-assets in worker
+2020-04-21T06:07:47.630Z - normal: Finish build-assets in worker
+2020-04-21T06:07:47.673Z - normal: Finish building assets
+2020-04-21T06:07:47.713Z - normal: Start building plugin scripts
+2020-04-21T06:07:50.208Z - normal: Built wechatgame successfully
+2020-04-21T06:10:09.944Z - normal: Start building with options : {
+  "actualPlatform": "wechatgame",
+  "android": {
+    "packageName": ""
+  },
+  "android-instant": {
+    "REMOTE_SERVER_ROOT": "",
+    "host": "",
+    "packageName": "",
+    "pathPattern": "",
+    "recordPath": "",
+    "scheme": "https",
+    "skipRecord": false
+  },
+  "apiLevel": "",
+  "appABIs": [],
+  "appBundle": false,
+  "buildPath": "C:\\Users\\le\\Desktop\\cocos_creator\\demo\\cow\\build",
+  "debug": false,
+  "dest": "C:\\Users\\le\\Desktop\\cocos_creator\\demo\\cow\\build\\wechatgame",
+  "embedWebDebugger": false,
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [],
+  "fb-instant-games": {},
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "ios": {
+    "packageName": ""
+  },
+  "mac": {
+    "packageName": ""
+  },
+  "md5Cache": false,
+  "mergeStartScene": false,
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "",
+  "platform": "mini-game",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "scenes": [
+    "833b82b4-271e-4b1c-9565-f0a66971ed83"
+  ],
+  "sourceMaps": false,
+  "startScene": "833b82b4-271e-4b1c-9565-f0a66971ed83",
+  "template": "link",
+  "title": "cow",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "auto",
+  "win32": {},
+  "xxteaKey": "4f22970e-5e0f-4b",
+  "zipCompressJs": true,
+  "project": "C:\\Users\\le\\Desktop\\cocos_creator\\demo\\cow",
+  "projectName": "cow",
+  "debugBuildWorker": false
+}
+2020-04-21T06:10:09.945Z - normal: Building C:\Users\le\Desktop\cocos_creator\demo\cow
+2020-04-21T06:10:09.945Z - normal: Destination C:\Users\le\Desktop\cocos_creator\demo\cow\build\wechatgame
+2020-04-21T06:10:09.946Z - normal: Delete C:\Users\le\Desktop\cocos_creator\demo\cow\build\wechatgame\**\*,C:\Users\le\Desktop\cocos_creator\demo\cow\build\wechatgame\subpackages/**/*,!C:\Users\le\Desktop\cocos_creator\demo\cow\build\wechatgame\game.json,!C:\Users\le\Desktop\cocos_creator\demo\cow\build\wechatgame\project.config.json
+2020-04-21T06:10:12.678Z - normal: Start building assets
+2020-04-21T06:10:12.678Z - normal: Start spawn build-worker
+2020-04-21T06:10:13.808Z - normal: Finish spawn build-worker
+2020-04-21T06:10:13.809Z - normal: Start init build-worker
+2020-04-21T06:10:17.632Z - normal: Finish init build-worker
+2020-04-21T06:10:17.632Z - normal: Start build-assets in worker
+2020-04-21T06:10:18.461Z - normal: Finish build-assets in worker
+2020-04-21T06:10:18.471Z - normal: Finish building assets
+2020-04-21T06:10:18.515Z - normal: Start building plugin scripts
+2020-04-21T06:10:20.761Z - normal: Built wechatgame successfully
+2020-04-21T06:15:56.130Z - normal: Start building with options : {
+  "actualPlatform": "wechatgame",
+  "android": {
+    "packageName": ""
+  },
+  "android-instant": {
+    "REMOTE_SERVER_ROOT": "",
+    "host": "",
+    "packageName": "",
+    "pathPattern": "",
+    "recordPath": "",
+    "scheme": "https",
+    "skipRecord": false
+  },
+  "apiLevel": "",
+  "appABIs": [],
+  "appBundle": false,
+  "buildPath": "C:\\Users\\le\\Desktop\\cocos_creator\\demo\\cow\\build",
+  "debug": false,
+  "dest": "C:\\Users\\le\\Desktop\\cocos_creator\\demo\\cow\\build\\wechatgame",
+  "embedWebDebugger": false,
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [],
+  "fb-instant-games": {},
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "ios": {
+    "packageName": ""
+  },
+  "mac": {
+    "packageName": ""
+  },
+  "md5Cache": false,
+  "mergeStartScene": false,
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "",
+  "platform": "mini-game",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "scenes": [
+    "833b82b4-271e-4b1c-9565-f0a66971ed83"
+  ],
+  "sourceMaps": false,
+  "startScene": "833b82b4-271e-4b1c-9565-f0a66971ed83",
+  "template": "link",
+  "title": "cow",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "auto",
+  "win32": {},
+  "xxteaKey": "4f22970e-5e0f-4b",
+  "zipCompressJs": true,
+  "project": "C:\\Users\\le\\Desktop\\cocos_creator\\demo\\cow",
+  "projectName": "cow",
+  "debugBuildWorker": false
+}
+2020-04-21T06:15:56.132Z - normal: Building C:\Users\le\Desktop\cocos_creator\demo\cow
+2020-04-21T06:15:56.132Z - normal: Destination C:\Users\le\Desktop\cocos_creator\demo\cow\build\wechatgame
+2020-04-21T06:15:56.134Z - normal: Delete C:\Users\le\Desktop\cocos_creator\demo\cow\build\wechatgame\**\*,C:\Users\le\Desktop\cocos_creator\demo\cow\build\wechatgame\subpackages/**/*,!C:\Users\le\Desktop\cocos_creator\demo\cow\build\wechatgame\game.json,!C:\Users\le\Desktop\cocos_creator\demo\cow\build\wechatgame\project.config.json
+2020-04-21T06:16:03.989Z - normal: Start building assets
+2020-04-21T06:16:03.989Z - normal: Start spawn build-worker
+2020-04-21T06:16:05.209Z - normal: Finish spawn build-worker
+2020-04-21T06:16:05.209Z - normal: Start init build-worker
+2020-04-21T06:16:09.019Z - normal: Finish init build-worker
+2020-04-21T06:16:09.019Z - normal: Start build-assets in worker
+2020-04-21T06:16:09.764Z - normal: Finish build-assets in worker
+2020-04-21T06:16:09.776Z - normal: Finish building assets
+2020-04-21T06:16:09.816Z - normal: Start building plugin scripts
+2020-04-21T06:16:12.380Z - normal: Built wechatgame successfully
+2020-04-21T06:25:13.972Z - normal: Start building with options : {
+  "actualPlatform": "wechatgame",
+  "android": {
+    "packageName": ""
+  },
+  "android-instant": {
+    "REMOTE_SERVER_ROOT": "",
+    "host": "",
+    "packageName": "",
+    "pathPattern": "",
+    "recordPath": "",
+    "scheme": "https",
+    "skipRecord": false
+  },
+  "apiLevel": "",
+  "appABIs": [],
+  "appBundle": false,
+  "buildPath": "C:\\Users\\le\\Desktop\\cocos_creator\\demo\\cow\\build",
+  "debug": false,
+  "dest": "C:\\Users\\le\\Desktop\\cocos_creator\\demo\\cow\\build\\wechatgame",
+  "embedWebDebugger": false,
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [],
+  "fb-instant-games": {},
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "ios": {
+    "packageName": ""
+  },
+  "mac": {
+    "packageName": ""
+  },
+  "md5Cache": false,
+  "mergeStartScene": false,
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "",
+  "platform": "mini-game",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "scenes": [
+    "833b82b4-271e-4b1c-9565-f0a66971ed83"
+  ],
+  "sourceMaps": false,
+  "startScene": "833b82b4-271e-4b1c-9565-f0a66971ed83",
+  "template": "link",
+  "title": "cow",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "auto",
+  "win32": {},
+  "xxteaKey": "4f22970e-5e0f-4b",
+  "zipCompressJs": true,
+  "project": "C:\\Users\\le\\Desktop\\cocos_creator\\demo\\cow",
+  "projectName": "cow",
+  "debugBuildWorker": false
+}
+2020-04-21T06:25:13.972Z - normal: Building C:\Users\le\Desktop\cocos_creator\demo\cow
+2020-04-21T06:25:13.972Z - normal: Destination C:\Users\le\Desktop\cocos_creator\demo\cow\build\wechatgame
+2020-04-21T06:25:13.974Z - normal: Delete C:\Users\le\Desktop\cocos_creator\demo\cow\build\wechatgame\**\*,C:\Users\le\Desktop\cocos_creator\demo\cow\build\wechatgame\subpackages/**/*,!C:\Users\le\Desktop\cocos_creator\demo\cow\build\wechatgame\game.json,!C:\Users\le\Desktop\cocos_creator\demo\cow\build\wechatgame\project.config.json
+2020-04-21T06:25:17.088Z - normal: Start building assets
+2020-04-21T06:25:17.089Z - normal: Start spawn build-worker
+2020-04-21T06:25:18.291Z - normal: Finish spawn build-worker
+2020-04-21T06:25:18.291Z - normal: Start init build-worker
+2020-04-21T06:25:22.135Z - normal: Finish init build-worker
+2020-04-21T06:25:22.135Z - normal: Start build-assets in worker
+2020-04-21T06:25:23.276Z - normal: Finish build-assets in worker
+2020-04-21T06:25:23.285Z - normal: Finish building assets
+2020-04-21T06:25:23.328Z - normal: Start building plugin scripts
+2020-04-21T06:25:27.288Z - normal: Built wechatgame successfully
+2020-04-21T07:39:43.483Z - normal: Start building with options : {
+  "actualPlatform": "wechatgame",
+  "android": {
+    "packageName": ""
+  },
+  "android-instant": {
+    "REMOTE_SERVER_ROOT": "",
+    "host": "",
+    "packageName": "",
+    "pathPattern": "",
+    "recordPath": "",
+    "scheme": "https",
+    "skipRecord": false
+  },
+  "apiLevel": "",
+  "appABIs": [],
+  "appBundle": false,
+  "buildPath": "C:\\Users\\le\\Desktop\\cocos_creator\\demo\\cow\\build",
+  "debug": false,
+  "dest": "C:\\Users\\le\\Desktop\\cocos_creator\\demo\\cow\\build\\wechatgame",
+  "embedWebDebugger": false,
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [],
+  "fb-instant-games": {},
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "ios": {
+    "packageName": ""
+  },
+  "mac": {
+    "packageName": ""
+  },
+  "md5Cache": false,
+  "mergeStartScene": false,
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "",
+  "platform": "mini-game",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "scenes": [
+    "833b82b4-271e-4b1c-9565-f0a66971ed83"
+  ],
+  "sourceMaps": false,
+  "startScene": "833b82b4-271e-4b1c-9565-f0a66971ed83",
+  "template": "link",
+  "title": "cow",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "auto",
+  "win32": {},
+  "xxteaKey": "4f22970e-5e0f-4b",
+  "zipCompressJs": true,
+  "project": "C:\\Users\\le\\Desktop\\cocos_creator\\demo\\cow",
+  "projectName": "cow",
+  "debugBuildWorker": false
+}
+2020-04-21T07:39:43.484Z - normal: Building C:\Users\le\Desktop\cocos_creator\demo\cow
+2020-04-21T07:39:43.484Z - normal: Destination C:\Users\le\Desktop\cocos_creator\demo\cow\build\wechatgame
+2020-04-21T07:39:43.485Z - normal: Delete C:\Users\le\Desktop\cocos_creator\demo\cow\build\wechatgame\**\*,C:\Users\le\Desktop\cocos_creator\demo\cow\build\wechatgame\subpackages/**/*,!C:\Users\le\Desktop\cocos_creator\demo\cow\build\wechatgame\game.json,!C:\Users\le\Desktop\cocos_creator\demo\cow\build\wechatgame\project.config.json
+2020-04-21T07:39:52.209Z - normal: Start building assets
+2020-04-21T07:39:52.209Z - normal: Start spawn build-worker
+2020-04-21T07:39:55.437Z - normal: Finish spawn build-worker
+2020-04-21T07:39:55.437Z - normal: Start init build-worker
+2020-04-21T07:40:00.555Z - normal: Finish init build-worker
+2020-04-21T07:40:00.555Z - normal: Start build-assets in worker
+2020-04-21T07:40:02.205Z - normal: Finish build-assets in worker
+2020-04-21T07:40:02.255Z - normal: Finish building assets
+2020-04-21T07:40:02.296Z - normal: Start building plugin scripts
+2020-04-21T07:40:04.807Z - normal: Built wechatgame successfully
+2020-04-21T07:41:09.906Z - normal: Start building with options : {
+  "actualPlatform": "wechatgame",
+  "android": {
+    "packageName": ""
+  },
+  "android-instant": {
+    "REMOTE_SERVER_ROOT": "",
+    "host": "",
+    "packageName": "",
+    "pathPattern": "",
+    "recordPath": "",
+    "scheme": "https",
+    "skipRecord": false
+  },
+  "apiLevel": "",
+  "appABIs": [],
+  "appBundle": false,
+  "buildPath": "C:\\Users\\le\\Desktop\\cocos_creator\\demo\\cow\\build",
+  "debug": false,
+  "dest": "C:\\Users\\le\\Desktop\\cocos_creator\\demo\\cow\\build\\wechatgame",
+  "embedWebDebugger": false,
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [],
+  "fb-instant-games": {},
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "ios": {
+    "packageName": ""
+  },
+  "mac": {
+    "packageName": ""
+  },
+  "md5Cache": false,
+  "mergeStartScene": false,
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "",
+  "platform": "mini-game",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "scenes": [
+    "833b82b4-271e-4b1c-9565-f0a66971ed83"
+  ],
+  "sourceMaps": false,
+  "startScene": "833b82b4-271e-4b1c-9565-f0a66971ed83",
+  "template": "link",
+  "title": "cow",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "auto",
+  "win32": {},
+  "xxteaKey": "4f22970e-5e0f-4b",
+  "zipCompressJs": true,
+  "project": "C:\\Users\\le\\Desktop\\cocos_creator\\demo\\cow",
+  "projectName": "cow",
+  "debugBuildWorker": false
+}
+2020-04-21T07:41:09.906Z - normal: Building C:\Users\le\Desktop\cocos_creator\demo\cow
+2020-04-21T07:41:09.906Z - normal: Destination C:\Users\le\Desktop\cocos_creator\demo\cow\build\wechatgame
+2020-04-21T07:41:09.907Z - normal: Delete C:\Users\le\Desktop\cocos_creator\demo\cow\build\wechatgame\**\*,C:\Users\le\Desktop\cocos_creator\demo\cow\build\wechatgame\subpackages/**/*,!C:\Users\le\Desktop\cocos_creator\demo\cow\build\wechatgame\game.json,!C:\Users\le\Desktop\cocos_creator\demo\cow\build\wechatgame\project.config.json
+2020-04-21T07:41:20.126Z - normal: Start building assets
+2020-04-21T07:41:20.127Z - normal: Start spawn build-worker
+2020-04-21T07:41:23.717Z - normal: Finish spawn build-worker
+2020-04-21T07:41:23.718Z - normal: Start init build-worker
+2020-04-21T07:41:28.863Z - normal: Finish init build-worker
+2020-04-21T07:41:28.863Z - normal: Start build-assets in worker
+2020-04-21T07:41:30.502Z - normal: Finish build-assets in worker
+2020-04-21T07:41:30.556Z - normal: Finish building assets
+2020-04-21T07:41:30.597Z - normal: Start building plugin scripts
+2020-04-21T07:41:32.939Z - normal: Built wechatgame successfully
+2020-04-21T07:44:21.256Z - normal: Start building with options : {
+  "actualPlatform": "wechatgame",
+  "android": {
+    "packageName": ""
+  },
+  "android-instant": {
+    "REMOTE_SERVER_ROOT": "",
+    "host": "",
+    "packageName": "",
+    "pathPattern": "",
+    "recordPath": "",
+    "scheme": "https",
+    "skipRecord": false
+  },
+  "apiLevel": "",
+  "appABIs": [],
+  "appBundle": false,
+  "buildPath": "C:\\Users\\le\\Desktop\\cocos_creator\\demo\\cow\\build",
+  "debug": false,
+  "dest": "C:\\Users\\le\\Desktop\\cocos_creator\\demo\\cow\\build\\wechatgame",
+  "embedWebDebugger": false,
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [],
+  "fb-instant-games": {},
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "ios": {
+    "packageName": ""
+  },
+  "mac": {
+    "packageName": ""
+  },
+  "md5Cache": false,
+  "mergeStartScene": false,
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "",
+  "platform": "mini-game",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "scenes": [
+    "833b82b4-271e-4b1c-9565-f0a66971ed83"
+  ],
+  "sourceMaps": false,
+  "startScene": "833b82b4-271e-4b1c-9565-f0a66971ed83",
+  "template": "link",
+  "title": "cow",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "auto",
+  "win32": {},
+  "xxteaKey": "4f22970e-5e0f-4b",
+  "zipCompressJs": true,
+  "project": "C:\\Users\\le\\Desktop\\cocos_creator\\demo\\cow",
+  "projectName": "cow",
+  "debugBuildWorker": false
+}
+2020-04-21T07:44:21.256Z - normal: Building C:\Users\le\Desktop\cocos_creator\demo\cow
+2020-04-21T07:44:21.256Z - normal: Destination C:\Users\le\Desktop\cocos_creator\demo\cow\build\wechatgame
+2020-04-21T07:44:21.258Z - normal: Delete C:\Users\le\Desktop\cocos_creator\demo\cow\build\wechatgame\**\*,C:\Users\le\Desktop\cocos_creator\demo\cow\build\wechatgame\subpackages/**/*,!C:\Users\le\Desktop\cocos_creator\demo\cow\build\wechatgame\game.json,!C:\Users\le\Desktop\cocos_creator\demo\cow\build\wechatgame\project.config.json
+2020-04-21T07:44:30.829Z - normal: Start building assets
+2020-04-21T07:44:30.830Z - normal: Start spawn build-worker
+2020-04-21T07:44:34.129Z - normal: Finish spawn build-worker
+2020-04-21T07:44:34.129Z - normal: Start init build-worker
+2020-04-21T07:44:41.590Z - normal: Finish init build-worker
+2020-04-21T07:44:41.590Z - normal: Start build-assets in worker
+2020-04-21T07:44:43.767Z - normal: Finish build-assets in worker
+2020-04-21T07:44:43.860Z - normal: Finish building assets
+2020-04-21T07:44:43.901Z - normal: Start building plugin scripts
+2020-04-21T07:44:46.180Z - normal: Built wechatgame successfully
+2020-04-21T07:52:22.607Z - normal: Start building with options : {
+  "actualPlatform": "wechatgame",
+  "android": {
+    "packageName": ""
+  },
+  "android-instant": {
+    "REMOTE_SERVER_ROOT": "",
+    "host": "",
+    "packageName": "",
+    "pathPattern": "",
+    "recordPath": "",
+    "scheme": "https",
+    "skipRecord": false
+  },
+  "apiLevel": "",
+  "appABIs": [],
+  "appBundle": false,
+  "buildPath": "C:\\Users\\le\\Desktop\\cocos_creator\\demo\\cow\\build",
+  "debug": false,
+  "dest": "C:\\Users\\le\\Desktop\\cocos_creator\\demo\\cow\\build\\wechatgame",
+  "embedWebDebugger": false,
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [],
+  "fb-instant-games": {},
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "ios": {
+    "packageName": ""
+  },
+  "mac": {
+    "packageName": ""
+  },
+  "md5Cache": false,
+  "mergeStartScene": false,
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "",
+  "platform": "mini-game",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "scenes": [
+    "833b82b4-271e-4b1c-9565-f0a66971ed83"
+  ],
+  "sourceMaps": false,
+  "startScene": "833b82b4-271e-4b1c-9565-f0a66971ed83",
+  "template": "link",
+  "title": "cow",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "auto",
+  "win32": {},
+  "xxteaKey": "4f22970e-5e0f-4b",
+  "zipCompressJs": true,
+  "project": "C:\\Users\\le\\Desktop\\cocos_creator\\demo\\cow",
+  "projectName": "cow",
+  "debugBuildWorker": false
+}
+2020-04-21T07:52:22.607Z - normal: Building C:\Users\le\Desktop\cocos_creator\demo\cow
+2020-04-21T07:52:22.608Z - normal: Destination C:\Users\le\Desktop\cocos_creator\demo\cow\build\wechatgame
+2020-04-21T07:52:22.609Z - normal: Delete C:\Users\le\Desktop\cocos_creator\demo\cow\build\wechatgame\**\*,C:\Users\le\Desktop\cocos_creator\demo\cow\build\wechatgame\subpackages/**/*,!C:\Users\le\Desktop\cocos_creator\demo\cow\build\wechatgame\game.json,!C:\Users\le\Desktop\cocos_creator\demo\cow\build\wechatgame\project.config.json
+2020-04-21T07:52:31.888Z - normal: Start building assets
+2020-04-21T07:52:31.889Z - normal: Start spawn build-worker
+2020-04-21T07:52:35.093Z - normal: Finish spawn build-worker
+2020-04-21T07:52:35.093Z - normal: Start init build-worker
+2020-04-21T07:52:44.841Z - normal: Finish init build-worker
+2020-04-21T07:52:44.841Z - normal: Start build-assets in worker
+2020-04-21T07:52:47.200Z - normal: Finish build-assets in worker
+2020-04-21T07:52:47.238Z - normal: Finish building assets
+2020-04-21T07:52:47.450Z - normal: Start building plugin scripts
+2020-04-21T07:52:57.780Z - normal: Built wechatgame successfully
+2020-04-21T08:05:35.148Z - normal: Start building with options : {
+  "actualPlatform": "wechatgame",
+  "android": {
+    "packageName": ""
+  },
+  "android-instant": {
+    "REMOTE_SERVER_ROOT": "",
+    "host": "",
+    "packageName": "",
+    "pathPattern": "",
+    "recordPath": "",
+    "scheme": "https",
+    "skipRecord": false
+  },
+  "apiLevel": "",
+  "appABIs": [],
+  "appBundle": false,
+  "buildPath": "C:\\Users\\le\\Desktop\\cocos_creator\\demo\\cow\\build",
+  "debug": false,
+  "dest": "C:\\Users\\le\\Desktop\\cocos_creator\\demo\\cow\\build\\wechatgame",
+  "embedWebDebugger": false,
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [],
+  "fb-instant-games": {},
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "ios": {
+    "packageName": ""
+  },
+  "mac": {
+    "packageName": ""
+  },
+  "md5Cache": false,
+  "mergeStartScene": false,
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "",
+  "platform": "mini-game",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "scenes": [
+    "833b82b4-271e-4b1c-9565-f0a66971ed83"
+  ],
+  "sourceMaps": false,
+  "startScene": "833b82b4-271e-4b1c-9565-f0a66971ed83",
+  "template": "link",
+  "title": "cow",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "auto",
+  "win32": {},
+  "xxteaKey": "4f22970e-5e0f-4b",
+  "zipCompressJs": true,
+  "project": "C:\\Users\\le\\Desktop\\cocos_creator\\demo\\cow",
+  "projectName": "cow",
+  "debugBuildWorker": false
+}
+2020-04-21T08:05:35.149Z - normal: Building C:\Users\le\Desktop\cocos_creator\demo\cow
+2020-04-21T08:05:35.149Z - normal: Destination C:\Users\le\Desktop\cocos_creator\demo\cow\build\wechatgame
+2020-04-21T08:05:35.150Z - normal: Delete C:\Users\le\Desktop\cocos_creator\demo\cow\build\wechatgame\**\*,C:\Users\le\Desktop\cocos_creator\demo\cow\build\wechatgame\subpackages/**/*,!C:\Users\le\Desktop\cocos_creator\demo\cow\build\wechatgame\game.json,!C:\Users\le\Desktop\cocos_creator\demo\cow\build\wechatgame\project.config.json
+2020-04-21T08:05:37.413Z - normal: Start building assets
+2020-04-21T08:05:37.413Z - normal: Start spawn build-worker
+2020-04-21T08:05:38.127Z - normal: Finish spawn build-worker
+2020-04-21T08:05:38.128Z - normal: Start init build-worker
+2020-04-21T08:05:40.812Z - normal: Finish init build-worker
+2020-04-21T08:05:40.812Z - normal: Start build-assets in worker
+2020-04-21T08:05:41.580Z - normal: Finish build-assets in worker
+2020-04-21T08:05:41.589Z - normal: Finish building assets
+2020-04-21T08:05:41.625Z - normal: Start building plugin scripts
+2020-04-21T08:05:43.680Z - normal: Built wechatgame successfully
+2020-04-21T08:05:46.136Z - normal: Initializing...
+
+2020-04-21T08:05:46.179Z - normal: idePortFile: C:\Users\le\AppData\Local\微信开发者工具\User Data\Default\.ide
+
+2020-04-21T08:05:47.227Z - normal: starting ide...
+
+2020-04-21T08:05:53.879Z - normal: IDE server has started, listening on http://127.0.0.1:49107
+
+2020-04-21T08:05:53.882Z - normal: initialization finished
+
+2020-04-21T08:05:55.656Z - normal: open IDE success
+
+2020-04-21T08:07:52.643Z - normal: Initializing...
+
+2020-04-21T08:07:52.683Z - normal: idePortFile: C:\Users\le\AppData\Local\微信开发者工具\User Data\Default\.ide
+
+2020-04-21T08:07:52.712Z - normal: IDE server has started, listening on http://127.0.0.1:49107
+initialization finished
+
+2020-04-21T08:07:52.967Z - error: RequestError: Error: read ECONNRESET
+
+    at Socket.<anonymous> (D:\Game_Work\CocosCreator\resources\app.asar\editor\builtin\wechatgame\utils\wechat-game.js:1:774)
+    at Socket.emit (events.js:194:13)
+    at Socket.EventEmitter.emit (domain.js:469:20)
+    at addChunk (_stream_readable.js:296:12)
+    at readableAddChunk (_stream_readable.js:277:11)
+    at Socket.Readable.push (_stream_readable.js:232:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:165:17)
+2020-04-21T08:07:54.105Z - normal: Initializing...
+
+2020-04-21T08:07:54.144Z - normal: idePortFile: C:\Users\le\AppData\Local\微信开发者工具\User Data\Default\.ide
+
+2020-04-21T08:07:55.164Z - normal: starting ide...
+
+2020-04-21T08:08:01.358Z - normal: IDE server has started, listening on http://127.0.0.1:13931
+
+2020-04-21T08:08:01.361Z - normal: initialization finished
+
+2020-04-21T08:08:03.070Z - normal: open IDE success
+
+2020-04-21T09:02:05.189Z - normal: Start building with options : {
+  "actualPlatform": "wechatgame",
+  "android": {
+    "packageName": ""
+  },
+  "android-instant": {
+    "REMOTE_SERVER_ROOT": "",
+    "host": "",
+    "packageName": "",
+    "pathPattern": "",
+    "recordPath": "",
+    "scheme": "https",
+    "skipRecord": false
+  },
+  "apiLevel": "",
+  "appABIs": [],
+  "appBundle": false,
+  "buildPath": "C:\\Users\\le\\Desktop\\cocos_creator\\demo\\cow\\build",
+  "debug": false,
+  "dest": "C:\\Users\\le\\Desktop\\cocos_creator\\demo\\cow\\build\\wechatgame",
+  "embedWebDebugger": false,
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [],
+  "fb-instant-games": {},
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "ios": {
+    "packageName": ""
+  },
+  "mac": {
+    "packageName": ""
+  },
+  "md5Cache": false,
+  "mergeStartScene": false,
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "",
+  "platform": "mini-game",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "scenes": [
+    "833b82b4-271e-4b1c-9565-f0a66971ed83"
+  ],
+  "sourceMaps": false,
+  "startScene": "833b82b4-271e-4b1c-9565-f0a66971ed83",
+  "template": "link",
+  "title": "cow",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "auto",
+  "win32": {},
+  "xxteaKey": "4f22970e-5e0f-4b",
+  "zipCompressJs": true,
+  "project": "C:\\Users\\le\\Desktop\\cocos_creator\\demo\\cow",
+  "projectName": "cow",
+  "debugBuildWorker": false
+}
+2020-04-21T09:02:05.190Z - normal: Building C:\Users\le\Desktop\cocos_creator\demo\cow
+2020-04-21T09:02:05.190Z - normal: Destination C:\Users\le\Desktop\cocos_creator\demo\cow\build\wechatgame
+2020-04-21T09:02:05.191Z - normal: Delete C:\Users\le\Desktop\cocos_creator\demo\cow\build\wechatgame\**\*,C:\Users\le\Desktop\cocos_creator\demo\cow\build\wechatgame\subpackages/**/*,!C:\Users\le\Desktop\cocos_creator\demo\cow\build\wechatgame\game.json,!C:\Users\le\Desktop\cocos_creator\demo\cow\build\wechatgame\project.config.json
+2020-04-21T09:02:05.686Z - error: Build Failed: Error: EPERM: operation not permitted, lstat 'C:\Users\le\Desktop\cocos_creator\demo\cow\build\wechatgame\res\raw-assets\bf'
+    at D:\Game_Work\CocosCreator\resources\app.asar\editor\lib\builder\index.js:1:3815
+    at D:\Game_Work\CocosCreator\resources\app.asar\node_modules\async\lib\async.js:52:16
+    at D:\Game_Work\CocosCreator\resources\app.asar\node_modules\async\lib\async.js:696:30
+    at D:\Game_Work\CocosCreator\resources\app.asar\node_modules\async\lib\async.js:167:37
+    at D:\Game_Work\CocosCreator\resources\app.asar\node_modules\async\lib\async.js:1209:30
+2020-04-21T09:02:07.208Z - normal: Start building with options : {
+  "actualPlatform": "wechatgame",
+  "android": {
+    "packageName": ""
+  },
+  "android-instant": {
+    "REMOTE_SERVER_ROOT": "",
+    "host": "",
+    "packageName": "",
+    "pathPattern": "",
+    "recordPath": "",
+    "scheme": "https",
+    "skipRecord": false
+  },
+  "apiLevel": "",
+  "appABIs": [],
+  "appBundle": false,
+  "buildPath": "C:\\Users\\le\\Desktop\\cocos_creator\\demo\\cow\\build",
+  "debug": false,
+  "dest": "C:\\Users\\le\\Desktop\\cocos_creator\\demo\\cow\\build\\wechatgame",
+  "embedWebDebugger": false,
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [],
+  "fb-instant-games": {},
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "ios": {
+    "packageName": ""
+  },
+  "mac": {
+    "packageName": ""
+  },
+  "md5Cache": false,
+  "mergeStartScene": false,
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "",
+  "platform": "mini-game",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "scenes": [
+    "833b82b4-271e-4b1c-9565-f0a66971ed83"
+  ],
+  "sourceMaps": false,
+  "startScene": "833b82b4-271e-4b1c-9565-f0a66971ed83",
+  "template": "link",
+  "title": "cow",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "auto",
+  "win32": {},
+  "xxteaKey": "4f22970e-5e0f-4b",
+  "zipCompressJs": true,
+  "project": "C:\\Users\\le\\Desktop\\cocos_creator\\demo\\cow",
+  "projectName": "cow",
+  "debugBuildWorker": false
+}
+2020-04-21T09:02:07.208Z - normal: Building C:\Users\le\Desktop\cocos_creator\demo\cow
+2020-04-21T09:02:07.208Z - normal: Destination C:\Users\le\Desktop\cocos_creator\demo\cow\build\wechatgame
+2020-04-21T09:02:07.209Z - normal: Delete C:\Users\le\Desktop\cocos_creator\demo\cow\build\wechatgame\**\*,C:\Users\le\Desktop\cocos_creator\demo\cow\build\wechatgame\subpackages/**/*,!C:\Users\le\Desktop\cocos_creator\demo\cow\build\wechatgame\game.json,!C:\Users\le\Desktop\cocos_creator\demo\cow\build\wechatgame\project.config.json
+2020-04-21T09:02:10.119Z - normal: Start building assets
+2020-04-21T09:02:10.120Z - normal: Start spawn build-worker
+2020-04-21T09:02:11.148Z - normal: Finish spawn build-worker
+2020-04-21T09:02:11.149Z - normal: Start init build-worker
+2020-04-21T09:02:14.533Z - normal: Finish init build-worker
+2020-04-21T09:02:14.533Z - normal: Start build-assets in worker
+2020-04-21T09:02:15.468Z - normal: Finish build-assets in worker
+2020-04-21T09:02:15.477Z - normal: Finish building assets
+2020-04-21T09:02:15.523Z - normal: Start building plugin scripts
+2020-04-21T09:02:19.619Z - normal: Built wechatgame successfully
+2020-04-21T09:12:22.855Z - normal: Start building with options : {
+  "actualPlatform": "wechatgame",
+  "android": {
+    "packageName": ""
+  },
+  "android-instant": {
+    "REMOTE_SERVER_ROOT": "",
+    "host": "",
+    "packageName": "",
+    "pathPattern": "",
+    "recordPath": "",
+    "scheme": "https",
+    "skipRecord": false
+  },
+  "apiLevel": "",
+  "appABIs": [],
+  "appBundle": false,
+  "buildPath": "C:\\Users\\le\\Desktop\\cocos_creator\\demo\\cow\\build",
+  "debug": false,
+  "dest": "C:\\Users\\le\\Desktop\\cocos_creator\\demo\\cow\\build\\wechatgame",
+  "embedWebDebugger": false,
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [],
+  "fb-instant-games": {},
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "ios": {
+    "packageName": ""
+  },
+  "mac": {
+    "packageName": ""
+  },
+  "md5Cache": false,
+  "mergeStartScene": false,
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "",
+  "platform": "mini-game",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "scenes": [
+    "833b82b4-271e-4b1c-9565-f0a66971ed83"
+  ],
+  "sourceMaps": false,
+  "startScene": "833b82b4-271e-4b1c-9565-f0a66971ed83",
+  "template": "link",
+  "title": "cow",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "auto",
+  "win32": {},
+  "xxteaKey": "4f22970e-5e0f-4b",
+  "zipCompressJs": true,
+  "project": "C:\\Users\\le\\Desktop\\cocos_creator\\demo\\cow",
+  "projectName": "cow",
+  "debugBuildWorker": false
+}
+2020-04-21T09:12:22.856Z - normal: Building C:\Users\le\Desktop\cocos_creator\demo\cow
+2020-04-21T09:12:22.856Z - normal: Destination C:\Users\le\Desktop\cocos_creator\demo\cow\build\wechatgame
+2020-04-21T09:12:22.858Z - normal: Delete C:\Users\le\Desktop\cocos_creator\demo\cow\build\wechatgame\**\*,C:\Users\le\Desktop\cocos_creator\demo\cow\build\wechatgame\subpackages/**/*,!C:\Users\le\Desktop\cocos_creator\demo\cow\build\wechatgame\game.json,!C:\Users\le\Desktop\cocos_creator\demo\cow\build\wechatgame\project.config.json
+2020-04-21T09:12:27.955Z - normal: Start building assets
+2020-04-21T09:12:27.956Z - normal: Start spawn build-worker
+2020-04-21T09:12:29.407Z - normal: Finish spawn build-worker
+2020-04-21T09:12:29.408Z - normal: Start init build-worker
+2020-04-21T09:12:32.597Z - normal: Finish init build-worker
+2020-04-21T09:12:32.598Z - normal: Start build-assets in worker
+2020-04-21T09:12:33.895Z - normal: Finish build-assets in worker
+2020-04-21T09:12:33.906Z - normal: Finish building assets
+2020-04-21T09:12:33.948Z - normal: Start building plugin scripts
+2020-04-21T09:12:39.340Z - normal: Built wechatgame successfully
+2020-04-21T10:06:43.238Z - normal: Start building with options : {
+  "actualPlatform": "wechatgame",
+  "android": {
+    "packageName": ""
+  },
+  "android-instant": {
+    "REMOTE_SERVER_ROOT": "",
+    "host": "",
+    "packageName": "",
+    "pathPattern": "",
+    "recordPath": "",
+    "scheme": "https",
+    "skipRecord": false
+  },
+  "apiLevel": "",
+  "appABIs": [],
+  "appBundle": false,
+  "buildPath": "C:\\Users\\le\\Desktop\\cocos_creator\\demo\\cow\\build",
+  "debug": false,
+  "dest": "C:\\Users\\le\\Desktop\\cocos_creator\\demo\\cow\\build\\wechatgame",
+  "embedWebDebugger": false,
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [],
+  "fb-instant-games": {},
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "ios": {
+    "packageName": ""
+  },
+  "mac": {
+    "packageName": ""
+  },
+  "md5Cache": false,
+  "mergeStartScene": false,
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "",
+  "platform": "mini-game",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "scenes": [
+    "833b82b4-271e-4b1c-9565-f0a66971ed83"
+  ],
+  "sourceMaps": false,
+  "startScene": "833b82b4-271e-4b1c-9565-f0a66971ed83",
+  "template": "link",
+  "title": "cow",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "auto",
+  "win32": {},
+  "xxteaKey": "4f22970e-5e0f-4b",
+  "zipCompressJs": true,
+  "project": "C:\\Users\\le\\Desktop\\cocos_creator\\demo\\cow",
+  "projectName": "cow",
+  "debugBuildWorker": false
+}
+2020-04-21T10:06:43.238Z - normal: Building C:\Users\le\Desktop\cocos_creator\demo\cow
+2020-04-21T10:06:43.238Z - normal: Destination C:\Users\le\Desktop\cocos_creator\demo\cow\build\wechatgame
+2020-04-21T10:06:43.239Z - normal: Delete C:\Users\le\Desktop\cocos_creator\demo\cow\build\wechatgame\**\*,C:\Users\le\Desktop\cocos_creator\demo\cow\build\wechatgame\subpackages/**/*,!C:\Users\le\Desktop\cocos_creator\demo\cow\build\wechatgame\game.json,!C:\Users\le\Desktop\cocos_creator\demo\cow\build\wechatgame\project.config.json
+2020-04-21T10:06:47.465Z - normal: Start building assets
+2020-04-21T10:06:47.466Z - normal: Start spawn build-worker
+2020-04-21T10:06:48.611Z - normal: Finish spawn build-worker
+2020-04-21T10:06:48.611Z - normal: Start init build-worker
+2020-04-21T10:06:51.616Z - normal: Finish init build-worker
+2020-04-21T10:06:51.616Z - normal: Start build-assets in worker
+2020-04-21T10:06:52.841Z - normal: Finish build-assets in worker
+2020-04-21T10:06:52.857Z - normal: Finish building assets
+2020-04-21T10:06:52.901Z - normal: Start building plugin scripts
+2020-04-21T10:06:55.631Z - normal: Built wechatgame successfully
+2020-04-21T10:08:50.535Z - normal: Start building with options : {
+  "actualPlatform": "wechatgame",
+  "android": {
+    "packageName": ""
+  },
+  "android-instant": {
+    "REMOTE_SERVER_ROOT": "",
+    "host": "",
+    "packageName": "",
+    "pathPattern": "",
+    "recordPath": "",
+    "scheme": "https",
+    "skipRecord": false
+  },
+  "apiLevel": "",
+  "appABIs": [],
+  "appBundle": false,
+  "buildPath": "C:\\Users\\le\\Desktop\\cocos_creator\\demo\\cow\\build",
+  "debug": false,
+  "dest": "C:\\Users\\le\\Desktop\\cocos_creator\\demo\\cow\\build\\wechatgame",
+  "embedWebDebugger": false,
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [],
+  "fb-instant-games": {},
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "ios": {
+    "packageName": ""
+  },
+  "mac": {
+    "packageName": ""
+  },
+  "md5Cache": false,
+  "mergeStartScene": false,
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "",
+  "platform": "mini-game",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "scenes": [
+    "833b82b4-271e-4b1c-9565-f0a66971ed83"
+  ],
+  "sourceMaps": false,
+  "startScene": "833b82b4-271e-4b1c-9565-f0a66971ed83",
+  "template": "link",
+  "title": "cow",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "auto",
+  "win32": {},
+  "xxteaKey": "4f22970e-5e0f-4b",
+  "zipCompressJs": true,
+  "project": "C:\\Users\\le\\Desktop\\cocos_creator\\demo\\cow",
+  "projectName": "cow",
+  "debugBuildWorker": false
+}
+2020-04-21T10:08:50.536Z - normal: Building C:\Users\le\Desktop\cocos_creator\demo\cow
+2020-04-21T10:08:50.536Z - normal: Destination C:\Users\le\Desktop\cocos_creator\demo\cow\build\wechatgame
+2020-04-21T10:08:50.539Z - normal: Delete C:\Users\le\Desktop\cocos_creator\demo\cow\build\wechatgame\**\*,C:\Users\le\Desktop\cocos_creator\demo\cow\build\wechatgame\subpackages/**/*,!C:\Users\le\Desktop\cocos_creator\demo\cow\build\wechatgame\game.json,!C:\Users\le\Desktop\cocos_creator\demo\cow\build\wechatgame\project.config.json
+2020-04-21T10:08:55.698Z - normal: Start building assets
+2020-04-21T10:08:55.698Z - normal: Start spawn build-worker
+2020-04-21T10:08:56.832Z - normal: Finish spawn build-worker
+2020-04-21T10:08:56.832Z - normal: Start init build-worker
+2020-04-21T10:08:59.584Z - normal: Finish init build-worker
+2020-04-21T10:08:59.584Z - normal: Start build-assets in worker
+2020-04-21T10:09:01.238Z - normal: Finish build-assets in worker
+2020-04-21T10:09:01.263Z - normal: Finish building assets
+2020-04-21T10:09:01.319Z - normal: Start building plugin scripts
+2020-04-21T10:09:05.830Z - normal: Built wechatgame successfully
+2020-04-21T10:11:29.734Z - normal: Start building with options : {
+  "actualPlatform": "wechatgame",
+  "android": {
+    "packageName": ""
+  },
+  "android-instant": {
+    "REMOTE_SERVER_ROOT": "",
+    "host": "",
+    "packageName": "",
+    "pathPattern": "",
+    "recordPath": "",
+    "scheme": "https",
+    "skipRecord": false
+  },
+  "apiLevel": "",
+  "appABIs": [],
+  "appBundle": false,
+  "buildPath": "C:\\Users\\le\\Desktop\\cocos_creator\\demo\\cow\\build",
+  "debug": false,
+  "dest": "C:\\Users\\le\\Desktop\\cocos_creator\\demo\\cow\\build\\wechatgame",
+  "embedWebDebugger": false,
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [],
+  "fb-instant-games": {},
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "ios": {
+    "packageName": ""
+  },
+  "mac": {
+    "packageName": ""
+  },
+  "md5Cache": false,
+  "mergeStartScene": false,
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "",
+  "platform": "mini-game",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "scenes": [
+    "833b82b4-271e-4b1c-9565-f0a66971ed83"
+  ],
+  "sourceMaps": false,
+  "startScene": "833b82b4-271e-4b1c-9565-f0a66971ed83",
+  "template": "link",
+  "title": "cow",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "auto",
+  "win32": {},
+  "xxteaKey": "4f22970e-5e0f-4b",
+  "zipCompressJs": true,
+  "project": "C:\\Users\\le\\Desktop\\cocos_creator\\demo\\cow",
+  "projectName": "cow",
+  "debugBuildWorker": false
+}
+2020-04-21T10:11:29.735Z - normal: Building C:\Users\le\Desktop\cocos_creator\demo\cow
+2020-04-21T10:11:29.735Z - normal: Destination C:\Users\le\Desktop\cocos_creator\demo\cow\build\wechatgame
+2020-04-21T10:11:29.737Z - normal: Delete C:\Users\le\Desktop\cocos_creator\demo\cow\build\wechatgame\**\*,C:\Users\le\Desktop\cocos_creator\demo\cow\build\wechatgame\subpackages/**/*,!C:\Users\le\Desktop\cocos_creator\demo\cow\build\wechatgame\game.json,!C:\Users\le\Desktop\cocos_creator\demo\cow\build\wechatgame\project.config.json
+2020-04-21T10:11:32.855Z - normal: Start building assets
+2020-04-21T10:11:32.855Z - normal: Start spawn build-worker
+2020-04-21T10:11:34.022Z - normal: Finish spawn build-worker
+2020-04-21T10:11:34.022Z - normal: Start init build-worker
+2020-04-21T10:11:37.830Z - normal: Finish init build-worker
+2020-04-21T10:11:37.830Z - normal: Start build-assets in worker
+2020-04-21T10:11:38.648Z - normal: Finish build-assets in worker
+2020-04-21T10:11:38.658Z - normal: Finish building assets
+2020-04-21T10:11:38.703Z - normal: Start building plugin scripts
+2020-04-21T10:11:40.868Z - normal: Built wechatgame successfully
+2020-04-21T10:12:54.208Z - normal: Start building with options : {
+  "actualPlatform": "wechatgame",
+  "android": {
+    "packageName": ""
+  },
+  "android-instant": {
+    "REMOTE_SERVER_ROOT": "",
+    "host": "",
+    "packageName": "",
+    "pathPattern": "",
+    "recordPath": "",
+    "scheme": "https",
+    "skipRecord": false
+  },
+  "apiLevel": "",
+  "appABIs": [],
+  "appBundle": false,
+  "buildPath": "C:\\Users\\le\\Desktop\\cocos_creator\\demo\\cow\\build",
+  "debug": false,
+  "dest": "C:\\Users\\le\\Desktop\\cocos_creator\\demo\\cow\\build\\wechatgame",
+  "embedWebDebugger": false,
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [],
+  "fb-instant-games": {},
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "ios": {
+    "packageName": ""
+  },
+  "mac": {
+    "packageName": ""
+  },
+  "md5Cache": false,
+  "mergeStartScene": false,
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "",
+  "platform": "mini-game",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "scenes": [
+    "833b82b4-271e-4b1c-9565-f0a66971ed83"
+  ],
+  "sourceMaps": false,
+  "startScene": "833b82b4-271e-4b1c-9565-f0a66971ed83",
+  "template": "link",
+  "title": "cow",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "auto",
+  "win32": {},
+  "xxteaKey": "4f22970e-5e0f-4b",
+  "zipCompressJs": true,
+  "project": "C:\\Users\\le\\Desktop\\cocos_creator\\demo\\cow",
+  "projectName": "cow",
+  "debugBuildWorker": false
+}
+2020-04-21T10:12:54.209Z - normal: Building C:\Users\le\Desktop\cocos_creator\demo\cow
+2020-04-21T10:12:54.209Z - normal: Destination C:\Users\le\Desktop\cocos_creator\demo\cow\build\wechatgame
+2020-04-21T10:12:54.212Z - normal: Delete C:\Users\le\Desktop\cocos_creator\demo\cow\build\wechatgame\**\*,C:\Users\le\Desktop\cocos_creator\demo\cow\build\wechatgame\subpackages/**/*,!C:\Users\le\Desktop\cocos_creator\demo\cow\build\wechatgame\game.json,!C:\Users\le\Desktop\cocos_creator\demo\cow\build\wechatgame\project.config.json
+2020-04-21T10:12:56.344Z - normal: Start building assets
+2020-04-21T10:12:56.345Z - normal: Start spawn build-worker
+2020-04-21T10:12:57.242Z - normal: Finish spawn build-worker
+2020-04-21T10:12:57.242Z - normal: Start init build-worker
+2020-04-21T10:12:59.746Z - normal: Finish init build-worker
+2020-04-21T10:12:59.747Z - normal: Start build-assets in worker
+2020-04-21T10:13:00.411Z - normal: Finish build-assets in worker
+2020-04-21T10:13:00.421Z - normal: Finish building assets
+2020-04-21T10:13:00.458Z - normal: Start building plugin scripts
+2020-04-21T10:13:02.404Z - normal: Built wechatgame successfully
+2020-04-21T10:13:12.629Z - normal: Initializing...
+
+2020-04-21T10:13:12.669Z - normal: idePortFile: C:\Users\le\AppData\Local\微信开发者工具\User Data\Default\.ide
+
+2020-04-21T10:13:13.695Z - normal: starting ide...
+
+2020-04-21T10:13:20.322Z - normal: IDE server has started, listening on http://127.0.0.1:65017
+
+2020-04-21T10:13:20.326Z - normal: initialization finished
+
+2020-04-21T10:13:22.078Z - normal: open IDE success
+
+2020-04-21T10:54:28.233Z - normal: Start building with options : {
+  "actualPlatform": "wechatgame",
+  "android": {
+    "packageName": ""
+  },
+  "android-instant": {
+    "REMOTE_SERVER_ROOT": "",
+    "host": "",
+    "packageName": "",
+    "pathPattern": "",
+    "recordPath": "",
+    "scheme": "https",
+    "skipRecord": false
+  },
+  "apiLevel": "",
+  "appABIs": [],
+  "appBundle": false,
+  "buildPath": "C:\\Users\\le\\Desktop\\cocos_creator\\demo\\cow\\build",
+  "debug": false,
+  "dest": "C:\\Users\\le\\Desktop\\cocos_creator\\demo\\cow\\build\\wechatgame",
+  "embedWebDebugger": false,
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [],
+  "fb-instant-games": {},
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "ios": {
+    "packageName": ""
+  },
+  "mac": {
+    "packageName": ""
+  },
+  "md5Cache": false,
+  "mergeStartScene": false,
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "",
+  "platform": "mini-game",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "scenes": [
+    "833b82b4-271e-4b1c-9565-f0a66971ed83"
+  ],
+  "sourceMaps": false,
+  "startScene": "833b82b4-271e-4b1c-9565-f0a66971ed83",
+  "template": "link",
+  "title": "cow",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "auto",
+  "win32": {},
+  "xxteaKey": "4f22970e-5e0f-4b",
+  "zipCompressJs": true,
+  "project": "C:\\Users\\le\\Desktop\\cocos_creator\\demo\\cow",
+  "projectName": "cow",
+  "debugBuildWorker": false
+}
+2020-04-21T10:54:28.234Z - normal: Building C:\Users\le\Desktop\cocos_creator\demo\cow
+2020-04-21T10:54:28.234Z - normal: Destination C:\Users\le\Desktop\cocos_creator\demo\cow\build\wechatgame
+2020-04-21T10:54:28.234Z - normal: Delete C:\Users\le\Desktop\cocos_creator\demo\cow\build\wechatgame\**\*,C:\Users\le\Desktop\cocos_creator\demo\cow\build\wechatgame\subpackages/**/*,!C:\Users\le\Desktop\cocos_creator\demo\cow\build\wechatgame\game.json,!C:\Users\le\Desktop\cocos_creator\demo\cow\build\wechatgame\project.config.json
+2020-04-21T10:54:28.718Z - error: Build Failed: Error: EPERM: operation not permitted, lstat 'C:\Users\le\Desktop\cocos_creator\demo\cow\build\wechatgame\res\raw-assets\bf'
+    at D:\Game_Work\CocosCreator\resources\app.asar\editor\lib\builder\index.js:1:3815
+    at D:\Game_Work\CocosCreator\resources\app.asar\node_modules\async\lib\async.js:52:16
+    at D:\Game_Work\CocosCreator\resources\app.asar\node_modules\async\lib\async.js:696:30
+    at D:\Game_Work\CocosCreator\resources\app.asar\node_modules\async\lib\async.js:167:37
+    at D:\Game_Work\CocosCreator\resources\app.asar\node_modules\async\lib\async.js:1209:30
+2020-04-21T10:54:33.351Z - normal: Start building with options : {
+  "actualPlatform": "wechatgame",
+  "android": {
+    "packageName": ""
+  },
+  "android-instant": {
+    "REMOTE_SERVER_ROOT": "",
+    "host": "",
+    "packageName": "",
+    "pathPattern": "",
+    "recordPath": "",
+    "scheme": "https",
+    "skipRecord": false
+  },
+  "apiLevel": "",
+  "appABIs": [],
+  "appBundle": false,
+  "buildPath": "C:\\Users\\le\\Desktop\\cocos_creator\\demo\\cow\\build",
+  "debug": false,
+  "dest": "C:\\Users\\le\\Desktop\\cocos_creator\\demo\\cow\\build\\wechatgame",
+  "embedWebDebugger": false,
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [],
+  "fb-instant-games": {},
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "ios": {
+    "packageName": ""
+  },
+  "mac": {
+    "packageName": ""
+  },
+  "md5Cache": false,
+  "mergeStartScene": false,
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "",
+  "platform": "mini-game",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "scenes": [
+    "833b82b4-271e-4b1c-9565-f0a66971ed83"
+  ],
+  "sourceMaps": false,
+  "startScene": "833b82b4-271e-4b1c-9565-f0a66971ed83",
+  "template": "link",
+  "title": "cow",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "auto",
+  "win32": {},
+  "xxteaKey": "4f22970e-5e0f-4b",
+  "zipCompressJs": true,
+  "project": "C:\\Users\\le\\Desktop\\cocos_creator\\demo\\cow",
+  "projectName": "cow",
+  "debugBuildWorker": false
+}
+2020-04-21T10:54:33.352Z - normal: Building C:\Users\le\Desktop\cocos_creator\demo\cow
+2020-04-21T10:54:33.352Z - normal: Destination C:\Users\le\Desktop\cocos_creator\demo\cow\build\wechatgame
+2020-04-21T10:54:33.353Z - normal: Delete C:\Users\le\Desktop\cocos_creator\demo\cow\build\wechatgame\**\*,C:\Users\le\Desktop\cocos_creator\demo\cow\build\wechatgame\subpackages/**/*,!C:\Users\le\Desktop\cocos_creator\demo\cow\build\wechatgame\game.json,!C:\Users\le\Desktop\cocos_creator\demo\cow\build\wechatgame\project.config.json
+2020-04-21T10:54:35.901Z - normal: Start building assets
+2020-04-21T10:54:35.901Z - normal: Start spawn build-worker
+2020-04-21T10:54:37.038Z - normal: Finish spawn build-worker
+2020-04-21T10:54:37.038Z - normal: Start init build-worker
+2020-04-21T10:54:40.861Z - normal: Finish init build-worker
+2020-04-21T10:54:40.861Z - normal: Start build-assets in worker
+2020-04-21T10:54:42.008Z - normal: Finish build-assets in worker
+2020-04-21T10:54:42.019Z - normal: Finish building assets
+2020-04-21T10:54:42.060Z - normal: Start building plugin scripts
+2020-04-21T10:54:46.925Z - normal: Built wechatgame successfully
+2020-04-21T10:55:33.337Z - normal: Start building with options : {
+  "actualPlatform": "wechatgame",
+  "android": {
+    "packageName": ""
+  },
+  "android-instant": {
+    "REMOTE_SERVER_ROOT": "",
+    "host": "",
+    "packageName": "",
+    "pathPattern": "",
+    "recordPath": "",
+    "scheme": "https",
+    "skipRecord": false
+  },
+  "apiLevel": "",
+  "appABIs": [],
+  "appBundle": false,
+  "buildPath": "C:\\Users\\le\\Desktop\\cocos_creator\\demo\\cow\\build",
+  "debug": false,
+  "dest": "C:\\Users\\le\\Desktop\\cocos_creator\\demo\\cow\\build\\wechatgame",
+  "embedWebDebugger": false,
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [],
+  "fb-instant-games": {},
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "ios": {
+    "packageName": ""
+  },
+  "mac": {
+    "packageName": ""
+  },
+  "md5Cache": false,
+  "mergeStartScene": false,
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "",
+  "platform": "mini-game",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "scenes": [
+    "833b82b4-271e-4b1c-9565-f0a66971ed83"
+  ],
+  "sourceMaps": false,
+  "startScene": "833b82b4-271e-4b1c-9565-f0a66971ed83",
+  "template": "link",
+  "title": "cow",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "auto",
+  "win32": {},
+  "xxteaKey": "4f22970e-5e0f-4b",
+  "zipCompressJs": true,
+  "project": "C:\\Users\\le\\Desktop\\cocos_creator\\demo\\cow",
+  "projectName": "cow",
+  "debugBuildWorker": false
+}
+2020-04-21T10:55:33.338Z - normal: Building C:\Users\le\Desktop\cocos_creator\demo\cow
+2020-04-21T10:55:33.338Z - normal: Destination C:\Users\le\Desktop\cocos_creator\demo\cow\build\wechatgame
+2020-04-21T10:55:33.339Z - normal: Delete C:\Users\le\Desktop\cocos_creator\demo\cow\build\wechatgame\**\*,C:\Users\le\Desktop\cocos_creator\demo\cow\build\wechatgame\subpackages/**/*,!C:\Users\le\Desktop\cocos_creator\demo\cow\build\wechatgame\game.json,!C:\Users\le\Desktop\cocos_creator\demo\cow\build\wechatgame\project.config.json
+2020-04-21T10:55:37.425Z - normal: Start building assets
+2020-04-21T10:55:37.425Z - normal: Start spawn build-worker
+2020-04-21T10:55:38.517Z - normal: Finish spawn build-worker
+2020-04-21T10:55:38.517Z - normal: Start init build-worker
+2020-04-21T10:55:42.005Z - normal: Finish init build-worker
+2020-04-21T10:55:42.005Z - normal: Start build-assets in worker
+2020-04-21T10:55:43.887Z - normal: Finish build-assets in worker
+2020-04-21T10:55:43.900Z - normal: Finish building assets
+2020-04-21T10:55:43.964Z - normal: Start building plugin scripts
+2020-04-21T10:55:48.969Z - normal: Built wechatgame successfully
+2020-04-21T11:03:05.351Z - normal: Start building with options : {
+  "actualPlatform": "wechatgame",
+  "android": {
+    "packageName": ""
+  },
+  "android-instant": {
+    "REMOTE_SERVER_ROOT": "",
+    "host": "",
+    "packageName": "",
+    "pathPattern": "",
+    "recordPath": "",
+    "scheme": "https",
+    "skipRecord": false
+  },
+  "apiLevel": "",
+  "appABIs": [],
+  "appBundle": false,
+  "buildPath": "C:\\Users\\le\\Desktop\\cocos_creator\\demo\\cow\\build",
+  "debug": false,
+  "dest": "C:\\Users\\le\\Desktop\\cocos_creator\\demo\\cow\\build\\wechatgame",
+  "embedWebDebugger": false,
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [],
+  "fb-instant-games": {},
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "ios": {
+    "packageName": ""
+  },
+  "mac": {
+    "packageName": ""
+  },
+  "md5Cache": false,
+  "mergeStartScene": false,
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "",
+  "platform": "mini-game",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "scenes": [
+    "833b82b4-271e-4b1c-9565-f0a66971ed83"
+  ],
+  "sourceMaps": false,
+  "startScene": "833b82b4-271e-4b1c-9565-f0a66971ed83",
+  "template": "link",
+  "title": "cow",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "auto",
+  "win32": {},
+  "xxteaKey": "4f22970e-5e0f-4b",
+  "zipCompressJs": true,
+  "project": "C:\\Users\\le\\Desktop\\cocos_creator\\demo\\cow",
+  "projectName": "cow",
+  "debugBuildWorker": false
+}
+2020-04-21T11:03:05.352Z - normal: Building C:\Users\le\Desktop\cocos_creator\demo\cow
+2020-04-21T11:03:05.352Z - normal: Destination C:\Users\le\Desktop\cocos_creator\demo\cow\build\wechatgame
+2020-04-21T11:03:05.353Z - normal: Delete C:\Users\le\Desktop\cocos_creator\demo\cow\build\wechatgame\**\*,C:\Users\le\Desktop\cocos_creator\demo\cow\build\wechatgame\subpackages/**/*,!C:\Users\le\Desktop\cocos_creator\demo\cow\build\wechatgame\game.json,!C:\Users\le\Desktop\cocos_creator\demo\cow\build\wechatgame\project.config.json
+2020-04-21T11:03:08.475Z - normal: Start building assets
+2020-04-21T11:03:08.475Z - normal: Start spawn build-worker
+2020-04-21T11:03:09.625Z - normal: Finish spawn build-worker
+2020-04-21T11:03:09.626Z - normal: Start init build-worker
+2020-04-21T11:03:12.820Z - normal: Finish init build-worker
+2020-04-21T11:03:12.820Z - normal: Start build-assets in worker
+2020-04-21T11:03:13.534Z - normal: Finish build-assets in worker
+2020-04-21T11:03:13.544Z - normal: Finish building assets
+2020-04-21T11:03:13.591Z - normal: Start building plugin scripts
+2020-04-21T11:03:15.708Z - normal: Built wechatgame successfully
+2020-04-21T11:14:41.785Z - normal: Start building with options : {
+  "actualPlatform": "wechatgame",
+  "android": {
+    "packageName": ""
+  },
+  "android-instant": {
+    "REMOTE_SERVER_ROOT": "",
+    "host": "",
+    "packageName": "",
+    "pathPattern": "",
+    "recordPath": "",
+    "scheme": "https",
+    "skipRecord": false
+  },
+  "apiLevel": "",
+  "appABIs": [],
+  "appBundle": false,
+  "buildPath": "C:\\Users\\le\\Desktop\\cocos_creator\\demo\\cow\\build",
+  "debug": false,
+  "dest": "C:\\Users\\le\\Desktop\\cocos_creator\\demo\\cow\\build\\wechatgame",
+  "embedWebDebugger": false,
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [],
+  "fb-instant-games": {},
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "ios": {
+    "packageName": ""
+  },
+  "mac": {
+    "packageName": ""
+  },
+  "md5Cache": false,
+  "mergeStartScene": false,
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "",
+  "platform": "mini-game",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "scenes": [
+    "833b82b4-271e-4b1c-9565-f0a66971ed83"
+  ],
+  "sourceMaps": false,
+  "startScene": "833b82b4-271e-4b1c-9565-f0a66971ed83",
+  "template": "link",
+  "title": "cow",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "auto",
+  "win32": {},
+  "xxteaKey": "4f22970e-5e0f-4b",
+  "zipCompressJs": true,
+  "project": "C:\\Users\\le\\Desktop\\cocos_creator\\demo\\cow",
+  "projectName": "cow",
+  "debugBuildWorker": false
+}
+2020-04-21T11:14:41.785Z - normal: Building C:\Users\le\Desktop\cocos_creator\demo\cow
+2020-04-21T11:14:41.785Z - normal: Destination C:\Users\le\Desktop\cocos_creator\demo\cow\build\wechatgame
+2020-04-21T11:14:41.787Z - normal: Delete C:\Users\le\Desktop\cocos_creator\demo\cow\build\wechatgame\**\*,C:\Users\le\Desktop\cocos_creator\demo\cow\build\wechatgame\subpackages/**/*,!C:\Users\le\Desktop\cocos_creator\demo\cow\build\wechatgame\game.json,!C:\Users\le\Desktop\cocos_creator\demo\cow\build\wechatgame\project.config.json
+2020-04-21T11:14:49.095Z - normal: Start building assets
+2020-04-21T11:14:49.096Z - normal: Start spawn build-worker
+2020-04-21T11:14:51.653Z - normal: Finish spawn build-worker
+2020-04-21T11:14:51.653Z - normal: Start init build-worker
+2020-04-21T11:14:54.664Z - normal: Finish init build-worker
+2020-04-21T11:14:54.664Z - normal: Start build-assets in worker
+2020-04-21T11:14:57.030Z - normal: Finish build-assets in worker
+2020-04-21T11:14:57.040Z - normal: Finish building assets
+2020-04-21T11:14:57.087Z - normal: Start building plugin scripts
+2020-04-21T11:15:02.317Z - normal: Built wechatgame successfully
+2020-04-21T11:16:01.077Z - normal: Start building with options : {
+  "actualPlatform": "wechatgame",
+  "android": {
+    "packageName": ""
+  },
+  "android-instant": {
+    "REMOTE_SERVER_ROOT": "",
+    "host": "",
+    "packageName": "",
+    "pathPattern": "",
+    "recordPath": "",
+    "scheme": "https",
+    "skipRecord": false
+  },
+  "apiLevel": "",
+  "appABIs": [],
+  "appBundle": false,
+  "buildPath": "C:\\Users\\le\\Desktop\\cocos_creator\\demo\\cow\\build",
+  "debug": false,
+  "dest": "C:\\Users\\le\\Desktop\\cocos_creator\\demo\\cow\\build\\wechatgame",
+  "embedWebDebugger": false,
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [],
+  "fb-instant-games": {},
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "ios": {
+    "packageName": ""
+  },
+  "mac": {
+    "packageName": ""
+  },
+  "md5Cache": false,
+  "mergeStartScene": false,
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "",
+  "platform": "mini-game",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "scenes": [
+    "833b82b4-271e-4b1c-9565-f0a66971ed83"
+  ],
+  "sourceMaps": false,
+  "startScene": "833b82b4-271e-4b1c-9565-f0a66971ed83",
+  "template": "link",
+  "title": "cow",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "auto",
+  "win32": {},
+  "xxteaKey": "4f22970e-5e0f-4b",
+  "zipCompressJs": true,
+  "project": "C:\\Users\\le\\Desktop\\cocos_creator\\demo\\cow",
+  "projectName": "cow",
+  "debugBuildWorker": false
+}
+2020-04-21T11:16:01.078Z - normal: Building C:\Users\le\Desktop\cocos_creator\demo\cow
+2020-04-21T11:16:01.078Z - normal: Destination C:\Users\le\Desktop\cocos_creator\demo\cow\build\wechatgame
+2020-04-21T11:16:01.079Z - normal: Delete C:\Users\le\Desktop\cocos_creator\demo\cow\build\wechatgame\**\*,C:\Users\le\Desktop\cocos_creator\demo\cow\build\wechatgame\subpackages/**/*,!C:\Users\le\Desktop\cocos_creator\demo\cow\build\wechatgame\game.json,!C:\Users\le\Desktop\cocos_creator\demo\cow\build\wechatgame\project.config.json
+2020-04-21T11:16:08.113Z - normal: Start building assets
+2020-04-21T11:16:08.113Z - normal: Start spawn build-worker
+2020-04-21T11:16:09.711Z - normal: Finish spawn build-worker
+2020-04-21T11:16:09.711Z - normal: Start init build-worker
+2020-04-21T11:16:13.119Z - normal: Finish init build-worker
+2020-04-21T11:16:13.119Z - normal: Start build-assets in worker
+2020-04-21T11:16:15.860Z - normal: Finish build-assets in worker
+2020-04-21T11:16:15.880Z - normal: Finish building assets
+2020-04-21T11:16:15.926Z - normal: Start building plugin scripts
+2020-04-21T11:16:22.520Z - normal: Built wechatgame successfully
+2020-04-21T11:17:58.631Z - normal: Start building with options : {
+  "actualPlatform": "wechatgame",
+  "android": {
+    "packageName": ""
+  },
+  "android-instant": {
+    "REMOTE_SERVER_ROOT": "",
+    "host": "",
+    "packageName": "",
+    "pathPattern": "",
+    "recordPath": "",
+    "scheme": "https",
+    "skipRecord": false
+  },
+  "apiLevel": "",
+  "appABIs": [],
+  "appBundle": false,
+  "buildPath": "C:\\Users\\le\\Desktop\\cocos_creator\\demo\\cow\\build",
+  "debug": false,
+  "dest": "C:\\Users\\le\\Desktop\\cocos_creator\\demo\\cow\\build\\wechatgame",
+  "embedWebDebugger": false,
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [],
+  "fb-instant-games": {},
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "ios": {
+    "packageName": ""
+  },
+  "mac": {
+    "packageName": ""
+  },
+  "md5Cache": false,
+  "mergeStartScene": false,
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "",
+  "platform": "mini-game",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "scenes": [
+    "833b82b4-271e-4b1c-9565-f0a66971ed83"
+  ],
+  "sourceMaps": false,
+  "startScene": "833b82b4-271e-4b1c-9565-f0a66971ed83",
+  "template": "link",
+  "title": "cow",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "auto",
+  "win32": {},
+  "xxteaKey": "4f22970e-5e0f-4b",
+  "zipCompressJs": true,
+  "project": "C:\\Users\\le\\Desktop\\cocos_creator\\demo\\cow",
+  "projectName": "cow",
+  "debugBuildWorker": false
+}
+2020-04-21T11:17:58.631Z - normal: Building C:\Users\le\Desktop\cocos_creator\demo\cow
+2020-04-21T11:17:58.632Z - normal: Destination C:\Users\le\Desktop\cocos_creator\demo\cow\build\wechatgame
+2020-04-21T11:17:58.632Z - normal: Delete C:\Users\le\Desktop\cocos_creator\demo\cow\build\wechatgame\**\*,C:\Users\le\Desktop\cocos_creator\demo\cow\build\wechatgame\subpackages/**/*,!C:\Users\le\Desktop\cocos_creator\demo\cow\build\wechatgame\game.json,!C:\Users\le\Desktop\cocos_creator\demo\cow\build\wechatgame\project.config.json
+2020-04-21T11:18:04.874Z - normal: Start building assets
+2020-04-21T11:18:04.874Z - normal: Start spawn build-worker
+2020-04-21T11:18:06.421Z - normal: Finish spawn build-worker
+2020-04-21T11:18:06.421Z - normal: Start init build-worker
+2020-04-21T11:18:09.056Z - normal: Finish init build-worker
+2020-04-21T11:18:09.056Z - normal: Start build-assets in worker
+2020-04-21T11:18:11.068Z - normal: Finish build-assets in worker
+2020-04-21T11:18:11.187Z - normal: Finish building assets
+2020-04-21T11:18:11.284Z - normal: Start building plugin scripts
+2020-04-21T11:18:15.293Z - normal: Built wechatgame successfully
+2020-04-21T11:19:20.141Z - normal: Start building with options : {
+  "actualPlatform": "wechatgame",
+  "android": {
+    "packageName": ""
+  },
+  "android-instant": {
+    "REMOTE_SERVER_ROOT": "",
+    "host": "",
+    "packageName": "",
+    "pathPattern": "",
+    "recordPath": "",
+    "scheme": "https",
+    "skipRecord": false
+  },
+  "apiLevel": "",
+  "appABIs": [],
+  "appBundle": false,
+  "buildPath": "C:\\Users\\le\\Desktop\\cocos_creator\\demo\\cow\\build",
+  "debug": false,
+  "dest": "C:\\Users\\le\\Desktop\\cocos_creator\\demo\\cow\\build\\wechatgame",
+  "embedWebDebugger": false,
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [],
+  "fb-instant-games": {},
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "ios": {
+    "packageName": ""
+  },
+  "mac": {
+    "packageName": ""
+  },
+  "md5Cache": false,
+  "mergeStartScene": false,
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "",
+  "platform": "mini-game",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "scenes": [
+    "833b82b4-271e-4b1c-9565-f0a66971ed83"
+  ],
+  "sourceMaps": false,
+  "startScene": "833b82b4-271e-4b1c-9565-f0a66971ed83",
+  "template": "link",
+  "title": "cow",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "auto",
+  "win32": {},
+  "xxteaKey": "4f22970e-5e0f-4b",
+  "zipCompressJs": true,
+  "project": "C:\\Users\\le\\Desktop\\cocos_creator\\demo\\cow",
+  "projectName": "cow",
+  "debugBuildWorker": false
+}
+2020-04-21T11:19:20.142Z - normal: Building C:\Users\le\Desktop\cocos_creator\demo\cow
+2020-04-21T11:19:20.142Z - normal: Destination C:\Users\le\Desktop\cocos_creator\demo\cow\build\wechatgame
+2020-04-21T11:19:20.143Z - normal: Delete C:\Users\le\Desktop\cocos_creator\demo\cow\build\wechatgame\**\*,C:\Users\le\Desktop\cocos_creator\demo\cow\build\wechatgame\subpackages/**/*,!C:\Users\le\Desktop\cocos_creator\demo\cow\build\wechatgame\game.json,!C:\Users\le\Desktop\cocos_creator\demo\cow\build\wechatgame\project.config.json
+2020-04-21T11:19:26.953Z - normal: Start building assets
+2020-04-21T11:19:26.953Z - normal: Start spawn build-worker
+2020-04-21T11:19:28.645Z - normal: Finish spawn build-worker
+2020-04-21T11:19:28.645Z - normal: Start init build-worker
+2020-04-21T11:19:31.328Z - normal: Finish init build-worker
+2020-04-21T11:19:31.328Z - normal: Start build-assets in worker
+2020-04-21T11:19:33.393Z - normal: Finish build-assets in worker
+2020-04-21T11:19:33.488Z - normal: Finish building assets
+2020-04-21T11:19:33.529Z - normal: Start building plugin scripts
+2020-04-21T11:19:35.906Z - normal: Built wechatgame successfully
+2020-04-21T11:25:43.245Z - failed: load script [HttpUtils] failed : Error: Cannot find module 'HttpUtils'
+Require stack:
+- C:\Users\le\Desktop\cocos_creator\demo\cow\temp\quick-scripts\assets\scripts\game.js
+- D:\Game_Work\CocosCreator\resources\app.asar\editor\page\project-scripts.js
+- D:\Game_Work\CocosCreator\resources\app.asar\editor\page\scene-utils\lib\sandbox.js
+- D:\Game_Work\CocosCreator\resources\app.asar\editor\page\scene-utils\edit-mode\index.js
+- D:\Game_Work\CocosCreator\resources\app.asar\editor\page\scene-utils\index.js
+- D:\Game_Work\CocosCreator\resources\app.asar\editor-framework\lib\renderer\editor.js
+- D:\Game_Work\CocosCreator\resources\app.asar\editor-framework\lib\renderer\index.js
+- D:\Game_Work\CocosCreator\resources\app.asar\editor-framework\renderer.js
+- D:\Game_Work\CocosCreator\resources\app.asar\editor\index.html
+    at Module._resolveFilename (internal/modules/cjs/loader.js:683:15)
+    at Function.Module._resolveFilename [as _resolveFilenameVendor] (D:\Game_Work\CocosCreator\resources\electron.asar\common\reset-search-paths.js:43:12)
+    at Function.s._resolveFilename (D:\Game_Work\CocosCreator\resources\app.asar\editor\page\project-scripts.js:1:941)
+    at Function.Module._load (internal/modules/cjs/loader.js:601:27)
+    at Module.require (internal/modules/cjs/loader.js:739:19)
+    at require (internal/modules/cjs/helpers.js:14:16)
+    at Object.cc.require (D:\Game_Work\CocosCreator\resources\app.asar\editor\page\project-scripts.js:1:589)
+    at __require (C:\Users\le\Desktop\cocos_creator\demo\cow\temp\quick-scripts\assets\scripts\game.js:1:347)
+    at __define (C:\Users\le\Desktop\cocos_creator\demo\cow\temp\quick-scripts\assets\scripts\game.js:7:17)
+    at C:\Users\le\Desktop\cocos_creator\demo\cow\temp\quick-scripts\assets\scripts\game.js:264:13
+2020-04-21T11:25:46.686Z - failed: load script [HttpUtils] failed : Error: Cannot find module 'HttpUtils'
+Require stack:
+- C:\Users\le\Desktop\cocos_creator\demo\cow\temp\quick-scripts\assets\scripts\game.js
+- D:\Game_Work\CocosCreator\resources\app.asar\editor\page\project-scripts.js
+- D:\Game_Work\CocosCreator\resources\app.asar\editor\page\scene-utils\lib\sandbox.js
+- D:\Game_Work\CocosCreator\resources\app.asar\editor\page\scene-utils\edit-mode\index.js
+- D:\Game_Work\CocosCreator\resources\app.asar\editor\page\scene-utils\index.js
+- D:\Game_Work\CocosCreator\resources\app.asar\editor-framework\lib\renderer\editor.js
+- D:\Game_Work\CocosCreator\resources\app.asar\editor-framework\lib\renderer\index.js
+- D:\Game_Work\CocosCreator\resources\app.asar\editor-framework\renderer.js
+- D:\Game_Work\CocosCreator\resources\app.asar\editor\index.html
+    at Module._resolveFilename (internal/modules/cjs/loader.js:683:15)
+    at Function.Module._resolveFilename [as _resolveFilenameVendor] (D:\Game_Work\CocosCreator\resources\electron.asar\common\reset-search-paths.js:43:12)
+    at Function.s._resolveFilename (D:\Game_Work\CocosCreator\resources\app.asar\editor\page\project-scripts.js:1:941)
+    at Function.Module._load (internal/modules/cjs/loader.js:601:27)
+    at Module.require (internal/modules/cjs/loader.js:739:19)
+    at require (internal/modules/cjs/helpers.js:14:16)
+    at Object.cc.require (D:\Game_Work\CocosCreator\resources\app.asar\editor\page\project-scripts.js:1:589)
+    at __require (C:\Users\le\Desktop\cocos_creator\demo\cow\temp\quick-scripts\assets\scripts\game.js:1:347)
+    at __define (C:\Users\le\Desktop\cocos_creator\demo\cow\temp\quick-scripts\assets\scripts\game.js:7:17)
+    at C:\Users\le\Desktop\cocos_creator\demo\cow\temp\quick-scripts\assets\scripts\game.js:264:13
+2020-04-21T11:29:03.765Z - normal: Start building with options : {
+  "actualPlatform": "wechatgame",
+  "android": {
+    "packageName": ""
+  },
+  "android-instant": {
+    "REMOTE_SERVER_ROOT": "",
+    "host": "",
+    "packageName": "",
+    "pathPattern": "",
+    "recordPath": "",
+    "scheme": "https",
+    "skipRecord": false
+  },
+  "apiLevel": "",
+  "appABIs": [],
+  "appBundle": false,
+  "buildPath": "C:\\Users\\le\\Desktop\\cocos_creator\\demo\\cow\\build",
+  "debug": false,
+  "dest": "C:\\Users\\le\\Desktop\\cocos_creator\\demo\\cow\\build\\wechatgame",
+  "embedWebDebugger": false,
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [],
+  "fb-instant-games": {},
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "ios": {
+    "packageName": ""
+  },
+  "mac": {
+    "packageName": ""
+  },
+  "md5Cache": false,
+  "mergeStartScene": false,
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "",
+  "platform": "mini-game",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "scenes": [
+    "833b82b4-271e-4b1c-9565-f0a66971ed83"
+  ],
+  "sourceMaps": false,
+  "startScene": "833b82b4-271e-4b1c-9565-f0a66971ed83",
+  "template": "link",
+  "title": "cow",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "auto",
+  "win32": {},
+  "xxteaKey": "4f22970e-5e0f-4b",
+  "zipCompressJs": true,
+  "project": "C:\\Users\\le\\Desktop\\cocos_creator\\demo\\cow",
+  "projectName": "cow",
+  "debugBuildWorker": false
+}
+2020-04-21T11:29:03.766Z - normal: Building C:\Users\le\Desktop\cocos_creator\demo\cow
+2020-04-21T11:29:03.766Z - normal: Destination C:\Users\le\Desktop\cocos_creator\demo\cow\build\wechatgame
+2020-04-21T11:29:03.767Z - normal: Delete C:\Users\le\Desktop\cocos_creator\demo\cow\build\wechatgame\**\*,C:\Users\le\Desktop\cocos_creator\demo\cow\build\wechatgame\subpackages/**/*,!C:\Users\le\Desktop\cocos_creator\demo\cow\build\wechatgame\game.json,!C:\Users\le\Desktop\cocos_creator\demo\cow\build\wechatgame\project.config.json
+2020-04-21T11:29:07.293Z - normal: Start building assets
+2020-04-21T11:29:07.294Z - normal: Start spawn build-worker
+2020-04-21T11:29:09.927Z - normal: Finish spawn build-worker
+2020-04-21T11:29:09.928Z - normal: Start init build-worker
+2020-04-21T11:29:18.492Z - normal: Finish init build-worker
+2020-04-21T11:29:18.492Z - normal: Start build-assets in worker
+2020-04-21T11:29:20.084Z - normal: Finish build-assets in worker
+2020-04-21T11:29:20.141Z - normal: Finish building assets
+2020-04-21T11:29:20.228Z - normal: Start building plugin scripts
+2020-04-21T11:29:28.780Z - normal: Built wechatgame successfully
+2020-04-21T11:31:06.535Z - normal: Start building with options : {
+  "actualPlatform": "wechatgame",
+  "android": {
+    "packageName": ""
+  },
+  "android-instant": {
+    "REMOTE_SERVER_ROOT": "",
+    "host": "",
+    "packageName": "",
+    "pathPattern": "",
+    "recordPath": "",
+    "scheme": "https",
+    "skipRecord": false
+  },
+  "apiLevel": "",
+  "appABIs": [],
+  "appBundle": false,
+  "buildPath": "C:\\Users\\le\\Desktop\\cocos_creator\\demo\\cow\\build",
+  "debug": false,
+  "dest": "C:\\Users\\le\\Desktop\\cocos_creator\\demo\\cow\\build\\wechatgame",
+  "embedWebDebugger": false,
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [],
+  "fb-instant-games": {},
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "ios": {
+    "packageName": ""
+  },
+  "mac": {
+    "packageName": ""
+  },
+  "md5Cache": false,
+  "mergeStartScene": false,
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "",
+  "platform": "mini-game",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "scenes": [
+    "833b82b4-271e-4b1c-9565-f0a66971ed83"
+  ],
+  "sourceMaps": false,
+  "startScene": "833b82b4-271e-4b1c-9565-f0a66971ed83",
+  "template": "link",
+  "title": "cow",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "auto",
+  "win32": {},
+  "xxteaKey": "4f22970e-5e0f-4b",
+  "zipCompressJs": true,
+  "project": "C:\\Users\\le\\Desktop\\cocos_creator\\demo\\cow",
+  "projectName": "cow",
+  "debugBuildWorker": false
+}
+2020-04-21T11:31:06.536Z - normal: Building C:\Users\le\Desktop\cocos_creator\demo\cow
+2020-04-21T11:31:06.536Z - normal: Destination C:\Users\le\Desktop\cocos_creator\demo\cow\build\wechatgame
+2020-04-21T11:31:06.538Z - normal: Delete C:\Users\le\Desktop\cocos_creator\demo\cow\build\wechatgame\**\*,C:\Users\le\Desktop\cocos_creator\demo\cow\build\wechatgame\subpackages/**/*,!C:\Users\le\Desktop\cocos_creator\demo\cow\build\wechatgame\game.json,!C:\Users\le\Desktop\cocos_creator\demo\cow\build\wechatgame\project.config.json
+2020-04-21T11:31:17.380Z - normal: Start building assets
+2020-04-21T11:31:17.381Z - normal: Start spawn build-worker
+2020-04-21T11:31:20.132Z - normal: Finish spawn build-worker
+2020-04-21T11:31:20.132Z - normal: Start init build-worker
+2020-04-21T11:31:23.320Z - normal: Finish init build-worker
+2020-04-21T11:31:23.321Z - normal: Start build-assets in worker
+2020-04-21T11:31:25.371Z - normal: Finish build-assets in worker
+2020-04-21T11:31:25.419Z - normal: Finish building assets
+2020-04-21T11:31:25.581Z - normal: Start building plugin scripts
+2020-04-21T11:31:33.473Z - normal: Built wechatgame successfully
